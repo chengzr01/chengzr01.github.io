@@ -15,9 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Zirui Cheng
         </a>
       </header>
+      chengzr19@mails.tsinghua.edu.cn
     </div>
   );
 }
