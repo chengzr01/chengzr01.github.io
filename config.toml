@@ -14,7 +14,7 @@ theme = "hugo-initio"
     avatarclass = "circle"
     background = ""
     banner = "images/background_header.png"
-    favicon = "images/background_header.png"
+    favicon = ""
     DateForm = "July 1, 2023"
     author = "Sergey Pozhilov (GetTemplate.com)"
 
