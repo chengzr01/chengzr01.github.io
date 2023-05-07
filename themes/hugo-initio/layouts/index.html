@@ -1,0 +1,46 @@
+{{ define "main"}}
+  <main id="main">
+
+    <div class="container">
+  
+      {{ if .Site.Params.showSubheader }}
+        {{ partial "home/subheader.html" . }}
+      {{ end }}
+      
+        {{ range .Site.Sections }}
+            {{ range .Sections.ByWeight }}
+                {{ $stype := .Type}}
+                {{ if (or (and (eq $stype "service") (.Site.Params.showServices))
+                          (and (eq $stype "education") (.Site.Params.showEducation))
+                          (and (eq $stype "recentwork") (.Site.Params.showRecentWorks))
+                          (and (eq $stype "download") (.Site.Params.showDownloads))
+                          (eq $stype "single")) }}
+
+                     <div class="row section featured topspace">
+                       <h2 class="section-title">
+                         <span>{{.Title}}</span>
+                       </h2>
+                     {{ if eq $stype "service" }}
+                       {{ partial "home/services.html" . }}
+
+                     {{ else if eq $stype "education" }}
+                       {{ partial "home/education.html" . }}
+
+                     {{ else if eq $stype "recentwork" }}
+                       {{ partial "home/recentworks.html" . }}
+å
+                     {{ else if eq $stype "download" }}
+                       {{ partial "home/download.html" . }}
+
+                     {{ else if eq $stype "single"  }}
+                       {{ partial "home/single.html" . }}
+
+                     {{ end }}
+                </div>	<!-- /section -->
+              {{ end }}
+            {{ end }}
+        {{ end }}
+    </div>	<!-- /container -->
+  </main>
+
+{{ end }}
