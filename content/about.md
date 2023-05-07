@@ -1,6 +1,6 @@
 +++
 menu = "main"
-title = "About"
+Title = "Photos"
 type = "about"
 weight = 10
 +++

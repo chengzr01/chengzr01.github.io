@@ -20,7 +20,6 @@ theme = "hugo-initio"
 
     showSubheader = true
     showServices = false
-    showEducation = false
     showRecentWorks = false
     showDownloads = false
     showClients = false
