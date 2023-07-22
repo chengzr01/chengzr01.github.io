@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+/* @font-face {
+  font-family: Libertine;
+  src: url("./Assets/Fonts/Libertine/LinLibertine_R.otf");
+} */
+
+body {
+  margin: 0;
+  /* font-family: 'Libertine', serif !important; */
+  font-family: "Lato", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35)); */
+  background-image: linear-gradient(
+    to left,
+    rgb(255, 255, 255),
+    rgb(255, 255, 255)
+  );
+}
