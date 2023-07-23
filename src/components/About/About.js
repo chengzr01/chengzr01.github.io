@@ -47,7 +47,6 @@ function About() {
 
         <Github />
       </Container> */}
-      I will put something interesting here!
     </Container>
   );
 }
