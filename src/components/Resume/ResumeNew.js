@@ -27,7 +27,7 @@ function ResumeNew() {
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
-            &nbsp;Download CV
+            &nbsp;Download
           </Button>
         </Row>
 
@@ -40,13 +40,44 @@ function ResumeNew() {
         <Container>
           <Row style={{ padding: "10px" }}>
             <h4 style={{ textAlign: "left" }}>
-              <b>Recent Footsteps</b>
+              <b>Education</b>
             </h4>
+            <hr class="dotted"></hr>
+            {/* <ul>
+              <li></li>
+            </ul> */}
             <br />
             <br />
             <h4 style={{ textAlign: "left" }}>
-              <b>Personal Moments</b>
+              <b>Research Interest</b>
             </h4>
+            <hr class="dotted"></hr>
+            <br />
+            <br />
+            <h4 style={{ textAlign: "left" }}>
+              <b>Publications</b>
+            </h4>
+            <hr class="dotted"></hr>
+            <br />
+            <br />
+            <h4 style={{ textAlign: "left" }}>
+              <b>Research Experience</b>
+            </h4>
+            <hr class="dotted"></hr>
+            <br />
+            <br />
+            <h4 style={{ textAlign: "left" }}>
+              <b>Honors</b>
+            </h4>
+            <hr class="dotted"></hr>
+            <br />
+            <br />
+            <h4 style={{ textAlign: "left" }}>
+              <b>Skills</b>
+            </h4>
+            <hr class="dotted"></hr>
+            <br />
+            <br />
           </Row>
         </Container>
       </Container>

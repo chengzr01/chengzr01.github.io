@@ -75,10 +75,8 @@ function Home2() {
               Assistant at Carnegie Mellon University, University of Califorlia
               San Diego, and Tsinghua University. */}
               <br />
-              Please find more information in my curriculum vitae.
-              {/* {" "} */}
-              {/* <a href={"/curriculum_vitae"}>curriculum vitae</a>*/}
-              <br></br>
+              Please find more information in my{" "}
+              <a href={"/curriculum_vitae"}>curriculum vitae</a>.<br></br>
               <br></br>
               <Card className="info-card">
                 <Card.Text>
