@@ -66,14 +66,16 @@ function Home2() {
               <i>economics and finance</i>.
               <br />
               My research focuses on designing and building AI-infused systems
-              for <i>real-world</i> use. I draw on approaches from <b>H</b>
+              for human-facing tasks. I draw on approaches from <b>H</b>
               uman-<b>C</b>
               omputer <b>I</b>
               nteraction, <b>A</b>rtificial <b>I</b>ntelligence, and <b>S</b>
               oftware <b>E</b>ngineering.
               <br />
-              Please find more information in my{" "}
-              <a href={"/curriculum_vitae"}>curriculum vitae</a>.<br></br>
+              Please find more information in my curriculum vitae.
+              {/* {" "} */}
+              {/* <a href={"/curriculum_vitae"}>curriculum vitae</a>*/}
+              <br></br>
               <br></br>
               <Card className="info-card">
                 <Card.Text>

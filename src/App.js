@@ -17,7 +17,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App" id={"scroll"}>
         <Navbar />
         <ScrollToTop />
