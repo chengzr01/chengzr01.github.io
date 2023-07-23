@@ -83,7 +83,7 @@ function Home2() {
               </Card>
               <br></br>
               <h4>
-                <b>Activities</b>
+                <b>Updates</b>
               </h4>
               <ul>
                 <li>

@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col, Card } from "react-bootstrap";
 import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
@@ -16,6 +16,14 @@ function About() {
             <b>Recent Footsteps</b>
           </h4>
           <hr class="dotted"></hr>
+          <p style={{ textAlign: "left" }}>
+            <i>
+              "If you are lucky enough to have lived in Paris as a young man,
+              then wherever you go for the rest of your life, it stays with you,
+              for Paris is a movable feast."
+            </i>{" "}
+          </p>
+          <p style={{ textAlign: "right" }}>- Ernest Hemingway, 1950.</p>
           <br />
           <br />
           <h4 style={{ textAlign: "left" }}>
