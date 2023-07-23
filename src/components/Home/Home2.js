@@ -61,9 +61,7 @@ function Home2() {
               <a href={"https://www.tsinghua.edu.cn/en/"}>
                 Tsinghua University
               </a>
-              . I am expected to graduate in June, 2024 with a bachelor degree
-              in <i>computer science and technology</i> and{" "}
-              <i>economics and finance</i>.
+              , expected to graduate in June, 2024.
               <br />
               My research focuses on designing and building AI-infused systems
               for human-facing tasks. I draw on approaches from <b>H</b>
@@ -71,9 +69,6 @@ function Home2() {
               omputer <b>I</b>
               nteraction, <b>A</b>rtificial <b>I</b>ntelligence, and <b>S</b>
               oftware <b>E</b>ngineering.
-              {/* I have been working as an Research
-              Assistant at Carnegie Mellon University, University of Califorlia
-              San Diego, and Tsinghua University. */}
               <br />
               Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>

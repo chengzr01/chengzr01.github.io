@@ -19,7 +19,7 @@ function ResumeNew() {
     <div>
       <Container fluid className="resume-section">
         <Particle />
-        <Row style={{ justifyContent: "center", position: "relative" }}>
+        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="text"
             href={pdf}
@@ -29,7 +29,7 @@ function ResumeNew() {
             <AiOutlineDownload />
             &nbsp;Download
           </Button>
-        </Row>
+        </Row> */}
 
         {/* <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
@@ -64,6 +64,19 @@ function ResumeNew() {
               <b>Research Experience</b>
             </h4>
             <hr class="dotted"></hr>
+            {/* <ul>
+              <li>
+                Carnegie Mellon University, Human-Computer Interaction Institute
+              </li>
+              <li>
+                University of Califorlia San Diego, Halıcıoğlu Data Science
+                Institute
+              </li>
+              <li>
+                Tsinghua University, Department of Computer Science and
+                Technology
+              </li>
+            </ul> */}
             <br />
             <br />
             <h4 style={{ textAlign: "left" }}>

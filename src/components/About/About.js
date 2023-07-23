@@ -15,11 +15,13 @@ function About() {
           <h4 style={{ textAlign: "left" }}>
             <b>Recent Footsteps</b>
           </h4>
+          <hr class="dotted"></hr>
           <br />
           <br />
           <h4 style={{ textAlign: "left" }}>
             <b>Personal Moments</b>
           </h4>
+          <hr class="dotted"></hr>
         </Row>
       </Container>
     </Container>

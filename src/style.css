@@ -617,6 +617,7 @@ button:focus {
   padding-bottom: 30px !important;
   padding-left: 300px !important;
   padding-right: 300px !important;
+  text-align: left;
   background-image: var(--section-background-color) !important;
   /* color: white !important; */
 }
@@ -624,7 +625,7 @@ button:focus {
 .resume {
   padding-top: 50px;
   padding-bottom: 50px;
-  justify-content: center;
+  /* justify-content: center; */
 }
 
 .resume-left {
