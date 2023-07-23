@@ -76,10 +76,15 @@ function Home2() {
               San Diego, and Tsinghua University. */}
               <br />
               Please find more information in my{" "}
-              <a href={"https://chengzr01.github.io/curriculum_vitae"}>
+              <Nav.Link
+                as={Link}
+                to="/curriculum_vitae"
+                onClick={() => updateExpanded(false)}
+              >
                 curriculum vitae
-              </a>
-              .<br></br>
+              </Nav.Link>
+              .{/* <a href={"/curriculum_vitae"}>curriculum vitae</a>. */}
+              <br></br>
               <br></br>
               <Card className="info-card">
                 <Card.Text>
