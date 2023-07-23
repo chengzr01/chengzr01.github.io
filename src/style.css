@@ -322,7 +322,7 @@ button:focus {
   padding-bottom: 70px !important;
   padding-top: 70px !important;
   padding-left: 70px !important;
-  padding-right: 100px !important;
+  padding-right: 70px !important;
 }
 
 .home-about-description {
@@ -555,8 +555,10 @@ button:focus {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
+  padding-left: 70px !important;
+  padding-right: 70px !important;
   background-image: var(--section-background-color) !important;
-  color: white !important;
+  /* color: white !important; */
 }
 
 .tech-icons {
@@ -615,8 +617,10 @@ button:focus {
   position: relative !important;
   padding-top: 110px !important;
   padding-bottom: 30px !important;
+  padding-left: 70px !important;
+  padding-right: 70px !important;
   background-image: var(--section-background-color) !important;
-  color: white !important;
+  /* color: white !important; */
 }
 
 .resume {

@@ -36,6 +36,19 @@ function ResumeNew() {
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
         </Row> */}
+
+        <Container>
+          <Row style={{ padding: "10px" }}>
+            <h4 style={{ textAlign: "left" }}>
+              <b>Recent Footsteps</b>
+            </h4>
+            <br />
+            <br />
+            <h4 style={{ textAlign: "left" }}>
+              <b>Personal Moments</b>
+            </h4>
+          </Row>
+        </Container>
       </Container>
     </div>
   );
