@@ -70,7 +70,9 @@ function Home2() {
               uman-<b>C</b>
               omputer <b>I</b>
               nteraction, <b>A</b>rtificial <b>I</b>ntelligence, and <b>S</b>
-              oftware <b>E</b>ngineering.
+              oftware <b>E</b>ngineering. I have been working as an Research
+              Assistant at Carnegie Mellon University, University of Califorlia
+              San Diego, and Tsinghua University.
               <br />
               Please find more information in my curriculum vitae.
               {/* {" "} */}
