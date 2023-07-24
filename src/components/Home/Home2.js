@@ -87,12 +87,12 @@ function Home2() {
               </h4>
               <ul>
                 <li>
-                  (July, 2023) Attended{" "}
+                  (<i>July, 2023</i>) Attended{" "}
                   <a href={"https://dis.acm.org/2023/"}>DIS 2023</a> in
                   Pittsburgh, Pennsylvania, USA.
                 </li>
                 <li>
-                  (April, 2023) Attended{" "}
+                  (<i>April, 2023</i>) Attended{" "}
                   <a href={"https://chi2023.acm.org/"}>CHI 2023</a> in Hamburg,
                   Germany.
                 </li>

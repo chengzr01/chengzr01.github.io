@@ -43,52 +43,220 @@ function ResumeNew() {
               <b>Education</b>
             </h4>
             <hr class="dotted"></hr>
-            {/* <ul>
-              <li></li>
-            </ul> */}
+            <table>
+              <tr>
+                <td
+                  style={{
+                    width: "80%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>
+                      <b>Tsinghua University</b>
+                      <ul>
+                        <li>
+                          B.E. Computer Science and Technology, 2024 (expected)
+                        </li>
+                        <li>B.E. Economics and Finance, 2024 (expected)</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </td>
+                <td
+                  style={{
+                    width: "20%",
+                    textAlign: "right",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <i>Beijing, China</i>
+                </td>
+              </tr>
+            </table>
             <br />
             <br />
             <h4 style={{ textAlign: "left" }}>
               <b>Research Interest</b>
             </h4>
             <hr class="dotted"></hr>
+            <table>
+              <tr>
+                <td
+                  style={{
+                    width: "100%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>
+                      Human-AI Interaction, Privacy and Security, Ubiquitous
+                      Computing.
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
             <br />
             <br />
             <h4 style={{ textAlign: "left" }}>
-              <b>Publications</b>
+              <b>Publication</b>
             </h4>
             <hr class="dotted"></hr>
+            <table>
+              <tr>
+                <td
+                  style={{
+                    width: "100%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>
+                      <b>
+                        Modeling the Trade-off of Privacy Preservation and
+                        Activity Recognition on Low-Resolution Images
+                      </b>
+                      <br />
+                      Yuntao Wang*, <u>Zirui Cheng</u>*, Xin Yi, Yan Kong,
+                      Xueyang Wang, Xuhai Xu, Yukang Yan, Chun Yu, Shwetak
+                      Patel, Yuanchun Shi. (<i>CHI'23</i>)
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
             <br />
             <br />
             <h4 style={{ textAlign: "left" }}>
               <b>Research Experience</b>
             </h4>
             <hr class="dotted"></hr>
-            {/* <ul>
-              <li>
-                Carnegie Mellon University, Human-Computer Interaction Institute
-              </li>
-              <li>
-                University of Califorlia San Diego, Halıcıoğlu Data Science
-                Institute
-              </li>
-              <li>
-                Tsinghua University, Department of Computer Science and
-                Technology
-              </li>
-            </ul> */}
+            <table>
+              <tr>
+                <td
+                  style={{
+                    width: "80%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>Carnegie Mellon University</li>
+                  </ul>
+                </td>
+                <td
+                  style={{
+                    width: "20%",
+                    textAlign: "right",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <i>Pittsburgh, PA, USA</i>
+                </td>
+              </tr>
+              <tr>
+                <td
+                  style={{
+                    width: "80%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>University of Califorlia, San Diego</li>
+                  </ul>
+                </td>
+                <td
+                  style={{
+                    width: "20%",
+                    textAlign: "right",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <i>La Jolla, CA, USA</i>
+                </td>
+              </tr>
+              <tr>
+                <td
+                  style={{
+                    width: "80%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>SenseTime Technology</li>
+                  </ul>
+                </td>
+                <td
+                  style={{
+                    width: "20%",
+                    textAlign: "right",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <i>Beijing, China</i>
+                </td>
+              </tr>
+              <tr>
+                <td
+                  style={{
+                    width: "80%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>Tsinghua University</li>
+                  </ul>
+                </td>
+                <td
+                  style={{
+                    width: "20%",
+                    textAlign: "right",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <i>Beijing, China</i>
+                </td>
+              </tr>
+            </table>
             <br />
             <br />
             <h4 style={{ textAlign: "left" }}>
               <b>Honors</b>
             </h4>
             <hr class="dotted"></hr>
-            <br />
-            <br />
-            <h4 style={{ textAlign: "left" }}>
-              <b>Skills</b>
-            </h4>
-            <hr class="dotted"></hr>
+            <table>
+              <tr>
+                <td
+                  style={{
+                    width: "100%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>
+                      (<i>October, 2022</i>) Social Service Excellence
+                      Scholarship, Tsinghua Univeristy
+                    </li>
+                    <li>
+                      (<i>October, 2021</i>) Academic Excellence Scholarship,
+                      Tsinghua Univeristy
+                    </li>
+                    <li>
+                      (<i>October, 2020</i>) Comprehensive Excellence
+                      Scholarship (top 10%), Tsinghua Univeristy
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
             <br />
             <br />
           </Row>
