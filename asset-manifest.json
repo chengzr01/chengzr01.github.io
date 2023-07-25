@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.d831122b.css",
-    "main.js": "/static/js/main.b0ee4ba8.js",
+    "main.js": "/static/js/main.d10bb34d.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.7ac9876373242ae5daed.png",
+    "static/media/privacy.pdf": "/static/media/privacy.010c8580da685426b261.pdf",
+    "static/media/privacy.png": "/static/media/privacy.ccd9f6d57011887b3427.png",
     "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
@@ -12,15 +14,15 @@
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/resume.pdf": "/static/media/resume.7f5bd0c4565ef85ebeab.pdf",
+    "static/media/resume.pdf": "/static/media/resume.19541e0b525645921ca7.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "index.html": "/index.html",
     "main.d831122b.css.map": "/static/css/main.d831122b.css.map",
-    "main.b0ee4ba8.js.map": "/static/js/main.b0ee4ba8.js.map",
+    "main.d10bb34d.js.map": "/static/js/main.d10bb34d.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d831122b.css",
-    "static/js/main.b0ee4ba8.js"
+    "static/js/main.d10bb34d.js"
   ]
 }
