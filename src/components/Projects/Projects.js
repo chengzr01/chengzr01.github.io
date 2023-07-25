@@ -1,16 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "./ProjectCards";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
 import privacy_picture from "../../Assets/Projects/privacy.png";
 import privacy_paper from "../../Assets/Projects/privacy.pdf";
 import Card from "react-bootstrap/Card";
-import Button from "react-bootstrap/Button";
 
 function Projects() {
   return (

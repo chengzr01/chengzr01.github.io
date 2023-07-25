@@ -19,7 +19,6 @@ function ResumeNew() {
     <div>
       <Container fluid className="resume-section">
         <Particle />
-
         {/* <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
@@ -31,7 +30,7 @@ function ResumeNew() {
             <h4 style={{ textAlign: "left" }}>
               <b>Education</b>
             </h4>
-            <hr class="dotted"></hr>
+            <hr></hr>
             <table>
               <tr>
                 <td
@@ -72,7 +71,7 @@ function ResumeNew() {
             <h4 style={{ textAlign: "left" }}>
               <b>Research Interest</b>
             </h4>
-            <hr class="dotted"></hr>
+            <hr></hr>
             <table>
               <tr>
                 <td
@@ -96,7 +95,7 @@ function ResumeNew() {
             <h4 style={{ textAlign: "left" }}>
               <b>Publication</b>
             </h4>
-            <hr class="dotted"></hr>
+            <hr></hr>
             <table>
               <tr>
                 <td
@@ -126,7 +125,7 @@ function ResumeNew() {
             <h4 style={{ textAlign: "left" }}>
               <b>Research Experience</b>
             </h4>
-            <hr class="dotted"></hr>
+            <hr></hr>
             <table>
               <tr>
                 <td
@@ -244,7 +243,7 @@ function ResumeNew() {
             <h4 style={{ textAlign: "left" }}>
               <b>Honors</b>
             </h4>
-            <hr class="dotted"></hr>
+            <hr></hr>
             <table>
               <tr>
                 <td
