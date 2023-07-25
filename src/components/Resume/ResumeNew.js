@@ -19,17 +19,6 @@ function ResumeNew() {
     <div>
       <Container fluid className="resume-section">
         <Particle />
-        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button
-            variant="text"
-            href={pdf}
-            target="_blank"
-            style={{ maxWidth: "250px" }}
-          >
-            <AiOutlineDownload />
-            &nbsp;Download
-          </Button>
-        </Row> */}
 
         {/* <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
@@ -57,9 +46,10 @@ function ResumeNew() {
                       <b>Tsinghua University</b>
                       <ul>
                         <li>
-                          B.E. Computer Science and Technology, 2024 (expected)
+                          B.E. in <i>Computer Science and Technology</i> &{" "}
+                          <i>Economics and Finance</i>
                         </li>
-                        <li>B.E. Economics and Finance, 2024 (expected)</li>
+                        <li>GPA: 3.87/4.00</li>
                       </ul>
                     </li>
                   </ul>
@@ -72,6 +62,8 @@ function ResumeNew() {
                   }}
                 >
                   <i>Beijing, China</i>
+                  <br />
+                  <i>2024 (expected)</i>
                 </td>
               </tr>
             </table>
@@ -145,7 +137,12 @@ function ResumeNew() {
                   }}
                 >
                   <ul>
-                    <li>Carnegie Mellon University</li>
+                    <li>
+                      <b>Carnegie Mellon University</b>
+                      <br />
+                      Human-Computer Interaction Institute, Advisor: Kenneth
+                      Holstein
+                    </li>
                   </ul>
                 </td>
                 <td
@@ -156,6 +153,7 @@ function ResumeNew() {
                   }}
                 >
                   <i>Pittsburgh, PA, USA</i>
+                  <br /> <i>2023</i>
                 </td>
               </tr>
               <tr>
@@ -167,7 +165,11 @@ function ResumeNew() {
                   }}
                 >
                   <ul>
-                    <li>University of Califorlia, San Diego</li>
+                    <li>
+                      <b>University of Califorlia, San Diego</b>
+                      <br /> Halıcıoğlu Data Science Institute, Advisor: Haojian
+                      Jin
+                    </li>
                   </ul>
                 </td>
                 <td
@@ -178,6 +180,7 @@ function ResumeNew() {
                   }}
                 >
                   <i>La Jolla, CA, USA</i>
+                  <br /> <i>2023</i>
                 </td>
               </tr>
               <tr>
@@ -189,7 +192,11 @@ function ResumeNew() {
                   }}
                 >
                   <ul>
-                    <li>SenseTime Technology</li>
+                    <li>
+                      <b>SenseTime Technology</b>
+                      <br />
+                      Natural Language Processing Group
+                    </li>
                   </ul>
                 </td>
                 <td
@@ -200,6 +207,7 @@ function ResumeNew() {
                   }}
                 >
                   <i>Beijing, China</i>
+                  <br /> <i>2022</i>
                 </td>
               </tr>
               <tr>
@@ -211,7 +219,12 @@ function ResumeNew() {
                   }}
                 >
                   <ul>
-                    <li>Tsinghua University</li>
+                    <li>
+                      <b>Tsinghua University</b>
+                      <br />
+                      Department of Computer Science and Technology, Advisor:
+                      Yuntao Wang
+                    </li>
                   </ul>
                 </td>
                 <td
@@ -222,6 +235,7 @@ function ResumeNew() {
                   }}
                 >
                   <i>Beijing, China</i>
+                  <br /> <i>2022</i>
                 </td>
               </tr>
             </table>
@@ -259,6 +273,17 @@ function ResumeNew() {
             </table>
             <br />
             <br />
+          </Row>
+          <Row style={{ justifyContent: "center", position: "relative" }}>
+            <Button
+              variant="text"
+              href={pdf}
+              target="_blank"
+              style={{ maxWidth: "250px" }}
+            >
+              <AiOutlineDownload />
+              &nbsp;Download
+            </Button>
           </Row>
         </Container>
       </Container>

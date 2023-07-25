@@ -7,6 +7,8 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import privacy_picture from "../../Assets/Projects/privacy.png";
+import privacy_paper from "../../Assets/Projects/privacy.pdf";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
@@ -19,27 +21,42 @@ function Projects() {
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={12} className="project-card">
-            {/* <Card className="project-card-view">
+            <Card className="project-card-view">
               <Container>
                 <Row
                   style={{ justifyContent: "center", paddingBottom: "10px" }}
                 >
                   <Col md={2}>
-                    <Card.Img variant="top" src={chatify} alt="card-img" />
+                    <Card.Img
+                      variant="top"
+                      src={privacy_picture}
+                      alt="card-img"
+                    />
                   </Col>
                   <Col md={10}>
                     <Card.Body>
                       <Card.Title style={{ textAlign: "left" }}>
-                        Modeling the Trade-off of Privacy Presearvation and
-                        Activity Recognition on Low-Resolution Images
+                        <b>
+                          Modeling the Trade-off of Privacy Presearvation and
+                          Activity Recognition on Low-Resolution Images
+                        </b>
                       </Card.Title>
                       <Card.Text style={{ textAlign: "left" }}>
                         Yuntao Wang*,{" "}
                         <u>
                           <b>Zirui Cheng</b>
                         </u>
-                        *, etc. <i>(CHI'23)</i>
-                        <br />
+                        *, Xin Yi, Yan Kong, Xueyang Wang, Xuhai Xu, Yukang Yan,
+                        Chun Yu, Shwetak Patel, Yuanchun Shi. <i>(CHI'23)</i>
+                        <br />[
+                        <a href={privacy_paper} target="_blank">
+                          Paper
+                        </a>
+                        ] [
+                        <a href="https://www.youtube.com/watch?v=QVe-tPDPT18">
+                          Video
+                        </a>
+                        ]
                       </Card.Text>
                       {"\n"}
                       {"\n"}
@@ -47,7 +64,7 @@ function Projects() {
                   </Col>
                 </Row>
               </Container>
-            </Card> */}
+            </Card>
           </Col>
         </Row>
         <p>* indicates co-first authorship.</p>
