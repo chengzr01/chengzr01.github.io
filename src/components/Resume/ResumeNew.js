@@ -93,7 +93,7 @@ function ResumeNew() {
             <br />
             <br />
             <h4 style={{ textAlign: "left" }}>
-              <b>Publication</b>
+              <b>Publications</b>
             </h4>
             <hr></hr>
             <table>

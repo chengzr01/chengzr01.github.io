@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d831122b.css",
-    "main.js": "/static/js/main.b035b9e6.js",
+    "main.js": "/static/js/main.2d8ba0fd.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Aba.jpg": "/static/media/Aba.2918e899cf3e695a659c.jpg",
     "static/media/Interlaken.jpg": "/static/media/Interlaken.62151c1ee8e10f4a4168.jpg",
@@ -14,11 +14,11 @@
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "index.html": "/index.html",
     "main.d831122b.css.map": "/static/css/main.d831122b.css.map",
-    "main.b035b9e6.js.map": "/static/js/main.b035b9e6.js.map",
+    "main.2d8ba0fd.js.map": "/static/js/main.2d8ba0fd.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d831122b.css",
-    "static/js/main.b035b9e6.js"
+    "static/js/main.2d8ba0fd.js"
   ]
 }
