@@ -3,6 +3,7 @@ import { Container, Row, Col, Card } from "react-bootstrap";
 import Zurich from "../../Assets/Misc/Zurich.jpg";
 import Luzern from "../../Assets/Misc/Luzern.jpg";
 import Interlaken from "../../Assets/Misc/Interlaken.jpg";
+import Aba from "../../Assets/Misc/Aba.jpg";
 
 function About() {
   return (
@@ -24,42 +25,23 @@ function About() {
         </Row>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4}>
-            <Card style={{ padding: 10 }}>
-              <Container>
-                <Card.Img style={{ padding: 10 }} src={Zurich} />
-                <Card.Text>
-                  <i>Zürich</i>
-                </Card.Text>
-              </Container>
+            <Card style={{ padding: 0, border: 0 }}>
+              <Card.Img src={Zurich} />
             </Card>
           </Col>
           <Col md={4}>
-            <Card style={{ padding: 10 }}>
-              <Container>
-                <Card.Img style={{ padding: 10 }} src={Luzern} />
-                <Card.Text>
-                  <i>Lucerne</i>
-                </Card.Text>
-              </Container>
+            <Card style={{ padding: 0, border: 0 }}>
+              <Card.Img src={Luzern} />
             </Card>
           </Col>
           <Col md={4}>
-            <Card style={{ padding: 10 }}>
-              <Container>
-                <Card.Img style={{ padding: 10 }} src={Interlaken} />
-                <Card.Text>
-                  <i>Interlaken</i>
-                </Card.Text>
-              </Container>
+            <Card style={{ padding: 0, border: 0 }}>
+              <Card.Img src={Aba} />
             </Card>
           </Col>
         </Row>
         <br />
         <br />
-        {/* <h4 style={{ textAlign: "left" }}>
-            <b>Personal Moments</b>
-          </h4>
-          <hr></hr> */}
       </Container>
     </Container>
   );

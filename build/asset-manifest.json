@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.d831122b.css",
-    "main.js": "/static/js/main.66427f13.js",
+    "main.js": "/static/js/main.57e81219.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Interlaken.jpg": "/static/media/Interlaken.62151c1ee8e10f4a4168.jpg",
     "static/media/avatar.png": "/static/media/avatar.7ac9876373242ae5daed.png",
     "static/media/privacy.pdf": "/static/media/privacy.010c8580da685426b261.pdf",
     "static/media/privacy.png": "/static/media/privacy.ccd9f6d57011887b3427.png",
@@ -12,11 +13,11 @@
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "index.html": "/index.html",
     "main.d831122b.css.map": "/static/css/main.d831122b.css.map",
-    "main.66427f13.js.map": "/static/js/main.66427f13.js.map",
+    "main.57e81219.js.map": "/static/js/main.57e81219.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d831122b.css",
-    "static/js/main.66427f13.js"
+    "static/js/main.57e81219.js"
   ]
 }
