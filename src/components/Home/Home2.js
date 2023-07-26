@@ -63,8 +63,9 @@ function Home2() {
               </a>
               , expected to graduate in June, 2024.
               <br />
-              My research focuses on designing and building AI-infused systems
-              for human-facing tasks. I draw on approaches from <b>H</b>
+              My research focuses on designing, building, and evaluating
+              AI-infused systems for human-facing tasks. I draw on approaches
+              from <b>H</b>
               uman-<b>C</b>
               omputer <b>I</b>
               nteraction, <b>A</b>rtificial <b>I</b>ntelligence, and <b>S</b>
