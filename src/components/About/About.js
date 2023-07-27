@@ -15,16 +15,14 @@ function About() {
           </h4>
           <hr></hr>
         </Row>
-        <Carousel>
+        <Carousel fade>
           <Carousel.Item>
             <Card style={{ padding: 10, border: 0 }}>
               <Card.Img src={Zurich_tower} />
             </Card>
             <Carousel.Caption>
               <h4>
-                <i>
-                  <b>Zurich, 2023</b>
-                </i>
+                <b>Zürich, 2023</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
@@ -34,9 +32,7 @@ function About() {
             </Card>
             <Carousel.Caption>
               <h4>
-                <i>
-                  <b>Luzern, 2023</b>
-                </i>
+                <b>Luzern, 2023</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
@@ -46,9 +42,7 @@ function About() {
             </Card>
             <Carousel.Caption>
               <h4>
-                <i>
-                  <b>Geneva, 2023</b>
-                </i>
+                <b>Genève, 2023</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>

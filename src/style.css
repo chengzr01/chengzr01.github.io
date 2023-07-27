@@ -18,6 +18,10 @@ html {
   color: var(--imp-text-color) !important;
 }
 
+.carousel-caption {
+  text-shadow: 1px 1px 2px black;
+}
+
 button:focus {
   box-shadow: none !important;
 }
