@@ -1,9 +1,9 @@
 import React from "react";
-import { Container, Row, Col, Card } from "react-bootstrap";
-import Zurich from "../../Assets/Misc/Zurich.jpg";
+import Carousel from "react-bootstrap/Carousel";
+import { Container, Row, Card } from "react-bootstrap";
+import Zurich_tower from "../../Assets/Misc/Zurich_tower.jpg";
 import Luzern from "../../Assets/Misc/Luzern.jpg";
-import Interlaken from "../../Assets/Misc/Interlaken.jpg";
-import Aba from "../../Assets/Misc/Aba.jpg";
+import Geneva from "../../Assets/Misc/Geneva.jpg";
 
 function About() {
   return (
@@ -14,34 +14,55 @@ function About() {
             <b>Recent Footsteps</b>
           </h4>
           <hr></hr>
-          <p style={{ textAlign: "left" }}>
-            <i>
-              "If you are lucky enough to have lived in Paris as a young man,
-              then wherever you go for the rest of your life, it stays with you,
-              for Paris is a movable feast."
-            </i>{" "}
-          </p>
-          <p style={{ textAlign: "right" }}>- Ernest Hemingway, 1950.</p>
         </Row>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4}>
-            <Card style={{ padding: 0, border: 0 }}>
-              <Card.Img src={Zurich} />
+        <Carousel>
+          <Carousel.Item>
+            <Card style={{ padding: 10, border: 0 }}>
+              <Card.Img src={Zurich_tower} />
             </Card>
-          </Col>
-          <Col md={4}>
-            <Card style={{ padding: 0, border: 0 }}>
+            <Carousel.Caption>
+              <h4>
+                <i>
+                  <b>Zurich, 2023</b>
+                </i>
+              </h4>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <Card style={{ padding: 10, border: 0 }}>
               <Card.Img src={Luzern} />
             </Card>
-          </Col>
-          <Col md={4}>
-            <Card style={{ padding: 0, border: 0 }}>
-              <Card.Img src={Aba} />
+            <Carousel.Caption>
+              <h4>
+                <i>
+                  <b>Luzern, 2023</b>
+                </i>
+              </h4>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <Card style={{ padding: 10, border: 0 }}>
+              <Card.Img src={Geneva} />
             </Card>
-          </Col>
-        </Row>
+            <Carousel.Caption>
+              <h4>
+                <i>
+                  <b>Geneva, 2023</b>
+                </i>
+              </h4>
+            </Carousel.Caption>
+          </Carousel.Item>
+        </Carousel>
         <br />
         <br />
+        <p style={{ textAlign: "left" }}>
+          <i>
+            "If you are lucky enough to have lived in Paris as a young man, then
+            wherever you go for the rest of your life, it stays with you, for
+            Paris is a movable feast."
+          </i>{" "}
+        </p>
+        <p style={{ textAlign: "right" }}>- Ernest Hemingway, 1950.</p>
       </Container>
     </Container>
   );

@@ -91,13 +91,13 @@ function Projects() {
             TreeQuestion: Assessing Conceptual Learning Outcomes with
             LLM-Generated Multiple-Choice Questions
           </b>{" "}
-          (<i>as first author</i>)
+          (<i>as the leading author</i>)
           <br />
           <b>
             TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language
             Modeling Likewise
           </b>{" "}
-          (<i>as co-author</i>)
+          (<i>as a supporting author</i>)
         </p>
         <p
           style={{
