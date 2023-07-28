@@ -24,7 +24,6 @@ function ResumeNew() {
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
         </Row> */}
-
         <Container>
           <Row style={{ padding: "10px" }}>
             <h4 style={{ textAlign: "left" }}>
@@ -83,7 +82,8 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      Human-AI Interaction, Software Engineering, Privacy and Security.
+                      Human-AI Interaction, Software Engineering, Privacy and
+                      Security.
                     </li>
                   </ul>
                 </td>
