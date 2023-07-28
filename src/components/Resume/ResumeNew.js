@@ -83,7 +83,7 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      Human-AI Interaction, Privacy and Security, Software Engineering.
+                      Human-AI Interaction, Software Engineering, Privacy and Security.
                     </li>
                   </ul>
                 </td>

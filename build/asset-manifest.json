@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9d03f501.css",
-    "main.js": "/static/js/main.8f6a977b.js",
+    "main.js": "/static/js/main.241c4306.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Geneva.jpg": "/static/media/Geneva.e73b2bfe0011642ca39b.jpg",
     "static/media/avatar.png": "/static/media/avatar.7ac9876373242ae5daed.png",
@@ -9,15 +9,15 @@
     "static/media/privacy.png": "/static/media/privacy.ccd9f6d57011887b3427.png",
     "static/media/Luzern.jpg": "/static/media/Luzern.0ac31ac411332ec06b2f.jpg",
     "static/media/Zurich_tower.jpg": "/static/media/Zurich_tower.65f62f4c68a865a47c23.jpg",
-    "static/media/resume.pdf": "/static/media/resume.b3c54d11c605fa98c6c9.pdf",
+    "static/media/resume.pdf": "/static/media/resume.f79e74a1ba4d9f064e13.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "index.html": "/index.html",
     "main.9d03f501.css.map": "/static/css/main.9d03f501.css.map",
-    "main.8f6a977b.js.map": "/static/js/main.8f6a977b.js.map",
+    "main.241c4306.js.map": "/static/js/main.241c4306.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d03f501.css",
-    "static/js/main.8f6a977b.js"
+    "static/js/main.241c4306.js"
   ]
 }
