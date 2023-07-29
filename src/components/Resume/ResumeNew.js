@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/../Assets/resume.pdf";
+import pdf from "../../Assets/Resume/resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -254,16 +254,16 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      (<i>October, 2022</i>) Social Service Excellence
-                      Scholarship, Tsinghua Univeristy
+                      2022, Social Service Excellence Scholarship, Tsinghua
+                      Univeristy
                     </li>
                     <li>
-                      (<i>October, 2021</i>) Academic Excellence Scholarship,
+                      2021, Academic Performance Excellence Scholarship,
                       Tsinghua Univeristy
                     </li>
                     <li>
-                      (<i>October, 2020</i>) Comprehensive Excellence
-                      Scholarship (top 10%), Tsinghua Univeristy
+                      2020, Comprehensive Excellence Scholarship (top 10%),
+                      Tsinghua Univeristy
                     </li>
                   </ul>
                 </td>
