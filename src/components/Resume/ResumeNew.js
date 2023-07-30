@@ -44,10 +44,16 @@ function ResumeNew() {
                       <b>Tsinghua University</b>
                       <ul>
                         <li>
-                          B.E. in <i>Computer Science and Technology</i> &{" "}
-                          <i>Economics and Finance</i>
+                          B.E. in <i>Computer Science and Technology (major)</i>{" "}
+                          and <i>Economics and Finance (minor)</i>, GPA:
+                          3.87/4.00.
                         </li>
-                        <li>GPA: 3.87/4.00</li>
+                        <li>
+                          Courses: Software Engineering (A), Cybersecurity
+                          Fundamentals (A), Artificial Neural Networks (A),
+                          Database Management System (A), Principles of Politics
+                          (A+), Introductory Psychology (A-).
+                        </li>
                       </ul>
                     </li>
                   </ul>
@@ -61,7 +67,7 @@ function ResumeNew() {
                 >
                   <i>Beijing, China</i>
                   <br />
-                  <i>2024 (expected)</i>
+                  <i>2024</i>
                 </td>
               </tr>
             </table>

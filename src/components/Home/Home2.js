@@ -1,6 +1,11 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { AiOutlineTwitter, AiFillInstagram } from "react-icons/ai";
+import {
+  AiOutlineTwitter,
+  AiFillInstagram,
+  AiFillLinkedin,
+} from "react-icons/ai";
+import { SiGooglescholar } from "react-icons/si";
 import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 import Card from "react-bootstrap/Card";
@@ -28,7 +33,18 @@ function Home2() {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
+                      href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="icon-colour home-social-icons"
+                    >
+                      <SiGooglescholar />
+                    </a>
+                  </li>
+                  <li className="social-icons">
+                    <a
                       href="https://twitter.com/Zirui_Cheng_"
+                      target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
                     >
@@ -37,7 +53,18 @@ function Home2() {
                   </li>
                   <li className="social-icons">
                     <a
+                      href="https://www.linkedin.com/in/%E5%AD%90%E7%9D%BF-%E7%A8%8B-044024284/"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="icon-colour home-social-icons"
+                    >
+                      <AiFillLinkedin />
+                    </a>
+                  </li>
+                  <li className="social-icons">
+                    <a
                       href="https://www.instagram.com/cheng_zirui"
+                      target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"
                     >
@@ -77,9 +104,8 @@ function Home2() {
               <Card className="info-card">
                 <Card.Text>
                   I am looking for <b>a Ph.D. position</b> in Human-Computer
-                  Interaction or Software Engineering starting from{" "}
-                  <b>2024 Fall</b>! Please feel free to drop me a line via email
-                  if you are interested!
+                  Interaction starting from <b>2024 Fall</b>! Please feel free
+                  to drop me a line via email if you are interested!
                 </Card.Text>
               </Card>
               <br></br>
