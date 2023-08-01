@@ -132,7 +132,7 @@ function ResumeNew() {
             </h4>
             <hr></hr>
             <table>
-              {/* <tr>
+              <tr>
                 <td
                   style={{
                     width: "80%",
@@ -159,7 +159,7 @@ function ResumeNew() {
                   <i>Pittsburgh, PA, USA</i>
                   <br /> <i>2023</i>
                 </td>
-              </tr> */}
+              </tr>
               <tr>
                 <td
                   style={{
