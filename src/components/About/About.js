@@ -23,7 +23,7 @@ function About() {
             </Card>
             <Carousel.Caption>
               <h4>
-                <b>La Jolla, 2023</b>
+                <b>San Diego, 2023</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
