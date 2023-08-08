@@ -4,6 +4,7 @@ import { Container, Row, Card } from "react-bootstrap";
 import Zurich_tower from "../../Assets/Misc/Zurich_tower.jpg";
 import Luzern from "../../Assets/Misc/Luzern.jpg";
 import Geneva from "../../Assets/Misc/Geneva.jpg";
+import SanDiego from "../../Assets/Misc/SanDiego.jpg";
 
 function About() {
   return (
@@ -16,6 +17,16 @@ function About() {
           <hr></hr>
         </Row>
         <Carousel fade>
+          <Carousel.Item>
+            <Card style={{ padding: 10, border: 0 }}>
+              <Card.Img src={SanDiego} />
+            </Card>
+            <Carousel.Caption>
+              <h4>
+                <b>La Jolla, 2023</b>
+              </h4>
+            </Carousel.Caption>
+          </Carousel.Item>
           <Carousel.Item>
             <Card style={{ padding: 10, border: 0 }}>
               <Card.Img src={Zurich_tower} />
