@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.7)  30 JUL 2023 12:43
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.7)  10 AUG 2023 12:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1025,14 +1025,13 @@ Overfull \hbox (25.39546pt too wide) in alignment at lines 6--18
 [] [] 
  []
 
-)
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 105.
+(Font)              scaled to size 8.0pt on input line 18.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;" at 8.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
- [1
+[1
 
-] (./resume.aux) ) 
+]) [2] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
  41664 strings out of 476919
  846272 string characters out of 5821841
@@ -1042,4 +1041,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  127i,11n,140p,641b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (1 page).
+Output written on resume.pdf (2 pages).
