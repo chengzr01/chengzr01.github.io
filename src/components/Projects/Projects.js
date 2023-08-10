@@ -72,7 +72,7 @@ function Projects() {
             </Container>
           </Card>
         </Row>
-        <h4
+        {/* <h4
           style={{
             justifyContent: "center",
             paddingTop: "10px",
@@ -87,7 +87,7 @@ function Projects() {
             paddingBottom: "10px",
           }}
         >
-          {/* <b>
+          <b>
             TreeQuestion: Assessing Conceptual Learning Outcomes with
             LLM-Generated Multiple-Choice Questions
           </b>{" "}
@@ -97,8 +97,8 @@ function Projects() {
             TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language
             Modeling Likewise
           </b>{" "}
-          (<i>as a supporting author</i>) */}
-        </p>
+          (<i>as a supporting author</i>)
+        </p> */}
         <p
           style={{
             justifyContent: "center",
