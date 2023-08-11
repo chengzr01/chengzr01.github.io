@@ -555,7 +555,7 @@ button:focus {
 
 .about-section {
   position: relative !important;
-  padding-top: 110px !important;
+  padding-top: 150px !important;
   padding-bottom: 30px !important;
   padding-left: 300px !important;
   padding-right: 300px !important;
@@ -611,13 +611,20 @@ button:focus {
     padding-top: 0 !important;
   }
 }
+
+.miscellaneous-heading {
+  color: white !important;
+  font-size: 2.3em !important;
+  font-weight: 500 !important;
+  padding-top: 10px !important;
+}
 /* --------- */
 /* Resume */
 /* --------- */
 
 .resume-section {
   position: relative !important;
-  padding-top: 110px !important;
+  padding-top: 150px !important;
   padding-bottom: 30px !important;
   padding-left: 300px !important;
   padding-right: 300px !important;
@@ -630,6 +637,13 @@ button:focus {
   padding-top: 50px;
   padding-bottom: 50px;
   /* justify-content: center; */
+}
+
+.resume-heading {
+  color: white !important;
+  font-size: 2.3em !important;
+  font-weight: 500 !important;
+  padding-top: 10px !important;
 }
 
 .resume-left {

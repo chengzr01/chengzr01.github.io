@@ -10,6 +10,9 @@ function About() {
   return (
     <Container fluid className="about-section">
       <Container>
+        <h1 className="miscellaneous-heading" style={{ textAlign: "center" }}>
+          <strong className="purple"> Miscellaneous </strong>
+        </h1>
         <Row style={{ padding: "10px" }}>
           <h4 style={{ textAlign: "left" }}>
             <b>Recent Footsteps</b>
@@ -18,7 +21,12 @@ function About() {
         </Row>
         <Carousel fade>
           <Carousel.Item>
-            <Card style={{ padding: 10, border: 0 }}>
+            <Card
+              style={{
+                padding: 10,
+                border: 0,
+              }}
+            >
               <Card.Img src={SanDiego} />
             </Card>
             <Carousel.Caption>
@@ -62,9 +70,10 @@ function About() {
         <br />
         <p style={{ textAlign: "left" }}>
           <i>
-            "If you are lucky enough to have lived in Paris as a young man, then
-            wherever you go for the rest of your life, it stays with you, for
-            Paris is a movable feast."
+            "If you are lucky enough to have lived in{" "}
+            <font color="gray">Paris</font> as a young man, then wherever you go
+            for the rest of your life, it stays with you, for{" "}
+            <font color="gray">Paris</font> is a movable feast."
           </i>{" "}
         </p>
         <p style={{ textAlign: "right" }}>- Ernest Hemingway, 1950.</p>

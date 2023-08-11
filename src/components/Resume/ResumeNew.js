@@ -18,6 +18,9 @@ function ResumeNew() {
   return (
     <div>
       <Container fluid className="resume-section">
+        <h1 className="resume-heading" style={{ textAlign: "center" }}>
+          <strong className="purple"> Curriculum Vitae </strong>
+        </h1>
         <Particle />
         {/* <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
@@ -44,11 +47,9 @@ function ResumeNew() {
                       <b>Tsinghua University</b>
                       <ul>
                         <li>
-                          B.E. in <i>Computer Science and Technology (major)</i>{" "}
-                          and <i>Economics and Finance (minor)</i>, GPA:
-                          3.87/4.00.
-                        </li>
-                        <li>
+                          B.E. in <i>Computer Science and Technology</i> and{" "}
+                          <i>Economics and Finance</i> (GPA: 3.87/4.00).
+                          <br />
                           Courses: Software Engineering (A), Cybersecurity
                           Fundamentals (A), Artificial Neural Networks (A),
                           Database Management System (A), Principles of Politics

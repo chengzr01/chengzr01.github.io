@@ -53,7 +53,7 @@ function Home2() {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/%E5%AD%90%E7%9D%BF-%E7%A8%8B-044024284/"
+                      href="https://www.linkedin.com/in/zirui-cheng-044024284/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"
@@ -104,8 +104,9 @@ function Home2() {
               <Card className="info-card">
                 <Card.Text>
                   I am looking for <b>a Ph.D. position</b> in Human-Computer
-                  Interaction starting from <b>2024 Fall</b>! Please feel free
-                  to drop me a line via email if you are interested!
+                  Interaction or Software Engineering starting from{" "}
+                  <b>2024 Fall</b>! Please feel free to drop me a line via email
+                  if you are interested!
                 </Card.Text>
               </Card>
               <br></br>
