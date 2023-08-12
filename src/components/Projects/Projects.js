@@ -72,7 +72,7 @@ function Projects() {
             </Container>
           </Card>
         </Row>
-        {/* <h4
+        <h4
           style={{
             justifyContent: "center",
             paddingTop: "10px",
@@ -98,7 +98,7 @@ function Projects() {
             Modeling Likewise
           </b>{" "}
           (<i>as a supporting author</i>)
-        </p> */}
+        </p>
         <p
           style={{
             justifyContent: "center",

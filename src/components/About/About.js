@@ -68,7 +68,7 @@ function About() {
         </Carousel>
         <br />
         <br />
-        <p style={{ textAlign: "left" }}>
+        <p name="footstep" style={{ textAlign: "left" }}>
           <i>
             "If you are lucky enough to have lived in{" "}
             <font color="gray">Paris</font> as a young man, then wherever you go
