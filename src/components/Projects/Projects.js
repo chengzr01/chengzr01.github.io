@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import privacy_picture from "../../Assets/Projects/privacy.png";
-import privacy_paper from "../../Assets/Projects/privacy.pdf";
+import privacy_paper from "../../Assets/Projects/CHI'23.pdf";
 import Card from "react-bootstrap/Card";
 
 function Projects() {

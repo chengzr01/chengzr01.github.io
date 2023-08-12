@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.7)  10 AUG 2023 12:35
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.7)  12 AUG 2023 12:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -958,15 +958,16 @@ Overfull \hbox (1.82501pt too wide) in paragraph at lines 87--87
 []$[]$ $[]$$[]$ 
  []
 
-(./cv/education.tex
+(./cv/research_interests.tex
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
 Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 16.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 35.
+(Font)              scaled to size 10.0pt on input line 7.
 Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
+) (./cv/education.tex
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sl' in size <9> not available
 (Font)              Font shape `TU/LinLibertine(0)/m/it' tried instead on input line 35.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
@@ -985,7 +986,7 @@ LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 35.
 Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
-) (./cv/research_interests.tex) (./cv/publications.tex
+) (./cv/publications.tex
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 6.0pt
