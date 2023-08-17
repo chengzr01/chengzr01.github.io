@@ -88,7 +88,7 @@ function Home2() {
               <a href={"https://www.tsinghua.edu.cn/en/"}>
                 Tsinghua University
               </a>
-              , expected to graduate in June, 2024.
+              , expected to graduate in June, 2024. During my undergraduate life, I have been greatly fortunate to work with <a href={"http://shift-3.com/"}>Haojian Jin</a> at University of California at San Diego and <a href={"https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/"}>Yuntao Wang</a> at Tsinghua University.
               <br />
               My research focuses on <b>designing</b>, <b>building</b>, and{" "}
               <b>evaluating</b> AI-infused systems for human-facing tasks. I
@@ -96,9 +96,7 @@ function Home2() {
               uman-<b>C</b>
               omputer <b>I</b>
               nteraction, <b>A</b>rtificial <b>I</b>ntelligence, and <b>S</b>
-              oftware <b>E</b>ngineering.
-              <br />
-              Please find more information in my{" "}
+              oftware <b>E</b>ngineering. Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
               <br></br>
               <Card className="info-card">
