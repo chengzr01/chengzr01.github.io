@@ -99,13 +99,10 @@ function Home2() {
               </a>{" "}
               at Tsinghua University.
               <br />
-              My research focuses on <b>designing</b>, <b>building</b>, and{" "}
-              <b>evaluating</b> AI-infused systems for human-facing tasks. I
-              draw on approaches from <b>H</b>
-              uman-<b>C</b>
-              omputer <b>I</b>
-              nteraction, <b>A</b>rtificial <b>I</b>ntelligence, and <b>S</b>
-              oftware <b>E</b>ngineering. Please find more information in my{" "}
+              My research focuses on designing, developing, and evaluating
+              AI-infused systems for human-facing tasks. I draw on approaches
+              from Human-Computer Interaction, Artificial Intelligence, and
+              Software Engineering. Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
               <br></br>
               <h4>
