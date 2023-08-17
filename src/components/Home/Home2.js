@@ -80,7 +80,7 @@ function Home2() {
               <h4>
                 <b>About</b>
               </h4>
-              I am an undergraduate student in{" "}
+              I am an undergraduate student in the{" "}
               <a href={"https://www.cs.tsinghua.edu.cn/csen/"}>
                 Department of Computer Science and Technology
               </a>{" "}
@@ -88,7 +88,16 @@ function Home2() {
               <a href={"https://www.tsinghua.edu.cn/en/"}>
                 Tsinghua University
               </a>
-              , expected to graduate in June, 2024. During my undergraduate life, I have been greatly fortunate to work with <a href={"http://shift-3.com/"}>Haojian Jin</a> at University of California San Diego and <a href={"https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/"}>Yuntao Wang</a> at Tsinghua University.
+              , expected to graduate in June, 2024. During my undergraduate
+              life, I have been greatly fortunate to work with{" "}
+              <a href={"http://shift-3.com/"}>Haojian Jin</a> at University of
+              California San Diego and{" "}
+              <a
+                href={"https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/"}
+              >
+                Yuntao Wang
+              </a>{" "}
+              at Tsinghua University.
               <br />
               My research focuses on <b>designing</b>, <b>building</b>, and{" "}
               <b>evaluating</b> AI-infused systems for human-facing tasks. I
@@ -98,15 +107,6 @@ function Home2() {
               nteraction, <b>A</b>rtificial <b>I</b>ntelligence, and <b>S</b>
               oftware <b>E</b>ngineering. Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
-              <br></br>
-              <Card className="info-card">
-                <Card.Text>
-                  I am looking for <b>a Ph.D. position</b> in Human-Computer
-                  Interaction or Software Engineering starting from{" "}
-                  <b>2024 Fall</b>! Please feel free to drop me a line via email
-                  if you are interested!
-                </Card.Text>
-              </Card>
               <br></br>
               <h4>
                 <b>Updates</b>
@@ -123,6 +123,15 @@ function Home2() {
                   Germany.
                 </li>
               </ul>
+              <br></br>
+              <Card className="info-card">
+                <Card.Text>
+                  I am looking for <b>a Ph.D. position</b> in Human-Computer
+                  Interaction or Software Engineering starting from{" "}
+                  <b>2024 Fall</b>! Please feel free to drop me a line via email
+                  if you are interested!
+                </Card.Text>
+              </Card>
             </p>
           </Col>
         </Row>
