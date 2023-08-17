@@ -182,7 +182,7 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      <b>University of Califorlia, San Diego</b>
+                      <b>University of Califorlia San Diego</b>
                       <br /> Halıcıoğlu Data Science Institute, Advisor: Haojian
                       Jin
                     </li>

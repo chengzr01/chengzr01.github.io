@@ -88,7 +88,7 @@ function Home2() {
               <a href={"https://www.tsinghua.edu.cn/en/"}>
                 Tsinghua University
               </a>
-              , expected to graduate in June, 2024. During my undergraduate life, I have been greatly fortunate to work with <a href={"http://shift-3.com/"}>Haojian Jin</a> at University of California at San Diego and <a href={"https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/"}>Yuntao Wang</a> at Tsinghua University.
+              , expected to graduate in June, 2024. During my undergraduate life, I have been greatly fortunate to work with <a href={"http://shift-3.com/"}>Haojian Jin</a> at University of California San Diego and <a href={"https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/"}>Yuntao Wang</a> at Tsinghua University.
               <br />
               My research focuses on <b>designing</b>, <b>building</b>, and{" "}
               <b>evaluating</b> AI-infused systems for human-facing tasks. I
