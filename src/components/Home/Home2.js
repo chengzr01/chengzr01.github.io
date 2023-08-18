@@ -89,16 +89,6 @@ function Home2() {
                 Tsinghua University
               </a>
               , expected to graduate in June, 2024. 
-              {/* During my undergraduate
-              life, I have been greatly fortunate to work with{" "}
-              <a href={"http://shift-3.com/"}>Haojian Jin</a> at University of
-              California San Diego and{" "}
-              <a
-                href={"https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/"}
-              >
-                Yuntao Wang
-              </a>{" "}
-              at Tsinghua University. */}
               <br />
               My research focuses on designing, developing, and evaluating
               AI-infused systems for human-facing tasks. I am interested in
