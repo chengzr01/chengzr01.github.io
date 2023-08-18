@@ -100,9 +100,12 @@ function Home2() {
               at Tsinghua University.
               <br />
               My research focuses on designing, developing, and evaluating
-              AI-infused systems for human-facing tasks. I draw on approaches
-              from Human-Computer Interaction, Artificial Intelligence, and
-              Software Engineering. Please find more information in my{" "}
+              AI-infused systems for human-facing tasks. I am interested in
+              investigating and addressing the security and privacy problems of
+              AI-infused systems in various contexts. I draw on approaches from
+              Human-Computer Interaction, Artificial Intelligence, and Software
+              Engineering.
+              <br /> Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
               <br></br>
               <h4>
