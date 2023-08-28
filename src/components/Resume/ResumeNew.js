@@ -82,13 +82,8 @@ function ResumeNew() {
                       <b>Tsinghua University</b>
                       <ul>
                         <li>
-                          B.E. in <i>Computer Science and Technology</i> and{" "}
-                          <i>Economics and Finance</i>
-                          <br />
-                          Courses: Software Engineering (A), Cybersecurity
-                          Fundamentals (A), Artificial Neural Networks (A),
-                          Database Management System (A), Principles of Politics
-                          (A+), Introductory Psychology (A-).
+                          B.E. in <b>Computer Science and Technology</b> and{" "}
+                          <b>Economics and Finance</b>
                         </li>
                       </ul>
                     </li>

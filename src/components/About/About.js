@@ -66,7 +66,7 @@ function About() {
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
-        <br />
+        {/* <br />
         <br />
         <p name="footstep" style={{ textAlign: "left" }}>
           <i>
@@ -76,7 +76,7 @@ function About() {
             <font color="gray">Paris</font> is a movable feast."
           </i>{" "}
         </p>
-        <p style={{ textAlign: "right" }}>- Ernest Hemingway, 1950.</p>
+        <p style={{ textAlign: "right" }}>- Ernest Hemingway, 1950.</p> */}
       </Container>
     </Container>
   );
