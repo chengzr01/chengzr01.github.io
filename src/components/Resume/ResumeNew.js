@@ -82,8 +82,8 @@ function ResumeNew() {
                       <b>Tsinghua University</b>
                       <ul>
                         <li>
-                          B.E. in <b>Computer Science and Technology</b> and{" "}
-                          <b>Economics and Finance</b>
+                          B.E. in Computer Science and Technology, Economics and
+                          Finance
                         </li>
                       </ul>
                     </li>

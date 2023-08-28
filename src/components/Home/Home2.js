@@ -88,7 +88,7 @@ function Home2() {
               <a href={"https://www.tsinghua.edu.cn/en/"}>
                 Tsinghua University
               </a>
-              , expected to graduate in June, 2024. 
+              , expected to graduate in June, 2024.
               <br />
               My research focuses on designing, developing, and evaluating
               AI-infused systems for human-facing tasks. I am interested in
@@ -117,10 +117,9 @@ function Home2() {
               <br></br>
               <Card className="info-card">
                 <Card.Text>
-                  I am looking for <b>a Ph.D. position</b> in Human-Computer
-                  Interaction or Software Engineering starting from{" "}
-                  <b>2024 Fall</b>! Please feel free to drop me a line via email
-                  if you are interested!
+                  📢 I am looking for <b>a Ph.D. position</b> in Software
+                  Engineering or Human-Computer Interaction starting from{" "}
+                  <b>2024 Fall</b>!
                 </Card.Text>
               </Card>
             </p>
