@@ -83,7 +83,7 @@ function ResumeNew() {
                       <ul>
                         <li>
                           B.E. in <i>Computer Science and Technology</i> and{" "}
-                          <i>Economics and Finance</i> (GPA: 3.87/4.00).
+                          <i>Economics and Finance</i>
                           <br />
                           Courses: Software Engineering (A), Cybersecurity
                           Fundamentals (A), Artificial Neural Networks (A),
