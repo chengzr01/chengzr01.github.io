@@ -23,7 +23,7 @@ function Home2() {
               <br /> <span className="purple"> Zirui Cheng </span>
             </p>
             <p style={{ fontSize: "1.8em" }}>
-              <span className="purple"> 程子睿 [tsɿʐui tʂʰəŋ] </span>
+              <span className="purple"> 程子睿 [tʂʰəŋ tsɿʐui] </span>
             </p>
             <p style={{ fontSize: "1.2em" }}>
               <span className="purple"> chengzr19@mails.tsinghua.edu.cn </span>
