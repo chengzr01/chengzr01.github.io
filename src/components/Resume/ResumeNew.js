@@ -41,30 +41,6 @@ function ResumeNew() {
         <Container>
           <Row style={{ padding: "10px" }}>
             <h4 style={{ textAlign: "left" }}>
-              <b>Research Interest</b>
-            </h4>
-            <hr></hr>
-            <table>
-              <tr>
-                <td
-                  style={{
-                    width: "100%",
-                    textAlign: "left",
-                    verticalAlign: "top",
-                  }}
-                >
-                  <ul>
-                    <li>
-                      Human-Computer Interaction, Software Engineering, Privacy
-                      and Security.
-                    </li>
-                  </ul>
-                </td>
-              </tr>
-            </table>
-            <br />
-            <br />
-            <h4 style={{ textAlign: "left" }}>
               <b>Education</b>
             </h4>
             <hr></hr>
@@ -99,6 +75,30 @@ function ResumeNew() {
                   <i>Beijing, China</i>
                   <br />
                   <i>2024</i>
+                </td>
+              </tr>
+            </table>
+            <br />
+            <br />
+            <h4 style={{ textAlign: "left" }}>
+              <b>Interest</b>
+            </h4>
+            <hr></hr>
+            <table>
+              <tr>
+                <td
+                  style={{
+                    width: "100%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>
+                      Human-Computer Interaction, Software Engineering, Privacy
+                      and Security.
+                    </li>
+                  </ul>
                 </td>
               </tr>
             </table>

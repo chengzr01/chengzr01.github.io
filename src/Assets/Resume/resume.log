@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.7)  12 AUG 2023 12:35
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.7)  30 AUG 2023 17:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -958,35 +958,34 @@ Overfull \hbox (1.82501pt too wide) in paragraph at lines 87--87
 []$[]$ $[]$$[]$ 
  []
 
-(./cv/research_interests.tex
+(./cv/education.tex
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
 Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 16.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 7.
+(Font)              scaled to size 10.0pt on input line 23.
 Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
-) (./cv/education.tex
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sl' in size <9> not available
-(Font)              Font shape `TU/LinLibertine(0)/m/it' tried instead on input line 35.
+(Font)              Font shape `TU/LinLibertine(0)/m/it' tried instead on input line 23.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 35.
+(Font)              scaled to size 9.0pt on input line 23.
 Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sl' in size <8> not available
-(Font)              Font shape `TU/LinLibertine(0)/m/it' tried instead on input line 35.
+(Font)              Font shape `TU/LinLibertine(0)/m/it' tried instead on input line 23.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 35.
+(Font)              scaled to size 8.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 35.
+(Font)              scaled to size 9.0pt on input line 23.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 35.
+(Font)              scaled to size 9.0pt on input line 23.
 Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
-) (./cv/publications.tex
+) (./cv/research_interests.tex) (./cv/publications.tex
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 6.0pt
@@ -1026,20 +1025,21 @@ Overfull \hbox (25.39546pt too wide) in alignment at lines 6--18
 [] [] 
  []
 
+)
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 18.
+(Font)              scaled to size 8.0pt on input line 105.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;" at 8.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
-[1
+ [1
 
-]) [2] (./resume.aux) ) 
+] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
  41664 strings out of 476919
  846272 string characters out of 5821841
- 1323828 words of memory out of 5000000
+ 1322828 words of memory out of 5000000
  61011 multiletter control sequences out of 15000+600000
  407987 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  127i,11n,140p,641b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (2 pages).
+Output written on resume.pdf (1 page).

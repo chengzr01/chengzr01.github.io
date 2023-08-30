@@ -95,8 +95,7 @@ function Home2() {
               investigating and addressing the security and privacy problems of
               AI-infused systems in various contexts. I draw on approaches from
               Human-Computer Interaction, Artificial Intelligence, and Software
-              Engineering.
-              <br /> Please find more information in my{" "}
+              Engineering. Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
               <br></br>
               <h4>
