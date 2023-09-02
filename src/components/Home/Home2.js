@@ -23,7 +23,7 @@ function Home2() {
               <br /> <span className="purple"> Zirui Cheng </span>
             </p>
             <p style={{ fontSize: "1.8em" }}>
-              <span className="purple"> 程子睿 [tʂʰəŋ tsɿʐui] </span>
+              <span className="purple"> [tsɿʐui tʂʰəŋ] 程子睿 </span>
             </p>
             <p style={{ fontSize: "1.2em" }}>
               <span className="purple"> chengzr19@mails.tsinghua.edu.cn </span>
@@ -91,9 +91,7 @@ function Home2() {
               , expected to graduate in June, 2024.
               <br />
               My research focuses on designing, developing, and evaluating
-              AI-infused systems for human-facing tasks. I am interested in
-              investigating and addressing the security and privacy problems of
-              AI-infused systems in various contexts. I draw on approaches from
+              AI-enabled systems for human-facing tasks. I draw on approaches from
               Human-Computer Interaction, Artificial Intelligence, and Software
               Engineering. Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
