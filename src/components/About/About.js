@@ -5,6 +5,7 @@ import Zurich_tower from "../../Assets/Misc/Zurich_tower.jpg";
 import Luzern from "../../Assets/Misc/Luzern.jpg";
 import Geneva from "../../Assets/Misc/Geneva.jpg";
 import SanDiego from "../../Assets/Misc/SanDiego.jpg";
+import Pittsburgh from "../../Assets/Misc/Pittsburgh.jpg"
 
 function About() {
   return (
@@ -32,6 +33,21 @@ function About() {
             <Carousel.Caption>
               <h4>
                 <b>San Diego, 2023</b>
+              </h4>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <Card
+              style={{
+                padding: 10,
+                border: 0,
+              }}
+            >
+              <Card.Img src={Pittsburgh} />
+            </Card>
+            <Carousel.Caption>
+              <h4>
+                <b>Pittsburgh, 2023</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
@@ -66,17 +82,6 @@ function About() {
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
-        {/* <br />
-        <br />
-        <p name="footstep" style={{ textAlign: "left" }}>
-          <i>
-            "If you are lucky enough to have lived in{" "}
-            <font color="gray">Paris</font> as a young man, then wherever you go
-            for the rest of your life, it stays with you, for{" "}
-            <font color="gray">Paris</font> is a movable feast."
-          </i>{" "}
-        </p>
-        <p style={{ textAlign: "right" }}>- Ernest Hemingway, 1950.</p> */}
       </Container>
     </Container>
   );

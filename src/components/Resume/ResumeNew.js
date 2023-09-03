@@ -177,6 +177,32 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
+                      <b>Carnegie Mellon Univeristy</b>
+                      <br /> Human-Computer Interaction Institute, Advisor: Kenneth Holstein
+                    </li>
+                  </ul>
+                </td>
+                <td
+                  style={{
+                    width: "20%",
+                    textAlign: "right",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <i>Pittsburgh, PA, USA</i>
+                  <br /> <i>2023</i>
+                </td>
+              </tr>
+              <tr>
+                <td
+                  style={{
+                    width: "80%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>
                       <b>University of Califorlia San Diego</b>
                       <br /> Halıcıoğlu Data Science Institute, Advisor: Haojian
                       Jin
