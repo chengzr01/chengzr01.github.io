@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbb7322f.css",
-    "main.js": "/static/js/main.7486f280.js",
+    "main.css": "/static/css/main.b6ee3b31.css",
+    "main.js": "/static/js/main.acc7e699.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Geneva.jpg": "/static/media/Geneva.e73b2bfe0011642ca39b.jpg",
+    "static/media/Pittsburgh.jpg": "/static/media/Pittsburgh.95e5b73beae035934669.jpg",
     "static/media/SanDiego.jpg": "/static/media/SanDiego.17c4cf574929ec8f8724.jpg",
     "static/media/avatar.png": "/static/media/avatar.7ac9876373242ae5daed.png",
     "static/media/CHI'23.pdf": "/static/media/CHI'23.010c8580da685426b261.pdf",
@@ -13,12 +14,12 @@
     "static/media/resume.pdf": "/static/media/resume.654928d62cce9f4258c8.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "index.html": "/index.html",
-    "main.fbb7322f.css.map": "/static/css/main.fbb7322f.css.map",
-    "main.7486f280.js.map": "/static/js/main.7486f280.js.map",
+    "main.b6ee3b31.css.map": "/static/css/main.b6ee3b31.css.map",
+    "main.acc7e699.js.map": "/static/js/main.acc7e699.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbb7322f.css",
-    "static/js/main.7486f280.js"
+    "static/css/main.b6ee3b31.css",
+    "static/js/main.acc7e699.js"
   ]
 }
