@@ -178,7 +178,8 @@ function ResumeNew() {
                   <ul>
                     <li>
                       <b>Carnegie Mellon Univeristy</b>
-                      <br /> Human-Computer Interaction Institute, Advisor: Kenneth Holstein
+                      <br /> Human-Computer Interaction Institute, Advisor:
+                      Kenneth Holstein
                     </li>
                   </ul>
                 </td>
@@ -301,12 +302,11 @@ function ResumeNew() {
                       Tsinghua Univeristy
                     </li>
                     <li>
-                      2020, <b>Comprehensive Excellence Scholarship</b> (top 10%),
+                      2020, Comprehensive Excellence Scholarship (top 10%),
                       Tsinghua Univeristy
                     </li>
                     <li>
-                      2019, Freshmen Scholarship,
-                      Tsinghua Univeristy
+                      2019, Freshmen Scholarship (top 10%), Tsinghua Univeristy
                     </li>
                   </ul>
                 </td>

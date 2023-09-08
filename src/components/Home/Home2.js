@@ -1,4 +1,5 @@
 import React from "react";
+import { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiOutlineTwitter,
@@ -11,6 +12,7 @@ import Tilt from "react-parallax-tilt";
 import Card from "react-bootstrap/Card";
 
 function Home2() {
+  const [nameHover, setNameHover] = useState(false);
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
@@ -23,7 +25,7 @@ function Home2() {
               <br /> <span className="purple"> Zirui Cheng </span>
             </p>
             <p style={{ fontSize: "1.8em" }}>
-              <span className="purple"> [tsɿʐui tʂʰəŋ] 程子睿 </span>
+              <span className="purple" > [tsɿʐui tʂʰəŋ] 程子睿 </span>
             </p>
             <p style={{ fontSize: "1.2em" }}>
               <span className="purple"> chengzr19@mails.tsinghua.edu.cn </span>
