@@ -25,7 +25,7 @@ function Home2() {
               <br /> <span className="purple"> Zirui Cheng </span>
             </p>
             <p style={{ fontSize: "1.8em" }}>
-              <span className="purple" > [tsɿʐui tʂʰəŋ] 程子睿 </span>
+              <span className="purple"> [tsɿʐui tʂʰəŋ] 程子睿 </span>
             </p>
             <p style={{ fontSize: "1.2em" }}>
               <span className="purple"> chengzr19@mails.tsinghua.edu.cn </span>
@@ -93,9 +93,9 @@ function Home2() {
               , expected to graduate in June, 2024.
               <br />
               My research focuses on designing, developing, and evaluating
-              AI-enabled systems for human-facing tasks. I draw on approaches from
-              Human-Computer Interaction, Artificial Intelligence, and Software
-              Engineering. Please find more information in my{" "}
+              AI-enabled systems for human-facing tasks. I draw on approaches
+              from Human-Computer Interaction, Artificial Intelligence, and
+              Software Engineering. Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
               <br></br>
               <h4>
@@ -103,12 +103,12 @@ function Home2() {
               </h4>
               <ul>
                 <li>
-                  (<i>July, 2023</i>) I will be attending{" "}
+                  (July, 2023) I will be attending{" "}
                   <a href={"https://dis.acm.org/2023/"}>DIS 2023</a> in
                   Pittsburgh, PA, USA.
                 </li>
                 <li>
-                  (<i>April, 2023</i>) I will be attending{" "}
+                  (April, 2023) I will be attending{" "}
                   <a href={"https://chi2023.acm.org/"}>CHI 2023</a> in Hamburg,
                   Germany.
                 </li>
