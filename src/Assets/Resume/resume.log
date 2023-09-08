@@ -816,4 +816,230 @@ LaTeX Font Info:    ... okay on input line 82.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
 LaTeX Font Info:    ... okay on input line 82.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX F
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 82.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(39.83368pt, 517.84052pt, 39.83368pt)
+* v-part:(T,H,B)=(22.76228pt, 771.06952pt, 51.21504pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=517.84052pt
+* \textheight=771.06952pt
+* \oddsidemargin=-32.43631pt
+* \evensidemargin=-32.43631pt
+* \topmargin=-86.5077pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 82.
+Requested font "[latinmodern-math.otf]/OT" at 10.94997pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+Requested font "[latinmodern-math.otf]/OT" at 10.95003pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 10.95003pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 10.95pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 82.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 82.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 82.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 82.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 82.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 82.
+Package hyperref Info: Link coloring OFF on input line 82.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count336
+)
+LaTeX Info: Redefining \ref on input line 82.
+LaTeX Info: Redefining \pageref on input line 82.
+LaTeX Info: Redefining \nameref on input line 82.
+\headertextwidth=\skip84
+\headerphotowidth=\skip85
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" at 7.665pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 5.475pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+Requested font "cmmi10" at 10.95pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+Requested font "cmmi7" at 7.665pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
+Requested font "cmmi5" at 5.475pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.95116pt on input line 87.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 10.95116pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.6658pt on input line 87.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" at 7.6658pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.47559pt on input line 87.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 5.47559pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 87.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 10.94882pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.66417pt on input line 87.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" at 7.66417pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.47441pt on input line 87.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 5.47441pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 87.
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 24.88pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 87.
+Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 8.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
+Requested font "[FontAwesome5Free-Solid-900.otf]:script=latn;" at 6.8pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf
+
+Overfull \hbox (1.82501pt too wide) in paragraph at lines 87--87
+[]$[]$ $[]$$[]$ 
+ []
+
+(./cv/education.tex
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
+(Font)              scaled to size 16.0pt on input line 4.
+Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 16.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 23.
+Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sl' in size <9> not available
+(Font)              Font shape `TU/LinLibertine(0)/m/it' tried instead on input line 23.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 23.
+Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sl' in size <8> not available
+(Font)              Font shape `TU/LinLibertine(0)/m/it' tried instead on input line 23.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 23.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 23.
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 23.
+Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
+) (./cv/research_interests.tex) (./cv/publications.tex
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" at 9.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 6.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 5.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+Requested font "cmmi9" at 9.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+Requested font "cmmi6" at 6.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.00096pt on input line 16.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" at 9.00096pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 16.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 6.00064pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 16.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 5.00053pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 8.99904pt on input line 16.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" at 8.99904pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 16.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 5.99936pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 16.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 4.99947pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
+) (./cv/professional_experience.tex) (./cv/honors.tex) (./cv/skills.tex
+Overfull \hbox (25.39546pt too wide) in alignment at lines 6--18
+[] [] 
+ []
+
+)
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sc' will be
+(Font)              scaled to size 8.0pt on input line 105.
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;" at 8.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+ [1
+
+] (./resume.aux) ) 
+Here is how much of TeX's memory you used:
+ 41664 strings out of 476919
+ 846272 string characters out of 5821841
+ 1323828 words of memory out of 5000000
+ 61011 multiletter control sequences out of 15000+600000
+ 407987 words of font info for 135 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 127i,11n,140p,641b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on resume.pdf (1 page).
