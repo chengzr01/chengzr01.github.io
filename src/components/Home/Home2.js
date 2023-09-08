@@ -116,8 +116,8 @@ function Home2() {
               <br></br>
               <Card className="info-card">
                 <Card.Text>
-                  📢 I am looking for <b>a Ph.D. position</b> in Software
-                  Engineering or Human-Computer Interaction starting from{" "}
+                  📢 I am looking for <b>a Ph.D. position</b> in Human-Computer
+                  Interaction or Software Engineering starting from{" "}
                   <b>2024 Fall</b>!
                 </Card.Text>
               </Card>
