@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6ee3b31.css",
-    "main.js": "/static/js/main.acc7e699.js",
+    "main.css": "/static/css/main.c6bfd670.css",
+    "main.js": "/static/js/main.e0b7077e.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Geneva.jpg": "/static/media/Geneva.e73b2bfe0011642ca39b.jpg",
     "static/media/Pittsburgh.jpg": "/static/media/Pittsburgh.95e5b73beae035934669.jpg",
@@ -11,15 +11,15 @@
     "static/media/privacy.png": "/static/media/privacy.ccd9f6d57011887b3427.png",
     "static/media/Luzern.jpg": "/static/media/Luzern.0ac31ac411332ec06b2f.jpg",
     "static/media/Zurich_tower.jpg": "/static/media/Zurich_tower.65f62f4c68a865a47c23.jpg",
-    "static/media/resume.pdf": "/static/media/resume.654928d62cce9f4258c8.pdf",
+    "static/media/resume.pdf": "/static/media/resume.1e299f6a984da37faaf0.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "index.html": "/index.html",
-    "main.b6ee3b31.css.map": "/static/css/main.b6ee3b31.css.map",
-    "main.acc7e699.js.map": "/static/js/main.acc7e699.js.map",
+    "main.c6bfd670.css.map": "/static/css/main.c6bfd670.css.map",
+    "main.e0b7077e.js.map": "/static/js/main.e0b7077e.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6ee3b31.css",
-    "static/js/main.acc7e699.js"
+    "static/css/main.c6bfd670.css",
+    "static/js/main.e0b7077e.js"
   ]
 }
