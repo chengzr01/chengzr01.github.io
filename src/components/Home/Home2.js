@@ -22,10 +22,13 @@ function Home2() {
               <img src={myImg} width="50%" className="img-fluid" />
             </Tilt>
             <p style={{ fontSize: "2.4em" }}>
-              <br /> <span className="purple"> Zirui Cheng </span>
+              <br /> <span className="purple"> Zirui Cheng  </span>
             </p>
             <p style={{ fontSize: "1.8em" }}>
-              <span className="purple"> [tsɿʐui tʂʰəŋ] 程子睿 </span>
+              <span className="purple"> [tsɿʐui tʂʰəŋ] </span>
+            </p>
+            <p style={{ fontSize: "1.8em" }}>
+              <span className="purple">  程子睿 </span>
             </p>
             <p style={{ fontSize: "1.2em" }}>
               <span className="purple"> chengzr19@mails.tsinghua.edu.cn </span>
