@@ -1,11 +1,11 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import { Container, Row, Card } from "react-bootstrap";
-import Zurich_tower from "../../Assets/Misc/Zurich_tower.jpg";
+import Zurich from "../../Assets/Misc/Zurich.jpg";
 import Luzern from "../../Assets/Misc/Luzern.jpg";
 import Geneva from "../../Assets/Misc/Geneva.jpg";
-import SanDiego from "../../Assets/Misc/SanDiego.jpg";
-import Pittsburgh from "../../Assets/Misc/Pittsburgh.jpg"
+import SanDiego from "../../Assets/Misc/San Diego.jpg";
+import Pittsburgh from "../../Assets/Misc/Pittsburgh.jpg";
 
 function About() {
   return (
@@ -53,7 +53,7 @@ function About() {
           </Carousel.Item>
           <Carousel.Item>
             <Card style={{ padding: 10, border: 0 }}>
-              <Card.Img src={Zurich_tower} />
+              <Card.Img src={Zurich} />
             </Card>
             <Carousel.Caption>
               <h4>
