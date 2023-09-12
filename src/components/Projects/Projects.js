@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import privacy_picture from "../../Assets/Projects/privacy.png";
-import privacy_paper from "../../Assets/Projects/Modeling the Trade-off of Privacy Preservation and Activity Recognition on Low-Resolution Images.pdf";
+import privacy_picture from "../../Assets/Projects/trade-off-CHI'23.png";
+import privacy_paper from "../../Assets/Projects/trade-off-CHI'23.pdf";
 import Card from "react-bootstrap/Card";
 
 function Projects() {

@@ -59,9 +59,7 @@ function NavBar() {
                 to="/publications"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineFundProjectionScreen
-                  style={{ marginBottom: "2px" }}
-                />{" "}
+                <CgFileDocument style={{ marginBottom: "2px" }} />
                 Publications
               </Nav.Link>
             </Nav.Item>
@@ -72,8 +70,8 @@ function NavBar() {
                 to="/curriculum_vitae"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Curriculum
-                Vitae
+                <AiOutlineUser style={{ marginBottom: "2px" }} />
+                Curriculum Vitae
               </Nav.Link>
             </Nav.Item>
 
@@ -83,7 +81,10 @@ function NavBar() {
                 to="/miscellaneous"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> Miscellaneous
+                <AiOutlineFundProjectionScreen
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Miscellaneous
               </Nav.Link>
             </Nav.Item>
           </Nav>
