@@ -11,6 +11,15 @@ function Projects() {
         <h1 className="project-heading">
           <strong className="purple"> Publications </strong>
         </h1>
+        {/* <p
+          style={{
+            justifyContent: "center",
+            paddingTop: "10px",
+            paddingBottom: "10px",
+          }}
+        >
+          * indicates co-first authorship
+        </p> */}
         <Row
           style={{
             justifyContent: "center",
@@ -53,7 +62,8 @@ function Projects() {
                         <b>Zirui Cheng</b>
                       </u>
                       *, Xin Yi, Yan Kong, Xueyang Wang, Xuhai Xu, Yukang Yan,
-                      Chun Yu, Shwetak Patel, Yuanchun Shi. <i>(CHI'23)</i>
+                      Chun Yu, Shwetak Patel, Yuanchun Shi. * indicates co-first
+                      authorship. <i>(CHI'23)</i>
                       <br />[
                       <a href={privacy_paper} target="_blank">
                         Paper
@@ -98,15 +108,6 @@ function Projects() {
             Modeling Likewise
           </b>{" "}
           (<i>as a supporting author</i>)
-        </p>
-        <p
-          style={{
-            justifyContent: "center",
-            paddingTop: "10px",
-            paddingBottom: "10px",
-          }}
-        >
-          * indicates co-first authorship.
         </p>
       </Container>
     </Container>
