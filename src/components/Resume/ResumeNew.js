@@ -139,34 +139,6 @@ function ResumeNew() {
             </h4>
             <hr></hr>
             <table>
-              {/* <tr>
-                <td
-                  style={{
-                    width: "80%",
-                    textAlign: "left",
-                    verticalAlign: "top",
-                  }}
-                >
-                  <ul>
-                    <li>
-                      <b>Carnegie Mellon University</b>
-                      <br />
-                      Human-Computer Interaction Institute, Advisor: Kenneth
-                      Holstein
-                    </li>
-                  </ul>
-                </td>
-                <td
-                  style={{
-                    width: "20%",
-                    textAlign: "right",
-                    verticalAlign: "top",
-                  }}
-                >
-                  <i>Pittsburgh, PA, USA</i>
-                  <br /> <i>2023</i>
-                </td>
-              </tr> */}
               <tr>
                 <td
                   style={{
