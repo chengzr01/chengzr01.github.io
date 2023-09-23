@@ -95,8 +95,8 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      Human-Computer Interaction, Software Engineering, Privacy
-                      and Security.
+                      Human-Computer Interaction, Software Engineering, Natural
+                      Language Processing.
                     </li>
                   </ul>
                 </td>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/static/js/main.js",
-    "main.css": "/static/css/main.091d0c35.css",
+    "main.css": "/static/css/main.fc05c8c8.css",
     "static/js/787.chunk.js": "/static/js/787.chunk.js",
     "static/media/Geneva.jpg": "/static/media/Geneva.jpg",
     "static/media/Pittsburgh.jpg": "/static/media/Pittsburgh.jpg",
@@ -14,11 +14,11 @@
     "static/media/resume.pdf": "/static/media/resume.pdf",
     "index.html": "/index.html",
     "main.js.map": "/static/js/main.js.map",
-    "main.091d0c35.css.map": "/static/css/main.091d0c35.css.map",
+    "main.fc05c8c8.css.map": "/static/css/main.fc05c8c8.css.map",
     "787.chunk.js.map": "/static/js/787.chunk.js.map"
   },
   "entrypoints": [
     "static/js/main.js",
-    "static/css/main.091d0c35.css"
+    "static/css/main.fc05c8c8.css"
   ]
 }

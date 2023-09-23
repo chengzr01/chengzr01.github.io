@@ -21,15 +21,19 @@ function Home2() {
             <Tilt>
               <img src={myImg} width="50%" className="img-fluid" />
             </Tilt>
-            <p style={{ fontSize: "2.4em" }}>
-              <br /> <span className="purple"> Zirui Cheng </span>
-            </p>
+            <br />
             <p style={{ fontSize: "1.8em" }}>
-              <span className="purple"> [tsɿʐui tʂʰəŋ] </span>
+              <span className="purple"> Zirui Cheng </span>
             </p>
             <p style={{ fontSize: "1.8em" }}>
               <span className="purple"> 程子睿 </span>
             </p>
+            {/* <p style={{ fontSize: "1.6em" }}>
+              <span className="purple">  </span>
+            </p>
+            <p style={{ fontSize: "1.6em" }}>
+              <span className="purple"> 程子睿 </span>
+            </p> */}
             <p style={{ fontSize: "1.2em" }}>
               <span className="purple"> chengzr19@mails.tsinghua.edu.cn </span>
             </p>
@@ -85,7 +89,8 @@ function Home2() {
               <h4>
                 <b>About</b>
               </h4>
-              I am an undergraduate student in the{" "}
+              Welcome! I am Zirui Cheng (Pronunciation: [tsɿʐui tʂʰəŋ]). I am an
+              undergraduate student in the{" "}
               <a href={"https://www.cs.tsinghua.edu.cn/csen/"}>
                 Department of Computer Science and Technology
               </a>{" "}
