@@ -113,8 +113,8 @@ function Home2() {
               <br />
               My research focuses on designing, developing, and evaluating
               AI-enabled systems for human-facing tasks. I draw on approaches
-              from Human-Computer Interaction, Software Engineering, and
-              Artificial Intelligence. Please find more information in my{" "}
+              from Human-Computer Interaction, Artificial Intelligence, and
+              Software Engineering. Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
               <br></br>
               <h4>
