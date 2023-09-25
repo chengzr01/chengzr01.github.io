@@ -150,8 +150,8 @@ function ResumeNew() {
                   <ul>
                     <li>
                       <b>Carnegie Mellon Univeristy</b>
-                      <br /> Human-Computer Interaction Institute, Advisor:
-                      Kenneth Holstein
+                      <br /> Human-Computer Interaction Institute, Advisor: Ken
+                      Holstein
                     </li>
                   </ul>
                 </td>

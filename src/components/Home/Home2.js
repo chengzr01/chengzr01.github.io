@@ -89,8 +89,8 @@ function Home2() {
               <h4>
                 <b>About</b>
               </h4>
-              Welcome! I am Zirui Cheng (Pronunciation: [tsɿʐui tʂʰəŋ]). I am an
-              undergraduate student in the{" "}
+              Welcome! I am Zirui Cheng (Pronunciation: [tsɿʐui tʂʰəŋ]). I am a
+              fourth-year undergraduate student in the{" "}
               <a href={"https://www.cs.tsinghua.edu.cn/csen/"}>
                 Department of Computer Science and Technology
               </a>{" "}
@@ -98,7 +98,18 @@ function Home2() {
               <a href={"https://www.tsinghua.edu.cn/en/"}>
                 Tsinghua University
               </a>
-              , expected to graduate in June, 2024.
+              . During my undergraduate life, I have been fortunate to work with
+              Prof.{" "}
+              <a href={"https://www.thecoalalab.com/kenholstein"}>
+                Ken Holstein
+              </a>{" "}
+              at Carnegie Mellon University, Prof.{" "}
+              <a href="http://shift-3.com/">Haojian Jin</a> at University of
+              California San Diego, and Prof.{" "}
+              <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/">
+                Yuntao Wang
+              </a>{" "}
+              at Tsinghua University.
               <br />
               My research focuses on designing, developing, and evaluating
               AI-enabled systems for human-facing tasks. I draw on approaches
