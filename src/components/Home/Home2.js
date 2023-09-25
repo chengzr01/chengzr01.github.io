@@ -89,7 +89,7 @@ function Home2() {
               <h4>
                 <b>About</b>
               </h4>
-              Welcome! I am Zirui Cheng (Pronunciation: [tsɿʐui tʂʰəŋ]). I am a
+              Welcome! I am Zirui Cheng (pronunciation: [tsɿʐui tʂʰəŋ]). I am a
               fourth-year undergraduate student in the{" "}
               <a href={"https://www.cs.tsinghua.edu.cn/csen/"}>
                 Department of Computer Science and Technology
