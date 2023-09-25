@@ -6,6 +6,7 @@ import Luzern from "../../Assets/Misc/Luzern.jpg";
 import Geneva from "../../Assets/Misc/Geneva.jpg";
 import SanDiego from "../../Assets/Misc/San Diego.jpg";
 import Pittsburgh from "../../Assets/Misc/Pittsburgh.jpg";
+import Jeddah from "../../Assets/Misc/Jeddah.jpg";
 
 function About() {
   return (
@@ -78,6 +79,16 @@ function About() {
             <Carousel.Caption>
               <h4>
                 <b>Luzern, 2023</b>
+              </h4>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <Card style={{ padding: 10, border: 0 }}>
+              <Card.Img src={Jeddah} />
+            </Card>
+            <Carousel.Caption>
+              <h4>
+                <b>جدة، 2023</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
