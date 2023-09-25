@@ -33,7 +33,7 @@ function About() {
             </Card>
             <Carousel.Caption>
               <h4>
-                <b>San Diego, 2023</b>
+                <b>San Diego</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
@@ -48,7 +48,7 @@ function About() {
             </Card>
             <Carousel.Caption>
               <h4>
-                <b>Pittsburgh, 2023</b>
+                <b>Pittsburgh</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
@@ -58,7 +58,7 @@ function About() {
             </Card>
             <Carousel.Caption>
               <h4>
-                <b>Zürich, 2023</b>
+                <b>Zürich</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
@@ -68,7 +68,7 @@ function About() {
             </Card>
             <Carousel.Caption>
               <h4>
-                <b>Genève, 2023</b>
+                <b>Genève</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
@@ -78,7 +78,7 @@ function About() {
             </Card>
             <Carousel.Caption>
               <h4>
-                <b>Luzern, 2023</b>
+                <b>Luzern</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
@@ -88,7 +88,7 @@ function About() {
             </Card>
             <Carousel.Caption>
               <h4>
-                <b>جدة، 2023</b>
+                <b>جدة</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
