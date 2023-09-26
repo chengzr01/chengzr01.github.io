@@ -57,13 +57,12 @@ function Projects() {
                       </b>
                     </Card.Title>
                     <Card.Text style={{ textAlign: "left" }}>
-                      Yuntao Wang*,{" "}
                       <u>
                         <b>Zirui Cheng</b>
                       </u>
-                      *, Xin Yi, Yan Kong, Xueyang Wang, Xuhai Xu, Yukang Yan,
-                      Chun Yu, Shwetak Patel, Yuanchun Shi. * indicates co-first
-                      authorship. <i>(CHI'23)</i>
+                      *, Yuntao Wang*, Xin Yi, Yan Kong, Xueyang Wang, Xuhai Xu,
+                      Yukang Yan, Chun Yu, Shwetak Patel, Yuanchun Shi. *
+                      indicates co-first authorship. <i>(CHI'23)</i>
                       <br />[
                       <a href={privacy_paper} target="_blank">
                         Paper

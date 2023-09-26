@@ -98,7 +98,11 @@ function Home2() {
               <a href={"https://www.tsinghua.edu.cn/en/"}>
                 Tsinghua University
               </a>
-              . During my undergraduate life, I have been fortunate to work with
+              . My research focuses on designing, developing, and evaluating
+              AI-enabled systems for human-facing tasks, drawing on approaches
+              from Human-Computer Interaction, Artificial Intelligence, and
+              Software Engineering. <br />
+              During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
               <a href={"https://www.thecoalalab.com/kenholstein"}>
                 Ken Holstein
@@ -109,12 +113,7 @@ function Home2() {
               <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/">
                 Yuntao Wang
               </a>{" "}
-              at Tsinghua University.
-              <br />
-              My research focuses on designing, developing, and evaluating
-              AI-enabled systems for human-facing tasks. I draw on approaches
-              from Human-Computer Interaction, Artificial Intelligence, and
-              Software Engineering. Please find more information in my{" "}
+              at Tsinghua University. Please find more information in my{" "}
               <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
               <br></br>
               <h4>

@@ -124,7 +124,7 @@ function ResumeNew() {
                         Activity Recognition on Low-Resolution Images
                       </b>
                       <br />
-                      Yuntao Wang*, <u>Zirui Cheng</u>*, Xin Yi, Yan Kong,
+                      <u>Zirui Cheng</u>*, Yuntao Wang*, Xin Yi, Yan Kong,
                       Xueyang Wang, Xuhai Xu, Yukang Yan, Chun Yu, Shwetak
                       Patel, Yuanchun Shi. (<i>CHI'23</i>)
                     </li>
