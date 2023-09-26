@@ -21,7 +21,6 @@ function ResumeNew() {
         <h1 className="resume-heading" style={{ textAlign: "center" }}>
           <strong className="purple"> Curriculum Vitae </strong>
         </h1>
-        <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="text"
@@ -33,13 +32,49 @@ function ResumeNew() {
             &nbsp;Download
           </Button>
         </Row>
-        {/* <Row className="resume">
-          <Document file={pdf} className="d-flex justify-content-center">
-            <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
-          </Document>
-        </Row> */}
         <Container>
           <Row style={{ padding: "10px" }}>
+            <h4 style={{ textAlign: "left" }}>
+              <b>Contact</b>
+            </h4>
+            <hr></hr>
+            <table>
+              <tr>
+                <td
+                  style={{
+                    width: "50%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>
+                      Department of Computer Science and Technology
+                      <br />
+                      Tsinghua Univeristy
+                      <br />
+                      30 Shuangqing Road
+                      <br />
+                      Beijing, China, 100084
+                    </li>
+                  </ul>
+                </td>
+                <td
+                  style={{
+                    width: "50%",
+                    textAlign: "right",
+                    verticalAlign: "top",
+                  }}
+                >
+                  Mobile: +86 15751375486
+                  <br />
+                  Email: chengzr19@mails.tsinghua.edu.cn <br />
+                  Website: chengzr01.github.io
+                </td>
+              </tr>
+            </table>
+            <br />
+            <br />
             <h4 style={{ textAlign: "left" }}>
               <b>Education</b>
             </h4>
@@ -55,13 +90,10 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      <b>Tsinghua University</b>
-                      <ul>
-                        <li>
-                          B.E. in Computer Science and Technology, Economics and
-                          Finance
-                        </li>
-                      </ul>
+                      Tsinghua University
+                      <br />
+                      B.E. in Computer Science and Technology, B.E. in Economics
+                      and Finance
                     </li>
                   </ul>
                 </td>
@@ -139,7 +171,7 @@ function ResumeNew() {
             </h4>
             <hr></hr>
             <table>
-              <tr>
+              {/* <tr>
                 <td
                   style={{
                     width: "80%",
@@ -165,7 +197,7 @@ function ResumeNew() {
                   <i>Pittsburgh, PA, USA</i>
                   <br /> <i>2023</i>
                 </td>
-              </tr>
+              </tr> */}
               <tr>
                 <td
                   style={{
@@ -279,6 +311,38 @@ function ResumeNew() {
                     </li>
                     <li>
                       2019, Freshmen Scholarship (top 10%), Tsinghua Univeristy
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            <h4 style={{ textAlign: "left" }}>
+              <b>Skills</b>
+            </h4>
+            <hr></hr>
+            <table>
+              <tr>
+                <td
+                  style={{
+                    width: "100%",
+                    textAlign: "left",
+                    verticalAlign: "top",
+                  }}
+                >
+                  <ul>
+                    <li>
+                      <b>Programming Languages</b>: Python, C/C++, Javascript,
+                      Java, R, MatLab, Verilog, VHDL.
+                    </li>
+                    <li>
+                      <b>Machine Learning</b>: PyTorch, TensorFlow.
+                    </li>
+                    <li>
+                      <b>Software Engineering</b>: React, Vue, Django.
+                    </li>
+                    <li>
+                      <b>Languages</b>: Chinese Mandarin, English (TOEFL 103),
+                      German (CEFR A2).
                     </li>
                   </ul>
                 </td>

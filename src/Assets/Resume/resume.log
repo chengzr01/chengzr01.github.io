@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.7)  26 SEP 2023 15:15
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.7)  26 SEP 2023 16:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1021,7 +1021,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" at 4.99947pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf
 ) (./cv/professional_experience.tex) (./cv/honors.tex) (./cv/skills.tex
-Overfull \hbox (25.39546pt too wide) in alignment at lines 6--18
+Overfull \hbox (75.50546pt too wide) in alignment at lines 6--20
 [] [] 
  []
 
@@ -1036,7 +1036,7 @@ Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+s
 Here is how much of TeX's memory you used:
  41664 strings out of 476919
  846272 string characters out of 5821841
- 1323828 words of memory out of 5000000
+ 1322828 words of memory out of 5000000
  61011 multiletter control sequences out of 15000+600000
  407987 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
