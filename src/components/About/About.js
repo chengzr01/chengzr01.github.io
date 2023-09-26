@@ -12,14 +12,13 @@ function About() {
   return (
     <Container fluid className="about-section">
       <Container>
-        <h1 className="miscellaneous-heading" style={{ textAlign: "center" }}>
+        {/* <h1 className="miscellaneous-heading" style={{ textAlign: "center" }}>
           <strong className="purple"> Miscellaneous </strong>
-        </h1>
+        </h1> */}
         <Row style={{ padding: "10px" }}>
-          <h4 style={{ textAlign: "left" }}>
+          <h1>
             <b>Travelling</b>
-          </h4>
-          <hr></hr>
+          </h1>
         </Row>
         <Carousel fade>
           <Carousel.Item>

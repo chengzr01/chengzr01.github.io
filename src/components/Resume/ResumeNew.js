@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
-import Particle from "../Particle";
 import pdf from "../../Assets/Resume/resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
@@ -34,10 +33,6 @@ function ResumeNew() {
         </Row>
         <Container>
           <Row style={{ padding: "10px" }}>
-            <h4 style={{ textAlign: "left" }}>
-              <b>Contact</b>
-            </h4>
-            <hr></hr>
             <table>
               <tr>
                 <td
@@ -47,17 +42,13 @@ function ResumeNew() {
                     verticalAlign: "top",
                   }}
                 >
-                  <ul>
-                    <li>
-                      Department of Computer Science and Technology
-                      <br />
-                      Tsinghua Univeristy
-                      <br />
-                      30 Shuangqing Road
-                      <br />
-                      Beijing, China, 100084
-                    </li>
-                  </ul>
+                  Department of Computer Science and Technology
+                  <br />
+                  Tsinghua Univeristy
+                  <br />
+                  30 Shuangqing Road
+                  <br />
+                  Beijing, China, 100084
                 </td>
                 <td
                   style={{
@@ -72,6 +63,7 @@ function ResumeNew() {
                   Website: chengzr01.github.io
                 </td>
               </tr>
+              <br />
             </table>
             <br />
             <br />
@@ -90,7 +82,7 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      Tsinghua University
+                      <b>Tsinghua University</b>
                       <br />
                       B.E. in Computer Science and Technology, B.E. in Economics
                       and Finance
