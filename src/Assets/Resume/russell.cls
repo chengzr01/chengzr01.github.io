@@ -59,7 +59,6 @@
 \RequirePackage[T1]{fontenc} 
 % \RequirePackage{palatino}
 \RequirePackage[tt=false]{libertine} 
-% \RequirePackage{newtxtext}
 % Needed for the photo ID
 \RequirePackage[skins]{tcolorbox}
 % Needed to deal a paragraphs
