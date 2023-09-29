@@ -54,7 +54,6 @@
 \RequirePackage{unicode-math}
 % Needed to use icons from font-awesome
 \RequirePackage{fontawesome5}
-\RequirePackage{roboto}
 % \RequirePackage[default,opentype]{sourcesanspro}
 \RequirePackage[T1]{fontenc} 
 % \RequirePackage{palatino}
