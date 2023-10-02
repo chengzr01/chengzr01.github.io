@@ -52,7 +52,7 @@ function Projects() {
                   <Card.Body>
                     <Card.Title style={{ textAlign: "left" }}>
                       <b>
-                        Modeling the Trade-off of Privacy Presearvation and
+                        Modeling the Trade-off of Privacy Preservation and
                         Activity Recognition on Low-Resolution Images
                       </b>
                     </Card.Title>
