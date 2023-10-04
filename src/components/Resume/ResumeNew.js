@@ -46,9 +46,7 @@ function ResumeNew() {
                   <br />
                   Tsinghua Univeristy
                   <br />
-                  30 Shuangqing Road
-                  <br />
-                  Beijing, China, 100084
+                  Beijing, China
                 </td>
                 <td
                   style={{
@@ -84,7 +82,7 @@ function ResumeNew() {
                     <li>
                       <b>Tsinghua University</b>
                       <br />
-                      B.E. in Computer Science and Technology, B.E. in Economics
+                      B.E. in Computer Science and Technology, B.A. in Economics
                       and Finance
                     </li>
                   </ul>
