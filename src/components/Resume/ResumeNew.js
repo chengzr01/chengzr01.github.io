@@ -321,8 +321,8 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      <b>Programming Languages</b>: Python, C/C++, Javascript,
-                      Java, R, MatLab, Verilog, VHDL.
+                      <b>Programming Languages</b>: Python, C/C++,
+                      Javascript/CSS/HTML, Java, R, Matlab, Verilog, VHDL.
                     </li>
                     <li>
                       <b>Machine Learning</b>: PyTorch, TensorFlow.
@@ -331,8 +331,8 @@ function ResumeNew() {
                       <b>Software Engineering</b>: React, Vue, Django.
                     </li>
                     <li>
-                      <b>Languages</b>: Chinese Mandarin, English (TOEFL 103),
-                      German (CEFR A2).
+                      <b>Languages</b>: Chinese, English (TOEFL 103), German
+                      (CEFR A2).
                     </li>
                   </ul>
                 </td>
