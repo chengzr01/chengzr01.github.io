@@ -98,8 +98,9 @@ function Home2() {
               <a href={"https://www.tsinghua.edu.cn/en/"}>
                 Tsinghua University
               </a>
-              . My research focuses on designing, developing, and evaluating
-              AI-enabled systems for human-facing tasks. I draw on approaches
+              . <br />
+              My research concentrates on understanding and scaffolding human
+              intereactions with AI-enabled systems. I draw on ideas and methods
               from Human-Computer Interaction, Artificial Intelligence, and
               Software Engineering. <br />
               During my undergraduate life, I have been fortunate to work with

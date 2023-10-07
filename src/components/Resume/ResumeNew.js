@@ -103,7 +103,7 @@ function ResumeNew() {
             <br />
             <br />
             <h4 style={{ textAlign: "left" }}>
-              <b>Interest</b>
+              <b>Interests</b>
             </h4>
             <hr></hr>
             <table>
@@ -117,8 +117,8 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      Human-Computer Interaction, Software Engineering, Natural
-                      Language Processing.
+                      Human-Computer Interaction, Artificial Intelligence,
+                      Software Engineering.
                     </li>
                   </ul>
                 </td>
@@ -157,7 +157,7 @@ function ResumeNew() {
             <br />
             <br />
             <h4 style={{ textAlign: "left" }}>
-              <b>Research Experience</b>
+              <b>Experience</b>
             </h4>
             <hr></hr>
             <table>
