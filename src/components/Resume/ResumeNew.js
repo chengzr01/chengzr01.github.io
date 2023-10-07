@@ -331,8 +331,7 @@ function ResumeNew() {
                       <b>Software Engineering</b>: React, Vue, Django.
                     </li>
                     <li>
-                      <b>Languages</b>: Chinese, English (TOEFL 103), German
-                      (CEFR A2).
+                      <b>Languages</b>: Chinese, English (TOEFL 103), German.
                     </li>
                   </ul>
                 </td>
