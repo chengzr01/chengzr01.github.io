@@ -100,7 +100,7 @@ function Home2() {
               </a>
               . <br />
               My research concentrates on understanding and scaffolding human
-              intereactions with AI-enabled systems. I draw on ideas and methods
+              interactions with AI-enabled systems. I draw on ideas and methods
               from Human-Computer Interaction, Artificial Intelligence, and
               Software Engineering. <br />
               During my undergraduate life, I have been fortunate to work with
