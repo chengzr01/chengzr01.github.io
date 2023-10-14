@@ -296,11 +296,11 @@ function ResumeNew() {
                       Tsinghua Univeristy
                     </li>
                     <li>
-                      2020, Comprehensive Excellence Scholarship (top 10%),
+                      2020, Comprehensive Excellence Scholarship (Top 10%),
                       Tsinghua Univeristy
                     </li>
                     <li>
-                      2019, Freshmen Scholarship (top 10%), Tsinghua Univeristy
+                      2019, Freshmen Scholarship (Top 10%), Tsinghua Univeristy
                     </li>
                   </ul>
                 </td>
