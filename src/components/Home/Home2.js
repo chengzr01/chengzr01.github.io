@@ -28,18 +28,12 @@ function Home2() {
             <p style={{ fontSize: "1.8em" }}>
               <span className="purple"> 程子睿 </span>
             </p>
-            {/* <p style={{ fontSize: "1.6em" }}>
-              <span className="purple">  </span>
-            </p>
-            <p style={{ fontSize: "1.6em" }}>
-              <span className="purple"> 程子睿 </span>
-            </p> */}
             <p style={{ fontSize: "1.2em" }}>
               <span className="purple"> chengzr19@mails.tsinghua.edu.cn </span>
             </p>
             <Row>
               <Col md={12} className="home-about-social">
-                <ul className="home-about-social-links">
+                {/* <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
                       href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en"
@@ -80,7 +74,14 @@ function Home2() {
                       <AiFillInstagram />
                     </a>
                   </li>
-                </ul>
+                </ul> */}
+                [<a href={"/#/curriculum_vitae"}>Curriculum Vitae</a>] [
+                <a href={"/#/curriculum_vitae"}>Google Scholar</a>] [
+                <a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [
+                <a href={"https://www.linkedin.com/in/zirui-cheng-044024284/"}>
+                  LinkedIn
+                </a>
+                ]
               </Col>
             </Row>
           </Col>
@@ -114,8 +115,7 @@ function Home2() {
               <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/">
                 Yuntao Wang
               </a>{" "}
-              at Tsinghua University. Please find more information in my{" "}
-              <a href={"/#/curriculum_vitae"}>curriculum vitae</a>.<br></br>
+              at Tsinghua University.<br></br>
               <br></br>
               <h4>
                 <b>Updates</b>
