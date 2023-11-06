@@ -26,9 +26,14 @@
   src: url("./Assets/Fonts/Lato/Lato-BoldItalic.ttf");
 }
 
+@font-face {
+  font-family: "Monaco";
+  src: url("./Assets/Fonts/Monaco/Monaco.ttf");
+}
+
 body {
   margin: 0;
-  /* font-family: "Ubuntu", sans-serif !important; */
+  /* font-family: "Monaco", sans-serif !important; */
   font-family: "Lato", sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

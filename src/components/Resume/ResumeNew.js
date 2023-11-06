@@ -118,7 +118,7 @@ function ResumeNew() {
                   <ul>
                     <li>
                       Human-Computer Interaction, Artificial Intelligence,
-                      Software Engineering.
+                      Software Engineering, Data Visualization.
                     </li>
                   </ul>
                 </td>
@@ -139,6 +139,7 @@ function ResumeNew() {
                     verticalAlign: "top",
                   }}
                 >
+                  <b>Peer-reviewed Papers</b>
                   <ul>
                     <li>
                       <b>
@@ -146,9 +147,35 @@ function ResumeNew() {
                         Activity Recognition on Low-Resolution Images
                       </b>
                       <br />
-                      Yuntao Wang*, <u>Zirui Cheng</u>*, Xin Yi, Yan Kong,
-                      Xueyang Wang, Xuhai Xu, Yukang Yan, Chun Yu, Shwetak
-                      Patel, Yuanchun Shi. (<i>CHI'23</i>)
+                      Yuntao Wang*,{" "}
+                      <u>
+                        <b>Zirui Cheng</b>
+                      </u>
+                      *, Xin Yi, Yan Kong, Xueyang Wang, Xuhai Xu, Yukang Yan,
+                      Chun Yu, Shwetak Patel, Yuanchun Shi. (* indicates
+                      co-first author)
+                      <br /> <b>CHI 2023</b> –{" "}
+                      <i>
+                        2023 ACM CHI Conference on Human Systems in Computing
+                        Systems
+                      </i>
+                      .
+                    </li>
+                  </ul>
+                  <b>Preprints</b>
+                  <ul>
+                    <li>
+                      <b>
+                        TeacherLM: Teaching to Fish Rather Than Giving the Fish,
+                        Language Modeling Likewise
+                      </b>
+                      <br />
+                      Nan He*, Hanyu Lai*, Chenyang Zhao*, <b>Zirui Cheng</b>,
+                      Junting Pan, Ruoyu Qin, Ruofan Lu, Rui Lu, Yunchen Zhang,
+                      Gangming Zhao, Zhaohui Hou, Zhiyuan Huang, Shaoqing Lu,
+                      Ding Liang, Mingjie Zhan. (* indicates co-first author){" "}
+                      <br />
+                      arXiv:2310.19019, 2023.
                     </li>
                   </ul>
                 </td>
@@ -288,6 +315,13 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
+                      2023, Research Excellence Scholarship, Tsinghua Univeristy
+                    </li>
+                    <li>
+                      2023, Social Service Excellence Scholarship, Tsinghua
+                      Univeristy
+                    </li>
+                    <li>
                       2022, Social Service Excellence Scholarship, Tsinghua
                       Univeristy
                     </li>
@@ -328,10 +362,11 @@ function ResumeNew() {
                       <b>Machine Learning</b>: PyTorch, TensorFlow.
                     </li>
                     <li>
-                      <b>Software Engineering</b>: React, Vue, Django.
+                      <b>Web Framework</b>: React, Vue, Django.
                     </li>
                     <li>
-                      <b>Languages</b>: Chinese, English (TOEFL 103), German.
+                      <b>Languages</b>: Chinese (native), English (fluent, TOEFL
+                      105), German.
                     </li>
                   </ul>
                 </td>
