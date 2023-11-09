@@ -102,10 +102,10 @@ function Home2() {
                 Tsinghua University
               </a>
               . <br />
-              My research concentrates on understanding and scaffolding human
-              interactions with AI-enabled systems. I draw on ideas and methods
-              from Human-Computer Interaction, Artificial Intelligence, Software
-              Engineering, and Data Visualization. <br />
+              My research concentrates on designing, developing, and evaluating
+              AI-enabled systems in human-facing tasks. I draw on ideas and
+              methods from Human-Computer Interaction, Artificial Intelligence,
+              Software Engineering, and Data Visualization. <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
               <a href={"https://www.thecoalalab.com/kenholstein"}>
