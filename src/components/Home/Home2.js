@@ -103,7 +103,7 @@ function Home2() {
               </a>
               . <br />
               My research concentrates on designing, developing, and evaluating
-              AI-enabled systems in human-facing tasks. I draw on ideas and
+              AI-enabled systems for human-centered tasks. I draw on ideas and
               methods from Human-Computer Interaction, Artificial Intelligence,
               Software Engineering, and Data Visualization. <br />
               During my undergraduate life, I have been fortunate to work with
