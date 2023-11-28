@@ -102,10 +102,13 @@ function Home2() {
                 Tsinghua University
               </a>
               . <br />
-              My research concentrates on designing, developing, and evaluating
-              AI-enabled systems for human-centered tasks. I draw on ideas and
-              methods from Human-Computer Interaction, Artificial Intelligence,
-              Software Engineering, and Data Visualization. <br />
+              My research focuses on how to build practical AI systems that are
+              compatible with human goals in real-world scenarios. I take
+              interdisciplinary approaches to address the challenges in
+              designing, developing, and evaluating such AI systems. I draw on
+              ideas and methods from Human-Computer Interaction and Artificial
+              Intelligence (especially in Machine Learning).
+              <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
               <a href={"https://www.thecoalalab.com/kenholstein"}>
@@ -138,7 +141,7 @@ function Home2() {
               <Card className="info-card">
                 <Card.Text>
                   📢 I am looking for <b>a Ph.D. position</b> in Human-Computer
-                  Interaction or Software Engineering starting from{" "}
+                  Interaction or Artificial Intelligence starting from{" "}
                   <b>2024 Fall</b>!
                 </Card.Text>
               </Card>

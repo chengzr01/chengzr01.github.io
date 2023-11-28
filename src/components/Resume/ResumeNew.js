@@ -117,8 +117,8 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      Human-Computer Interaction, Artificial Intelligence,
-                      Software Engineering, Data Visualization.
+                      Human-Computer Interaction, Machine Learning, Software
+                      Engineering.
                     </li>
                   </ul>
                 </td>
@@ -170,11 +170,14 @@ function ResumeNew() {
                         Language Modeling Likewise
                       </b>
                       <br />
-                      Nan He*, Hanyu Lai*, Chenyang Zhao*, <b>Zirui Cheng</b>,
-                      Junting Pan, Ruoyu Qin, Ruofan Lu, Rui Lu, Yunchen Zhang,
-                      Gangming Zhao, Zhaohui Hou, Zhiyuan Huang, Shaoqing Lu,
-                      Ding Liang, Mingjie Zhan. (* indicates co-first author){" "}
-                      <br />
+                      Nan He*, Hanyu Lai*, Chenyang Zhao*,{" "}
+                      <u>
+                        <b>Zirui Cheng</b>
+                      </u>
+                      , Junting Pan, Ruoyu Qin, Ruofan Lu, Rui Lu, Yunchen
+                      Zhang, Gangming Zhao, Zhaohui Hou, Zhiyuan Huang, Shaoqing
+                      Lu, Ding Liang, Mingjie Zhan. (* indicates co-first
+                      author) <br />
                       arXiv:2310.19019, 2023.
                     </li>
                   </ul>
