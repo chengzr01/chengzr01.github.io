@@ -107,7 +107,7 @@ function Home2() {
               interdisciplinary approaches to address the challenges in
               designing, developing, and evaluating such AI systems. I draw on
               ideas and methods from Human-Computer Interaction and Artificial
-              Intelligence (especially in Machine Learning).
+              Intelligence.
               <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
