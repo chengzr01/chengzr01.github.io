@@ -117,8 +117,8 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      Human-Computer Interaction, Machine Learning, Software
-                      Engineering.
+                      Human-Computer Interaction, Machine Learning, Natural
+                      Language Processing.
                     </li>
                   </ul>
                 </td>
@@ -366,10 +366,6 @@ function ResumeNew() {
                     </li>
                     <li>
                       <b>Web Framework</b>: React, Vue, Django.
-                    </li>
-                    <li>
-                      <b>Languages</b>: Chinese (native), English (fluent, TOEFL
-                      105), German.
                     </li>
                   </ul>
                 </td>
