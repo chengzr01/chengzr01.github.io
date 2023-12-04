@@ -102,12 +102,14 @@ function Home2() {
                 Tsinghua University
               </a>
               . <br />
-              My research focuses on how to build practical AI systems that are
-              compatible with human goals in real-world scenarios. I take
+              My research seeks to brige the gap between Human-Computer
+              Interaction (HCI) and Artificial Intelligence (AI). I take
               interdisciplinary approaches to address the challenges in
-              designing, developing, and evaluating such AI systems. I draw on
-              ideas and methods from Human-Computer Interaction and Artificial
-              Intelligence.
+              designing, developing, and evaluating AI-enabled systems in
+              human-centered tasks. I am interested in (1) enabling machine
+              learning models to understand and enhance humans and (2)
+              empowering humans to make sense of and deal with machine learning
+              models in real-world settings.
               <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
