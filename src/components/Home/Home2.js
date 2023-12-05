@@ -106,10 +106,9 @@ function Home2() {
               Interaction (HCI) and Artificial Intelligence (AI). I take
               interdisciplinary approaches to address the challenges in
               designing, developing, and evaluating AI-enabled systems in
-              human-centered tasks. I am interested in (1) enabling machine
-              learning models to understand and enhance humans and (2)
-              empowering humans to make sense of and deal with machine learning
-              models in real-world settings.
+              human-centered tasks. I am interested in (1) making machine
+              learning methods useful for human interactions and (2) making
+              machine learning work easy to deal with.
               <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
