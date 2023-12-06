@@ -1,18 +1,11 @@
 import React from "react";
 import { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import {
-  AiOutlineTwitter,
-  AiFillInstagram,
-  AiFillLinkedin,
-} from "react-icons/ai";
-import { SiGooglescholar } from "react-icons/si";
 import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 import Card from "react-bootstrap/Card";
 
 function Home2() {
-  const [nameHover, setNameHover] = useState(false);
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
@@ -106,8 +99,8 @@ function Home2() {
               Interaction (HCI) and Artificial Intelligence (AI). I take
               interdisciplinary approaches to address the challenges in
               designing, developing, and evaluating AI-enabled systems in
-              human-centered tasks. I am interested in (1) making machine
-              learning methods useful for human interactions and (2) making
+              human-centered tasks. I am interested in how to (1) make machine
+              learning methods useful for human interactions and (2) make
               machine learning work easy to deal with.
               <br />
               During my undergraduate life, I have been fortunate to work with

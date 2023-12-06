@@ -117,8 +117,8 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      Human-Computer Interaction, Machine Learning, Natural
-                      Language Processing.
+                      Human-Computer Interaction, Machine Learning, Data
+                      Science, Natural Language Processing.
                     </li>
                   </ul>
                 </td>
@@ -321,12 +321,8 @@ function ResumeNew() {
                       2023, Research Excellence Scholarship, Tsinghua Univeristy
                     </li>
                     <li>
-                      2023, Social Service Excellence Scholarship, Tsinghua
-                      Univeristy
-                    </li>
-                    <li>
-                      2022, Social Service Excellence Scholarship, Tsinghua
-                      Univeristy
+                      2023, 2022, Social Service Excellence Scholarship,
+                      Tsinghua Univeristy
                     </li>
                     <li>
                       2021, Academic Performance Excellence Scholarship,
@@ -356,16 +352,29 @@ function ResumeNew() {
                     verticalAlign: "top",
                   }}
                 >
+                  <b>Technical Skills</b>
                   <ul>
                     <li>
-                      <b>Programming Languages</b>: Python, C/C++,
+                      <i>Programming Languages</i>: Python, C/C++,
                       Javascript/CSS/HTML, Java, R, Matlab, Verilog, VHDL.
                     </li>
                     <li>
-                      <b>Machine Learning</b>: PyTorch, TensorFlow.
+                      <i>Machine Learning</i>: PyTorch, TensorFlow.
                     </li>
                     <li>
-                      <b>Web Framework</b>: React, Vue, Django.
+                      <i>Web Framework</i>: React, Vue, Django.
+                    </li>
+                  </ul>
+                  <b>Language Skills</b>
+                  <ul>
+                    <li>
+                      <i>Chinese</i>: native in Mandarin, fluent in Wu, Yue.
+                    </li>
+                    <li>
+                      <i>English</i>: fluent, TOEFL 105.
+                    </li>
+                    <li>
+                      <i>German</i>: CEFR A2 level.
                     </li>
                   </ul>
                 </td>
