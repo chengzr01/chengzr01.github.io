@@ -95,13 +95,11 @@ function Home2() {
                 Tsinghua University
               </a>
               . <br />
-              My research seeks to brige the gap between Human-Computer
-              Interaction (HCI) and Artificial Intelligence (AI). I take
-              interdisciplinary approaches to address the challenges in
-              designing, developing, and evaluating AI-enabled systems in
-              human-centered tasks. I am interested in how to (1) make machine
-              learning methods useful for human interactions and (2) make
-              machine learning work easy to deal with.
+              My research seeks to mitigate the gap between principles of
+              human-computer interaction (HCI) and realities of artificial
+              intelligence (AI) by researching the challenges in{" "}
+              <i>designing</i>, <i>developing</i>, and <i>evaluating</i>{" "}
+              AI-enabled systems.
               <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
