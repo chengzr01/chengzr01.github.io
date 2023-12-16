@@ -64,8 +64,8 @@ function Projects() {
                         <b>Zirui Cheng</b>
                       </u>
                       *, Xin Yi, Yan Kong, Xueyang Wang, Xuhai Xu, Yukang Yan,
-                      Chun Yu, Shwetak Patel, Yuanchun Shi. * indicates co-first
-                      author. <i>(CHI'23)</i>
+                      Chun Yu, Shwetak Patel, Yuanchun Shi. (* indicates
+                      co-first author.) <i>(CHI'23)</i>
                       <br />[
                       <a
                         href={
@@ -136,7 +136,8 @@ function Projects() {
                       </u>
                       , Junting Pan, Ruoyu Qin, Ruofan Lu, Rui Lu, Yunchen
                       Zhang, Gangming Zhao, Zhaohui Hou, Zhiyuan Huang, Shaoqing
-                      Lu, Ding Liang, Mingjie Zhan
+                      Lu, Ding Liang, Mingjie Zhan. (* indicates co-first
+                      author.)
                       <br />[
                       <a
                         href={"https://arxiv.org/abs/2310.19019"}

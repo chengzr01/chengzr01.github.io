@@ -97,7 +97,7 @@ function Home2() {
               . <br />
               My research seeks to mitigate the gap between principles of
               human-computer interaction (HCI) and realities of artificial
-              intelligence (AI) by researching the challenges in{" "}
+              intelligence (AI) by researching the common challenges in{" "}
               <i>designing</i>, <i>developing</i>, and <i>evaluating</i>{" "}
               AI-enabled systems.
               <br />

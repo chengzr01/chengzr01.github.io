@@ -103,6 +103,11 @@ function About() {
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
+        <br></br>
+        <i>Der Mensch kann zwar tun, was er will.</i>
+        <br></br>
+        <i>aber er kann nicht wollen, was er will.</i>
+        <br></br>– Arthur Schopenhauer
       </Container>
     </Container>
   );
