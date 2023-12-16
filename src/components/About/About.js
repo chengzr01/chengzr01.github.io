@@ -13,9 +13,6 @@ function About() {
   return (
     <Container fluid className="about-section">
       <Container>
-        {/* <h1 className="miscellaneous-heading" style={{ textAlign: "center" }}>
-          <strong className="purple"> Miscellaneous </strong>
-        </h1> */}
         <Row style={{ padding: "10px" }}>
           <h1>
             <b>Travelling</b>

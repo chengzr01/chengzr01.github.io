@@ -201,7 +201,7 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      <b>Carnegie Mellon Univeristy</b>
+                      <b>Carnegie Mellon University</b>
                       <br /> Human-Computer Interaction Institute, Advisor: Ken
                       Holstein
                     </li>
@@ -228,7 +228,7 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      <b>University of Califorlia San Diego</b>
+                      <b>University of California San Diego</b>
                       <br /> Halıcıoğlu Data Science Institute, Advisor: Haojian
                       Jin
                     </li>
