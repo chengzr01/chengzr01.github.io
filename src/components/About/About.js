@@ -7,7 +7,7 @@ import Geneva from "../../Assets/Misc/Geneva.jpg";
 import SanDiego from "../../Assets/Misc/San Diego.jpg";
 import Pittsburgh from "../../Assets/Misc/Pittsburgh.jpg";
 import Jeddah from "../../Assets/Misc/Jeddah.jpg";
-import Wuxi from "../../Assets/Misc/Wuxi.jpg";
+import Suzhou from "../../Assets/Misc/Suzhou.jpg";
 
 function About() {
   return (
@@ -94,11 +94,11 @@ function About() {
           </Carousel.Item>
           <Carousel.Item>
             <Card style={{ padding: 10, border: 0 }}>
-              <Card.Img src={Wuxi} />
+              <Card.Img src={Suzhou} />
             </Card>
             <Carousel.Caption>
               <h4>
-                <b>无锡</b>
+                <b>苏州</b>
               </h4>
             </Carousel.Caption>
           </Carousel.Item>
