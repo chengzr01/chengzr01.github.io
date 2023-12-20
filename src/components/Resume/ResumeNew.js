@@ -318,22 +318,22 @@ function ResumeNew() {
                 >
                   <ul>
                     <li>
-                      2023, Research Excellence Scholarship, Tsinghua Univeristy
+                      Research Excellence Scholarship, Tsinghua Univeristy, 2023
                     </li>
                     <li>
-                      2023, 2022, Social Service Excellence Scholarship,
-                      Tsinghua Univeristy
+                      Social Service Excellence Scholarship, Tsinghua
+                      Univeristy, 2022 - 2023
                     </li>
                     <li>
-                      2021, Academic Performance Excellence Scholarship,
-                      Tsinghua Univeristy
+                      Academic Performance Excellence Scholarship, Tsinghua
+                      Univeristy, 2021
                     </li>
                     <li>
-                      2020, Comprehensive Excellence Scholarship (Top 10%),
-                      Tsinghua Univeristy
+                      Comprehensive Excellence Scholarship (Top 10%), Tsinghua
+                      Univeristy, 2020
                     </li>
                     <li>
-                      2019, Freshmen Scholarship (Top 10%), Tsinghua Univeristy
+                      Freshmen Scholarship (Top 10%), Tsinghua Univeristy, 2019
                     </li>
                   </ul>
                 </td>
@@ -374,7 +374,7 @@ function ResumeNew() {
                       <i>English</i>: fluent, TOEFL 105.
                     </li>
                     <li>
-                      <i>German</i>: CEFR A2 level.
+                      <i>German</i>: basic, CEFR A2 level.
                     </li>
                   </ul>
                 </td>

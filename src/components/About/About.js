@@ -1,6 +1,7 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import { Container, Row, Card } from "react-bootstrap";
+import Figure from "react-bootstrap/Figure";
 import Zurich from "../../Assets/Misc/Zurich.jpg";
 import Luzern from "../../Assets/Misc/Luzern.jpg";
 import Geneva from "../../Assets/Misc/Geneva.jpg";
@@ -17,6 +18,12 @@ function About() {
           <h1>
             <b>Travelling</b>
           </h1>
+          <div style={{ textAlign: "center", padding: "20px" }}>
+            <i>Der Mensch kann zwar tun, was er will.</i>
+            <br></br>
+            <i>aber er kann nicht wollen, was er will.</i>
+            <br></br>– Arthur Schopenhauer
+          </div>
         </Row>
         <Carousel fade>
           <Carousel.Item>
@@ -100,11 +107,6 @@ function About() {
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
-        <br></br>
-        <i>Der Mensch kann zwar tun, was er will.</i>
-        <br></br>
-        <i>aber er kann nicht wollen, was er will.</i>
-        <br></br>– Arthur Schopenhauer
       </Container>
     </Container>
   );
