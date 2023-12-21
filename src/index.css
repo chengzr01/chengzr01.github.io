@@ -54,10 +54,16 @@
   src: url("./Assets/Fonts/Open_Sans/static/OpenSans-BoldItalic.ttf");
 }
 
+@font-face {
+  font-family: "Palatino";
+  src: url("./Assets/Fonts/Palatino/Palatino.ttf");
+}
+
 body {
   margin: 0;
   /* font-family: "Lato", sans-serif !important; */
-  font-family: "Open_Sans", serif !important;
+  font-family: "Open_Sans", sans-serif !important;
+  /* font-family: "Palatino", serif !important; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(
