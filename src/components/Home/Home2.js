@@ -97,7 +97,7 @@ function Home2() {
               . <br />
               My research seeks to mitigate the gap between principles of
               human-computer interaction (HCI) and realities of artificial
-              intelligence (AI) by researching the common challenges in{" "}
+              intelligence (AI) by researching the challenges in{" "}
               <i>designing</i>, <i>developing</i>, and <i>evaluating</i>{" "}
               AI-enabled systems.
               <br />
@@ -117,20 +117,10 @@ function Home2() {
               <h4>
                 <b>Updates</b>
               </h4>
-              <ul>
-                <li>
-                  (July, 2023) I will be attending{" "}
-                  <a href={"https://dis.acm.org/2023/"}>DIS 2023</a> in
-                  Pittsburgh, PA, USA.
-                </li>
-                <li>
-                  (April, 2023) I will be attending{" "}
-                  <a href={"https://chi2023.acm.org/"}>CHI 2023</a> in Hamburg,
-                  Germany.
-                </li>
-              </ul>
-              <br></br>
-              <Card className="info-card">
+              <Card
+                className="info-card"
+                style={{ marginTop: 20, marginBottom: 20 }}
+              >
                 <Card.Text>
                   📢 I am looking for <b>a Ph.D. position</b> in Human-Computer
                   Interaction or Artificial Intelligence starting from{" "}

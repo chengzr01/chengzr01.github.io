@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/static/js/main.js",
-    "main.css": "/static/css/main.f3edb70d.css",
+    "main.css": "/static/css/main.e28f99c7.css",
     "static/js/787.chunk.js": "/static/js/787.chunk.js",
     "static/media/Suzhou.jpg": "/static/media/Suzhou.jpg",
     "static/media/avatar.png": "/static/media/avatar.png",
@@ -15,19 +15,22 @@
     "static/media/Zurich.jpg": "/static/media/Zurich.jpg",
     "static/media/TeacherLM.pdf": "/static/media/TeacherLM.pdf",
     "static/media/TeacherLM.png": "/static/media/TeacherLM.png",
+    "static/media/OpenSans-Italic.ttf": "/static/media/OpenSans-Italic.ttf",
+    "static/media/OpenSans-BoldItalic.ttf": "/static/media/OpenSans-BoldItalic.ttf",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.ttf",
     "static/media/Curriculum_Vitae.pdf": "/static/media/Curriculum_Vitae.pdf",
     "static/media/Lato-BoldItalic.ttf": "/static/media/Lato-BoldItalic.ttf",
     "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.ttf",
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.ttf",
-    "static/media/Monaco.ttf": "/static/media/Monaco.ttf",
     "index.html": "/index.html",
     "main.js.map": "/static/js/main.js.map",
-    "main.f3edb70d.css.map": "/static/css/main.f3edb70d.css.map",
+    "main.e28f99c7.css.map": "/static/css/main.e28f99c7.css.map",
     "787.chunk.js.map": "/static/js/787.chunk.js.map"
   },
   "entrypoints": [
     "static/js/main.js",
-    "static/css/main.f3edb70d.css"
+    "static/css/main.e28f99c7.css"
   ]
 }

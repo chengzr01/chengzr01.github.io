@@ -18,7 +18,7 @@ function About() {
           <h1>
             <b>Travelling</b>
           </h1>
-          <div style={{ textAlign: "center", padding: "20px" }}>
+          <div style={{ textAlign: "center", padding: "10px" }}>
             <i>Der Mensch kann zwar tun, was er will.</i>
             <br></br>
             <i>aber er kann nicht wollen, was er will.</i>
