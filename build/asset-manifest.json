@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/static/js/main.js",
-    "main.css": "/static/css/main.d8b5cc52.css",
+    "main.css": "/static/css/main.567f1ac7.css",
     "static/js/787.chunk.js": "/static/js/787.chunk.js",
     "static/media/Suzhou.jpg": "/static/media/Suzhou.jpg",
     "static/media/avatar.png": "/static/media/avatar.png",
@@ -31,11 +31,11 @@
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.ttf",
     "index.html": "/index.html",
     "main.js.map": "/static/js/main.js.map",
-    "main.d8b5cc52.css.map": "/static/css/main.d8b5cc52.css.map",
+    "main.567f1ac7.css.map": "/static/css/main.567f1ac7.css.map",
     "787.chunk.js.map": "/static/js/787.chunk.js.map"
   },
   "entrypoints": [
     "static/js/main.js",
-    "static/css/main.d8b5cc52.css"
+    "static/css/main.567f1ac7.css"
   ]
 }
