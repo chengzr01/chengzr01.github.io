@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/static/js/main.js",
-    "main.css": "/static/css/main.148a6298.css",
+    "main.css": "/static/css/main.567f1ac7.css",
     "static/js/787.chunk.js": "/static/js/787.chunk.js",
     "static/media/Suzhou.jpg": "/static/media/Suzhou.jpg",
     "static/media/avatar.png": "/static/media/avatar.png",
@@ -13,6 +13,10 @@
     "static/media/trade-off-CHI'23.png": "/static/media/trade-off-CHI'23.png",
     "static/media/Luzern.jpg": "/static/media/Luzern.jpg",
     "static/media/Zurich.jpg": "/static/media/Zurich.jpg",
+    "static/media/FiraSans-BlackItalic.ttf": "/static/media/FiraSans-BlackItalic.ttf",
+    "static/media/FiraSans-Bold.ttf": "/static/media/FiraSans-Bold.ttf",
+    "static/media/FiraSans-Italic.ttf": "/static/media/FiraSans-Italic.ttf",
+    "static/media/FiraSans-Regular.ttf": "/static/media/FiraSans-Regular.ttf",
     "static/media/TeacherLM.pdf": "/static/media/TeacherLM.pdf",
     "static/media/TeacherLM.png": "/static/media/TeacherLM.png",
     "static/media/OpenSans-Italic.ttf": "/static/media/OpenSans-Italic.ttf",
@@ -27,11 +31,11 @@
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.ttf",
     "index.html": "/index.html",
     "main.js.map": "/static/js/main.js.map",
-    "main.148a6298.css.map": "/static/css/main.148a6298.css.map",
+    "main.567f1ac7.css.map": "/static/css/main.567f1ac7.css.map",
     "787.chunk.js.map": "/static/js/787.chunk.js.map"
   },
   "entrypoints": [
     "static/js/main.js",
-    "static/css/main.148a6298.css"
+    "static/css/main.567f1ac7.css"
   ]
 }
