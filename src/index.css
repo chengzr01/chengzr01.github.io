@@ -92,7 +92,7 @@ body {
   /* font-family: "Lato", sans-serif !important; */
   /* font-family: "Open_Sans", sans-serif !important; */
   /* font-family: "Palatino", serif !important; */
-  font-family: "Fira_Sans", serif !important;
+  font-family: "Fira_Sans", sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(
