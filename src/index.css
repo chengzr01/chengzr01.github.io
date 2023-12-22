@@ -59,11 +59,40 @@
   src: url("./Assets/Fonts/Palatino/Palatino.ttf");
 }
 
+@font-face {
+  font-family: "Fira_Sans";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./Assets/Fonts/Fira_Sans/FiraSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Fira_Sans";
+  font-weight: bold;
+  font-style: normal;
+  src: url("./Assets/Fonts/Fira_Sans/FiraSans-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Fira_Sans";
+  font-weight: normal;
+  font-style: italic;
+  src: url("./Assets/Fonts/Fira_Sans/FiraSans-Italic.ttf");
+}
+
+@font-face {
+  font-family: "Fira_Sans";
+  font-weight: bold;
+  font-style: italic;
+  src: url("./Assets/Fonts/Fira_Sans/FiraSans-BlackItalic.ttf");
+}
+
 body {
   margin: 0;
-  font-family: "Lato", sans-serif !important;
+  /* font-family: "Lato", sans-serif !important; */
   /* font-family: "Open_Sans", sans-serif !important; */
   /* font-family: "Palatino", serif !important; */
+  font-family: "Fira_Sans", serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(
