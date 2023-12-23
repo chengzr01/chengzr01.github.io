@@ -94,11 +94,12 @@ function Home2() {
               <a href={"https://www.tsinghua.edu.cn/en/"}>
                 Tsinghua University
               </a>
-              . <br />I am interested in human-computer interaction and machine
-              learning. My research seeks to mitigate the gap between principles
-              of human-computer interaction and realities of artificial
-              intelligence by researching the challenges in <i>designing</i>,{" "}
-              <i>developing</i>, and <i>evaluating</i> AI-enabled systems.
+              . <br />
+              My research seeks to mitigate the gap between principles of
+              Human-Computer Interaction (HCI) and realities of Artificial
+              Intelligence (AI) by researching the challenges in{" "}
+              <i>designing</i>, <i>developing</i>, and <i>evaluating</i>{" "}
+              AI-enabled systems.
               <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
