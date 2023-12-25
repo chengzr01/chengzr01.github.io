@@ -91,11 +91,13 @@ function Home2() {
                 Tsinghua University
               </a>
               . <br />
-              My research seeks to mitigate the gap between principles of
-              Human-Computer Interaction (HCI) and realities of Artificial
-              Intelligence (AI) by researching the challenges in{" "}
-              <i>designing</i>, <i>developing</i>, and <i>evaluating</i>{" "}
-              AI-enabled systems.
+              My research interests lie in <b>
+                Human-Computer Interaction
+              </b> and <b>Machine Learning</b>. In my research, I seek to
+              mitigate the gap between principles of Human-Computer Interaction
+              and realities of Artificial Intelligence. I take interdisciplinary
+              approaches to enhance the usability of machine learning models and
+              support the practice of machine learning work.
               <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
@@ -118,8 +120,7 @@ function Home2() {
                 style={{ marginTop: 20, marginBottom: 20 }}
               >
                 <Card.Text>
-                  📢 I am looking for <b>a Ph.D. position</b> in Human-Computer
-                  Interaction or Artificial Intelligence starting from{" "}
+                  📢 I am looking for <b>a Ph.D. position</b> starting from{" "}
                   <b>2024 Fall</b>!
                 </Card.Text>
               </Card>
