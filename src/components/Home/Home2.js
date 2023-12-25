@@ -72,11 +72,7 @@ function Home2() {
                 <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
                   Google Scholar
                 </a>
-                ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [
-                <a href={"https://www.linkedin.com/in/zirui-cheng-044024284/"}>
-                  LinkedIn
-                </a>
-                ]
+                ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>]
               </Col>
             </Row>
           </Col>
