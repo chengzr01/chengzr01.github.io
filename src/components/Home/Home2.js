@@ -68,11 +68,11 @@ function Home2() {
                     </a>
                   </li>
                 </ul> */}
-                [<a href={"/#/curriculum_vitae"}>Curriculum Vitae</a>] [
+                 [
                 <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
                   Google Scholar
                 </a>
-                ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>]
+                ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] <br/> [<a href={"/#/curriculum_vitae"}>Curriculum Vitae</a>] [<a href="https://chengzr19.github.io">Personal Wiki</a>]
               </Col>
             </Row>
           </Col>
