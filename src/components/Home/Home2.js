@@ -72,7 +72,7 @@ function Home2() {
                 <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
                   Google Scholar
                 </a>
-                ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] <br/> [<a href={"/#/curriculum_vitae"}>Curriculum Vitae</a>] [<a href="https://chengzr19.github.io">Personal Wiki</a>]
+                ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [<a href={"/#/curriculum_vitae"}>Curriculum Vitae</a>] 
               </Col>
             </Row>
           </Col>
@@ -95,9 +95,7 @@ function Home2() {
                 Human-Computer Interaction
               </b> and <b>Machine Learning</b>. In my research, I seek to
               mitigate the gap between principles of Human-Computer Interaction
-              and realities of Artificial Intelligence. I take interdisciplinary
-              approaches to enhance the usability of machine learning models and
-              support the practice of machine learning work.
+              and realities of Artificial Intelligence.
               <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
