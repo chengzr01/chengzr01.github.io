@@ -1,7 +1,6 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import { Container, Row, Card } from "react-bootstrap";
-import Figure from "react-bootstrap/Figure";
 import Zurich from "../../Assets/Misc/Zurich.jpg";
 import Luzern from "../../Assets/Misc/Luzern.jpg";
 import Geneva from "../../Assets/Misc/Geneva.jpg";
@@ -10,7 +9,7 @@ import Pittsburgh from "../../Assets/Misc/Pittsburgh.jpg";
 import Jeddah from "../../Assets/Misc/Jeddah.jpg";
 import Suzhou from "../../Assets/Misc/Suzhou.jpg";
 
-function About() {
+function Miscellaneous() {
   return (
     <Container fluid className="about-section">
       <Container>
@@ -112,4 +111,4 @@ function About() {
   );
 }
 
-export default About;
+export default Miscellaneous;

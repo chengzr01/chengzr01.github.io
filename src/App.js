@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
-import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
-import Resume from "./components/Resume/ResumeNew";
+import Resume from "./components/Resume/Resume";
+import Miscellaneous from "./components/Miscellaneous/Miscellaneous"
 import {
   HashRouter as Router,
   Route,
@@ -24,7 +24,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/publications" element={<Projects />} />
-          <Route path="/miscellaneous" element={<About />} />
+          <Route path="/miscellaneous" element={<Miscellaneous />} />
           <Route path="/curriculum_vitae" element={<Resume />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
