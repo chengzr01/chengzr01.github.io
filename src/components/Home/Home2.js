@@ -113,6 +113,10 @@ function Home2() {
               <h4>
                 <b>Updates</b>
               </h4>
+              <ul>
+                <li>(July 2023) I will be attending DIS 2023 in Pittsburgh, USA.</li>
+                <li>(April 2023) I will be attending CHI 2023 in Hamburg, Germany.</li>
+              </ul>
               <Card
                 className="info-card"
                 style={{ marginTop: 20, marginBottom: 20 }}
