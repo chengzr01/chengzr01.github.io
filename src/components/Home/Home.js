@@ -52,7 +52,7 @@ function Home() {
                 Human-Computer Interaction
               </b> and <b>Machine Learning</b>. In my research, I seek to
               mitigate the gap between principles of Human-Computer Interaction
-              and realities of Artificial Intelligence.
+              and realities of Artificial Intelligence in the practice of designing, developing, and evaluating AI-enabled systems.
               <br />
               During my undergraduate life, I have been fortunate to work with
               Prof.{" "}
