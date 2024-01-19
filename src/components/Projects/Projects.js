@@ -14,15 +14,6 @@ function Projects() {
         <h1 className="project-heading">
           <strong className="purple"> Publications </strong>
         </h1>
-        {/* <p
-          style={{
-            justifyContent: "center",
-            paddingTop: "10px",
-            paddingBottom: "10px",
-          }}
-        >
-          * indicates co-first authorship
-        </p> */}
         <Row
           style={{
             justifyContent: "center",
@@ -31,7 +22,7 @@ function Projects() {
           }}
         >
           <h4>
-            <b>Peer-Reviewed Publications</b>
+            <b>Peer-Reviewed Papers</b>
           </h4>
         </Row>
         <Row
@@ -41,18 +32,10 @@ function Projects() {
             paddingBottom: "10px",
           }}
         >
-          <Card className="project-card-view">
+          <Card className="project-card-view" style={{minHeight:"40px", width:"70%"}}>
             <Container>
               <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-                <Col md={2}>
-                  <Card.Img
-                    variant="top"
-                    style={{align:"center"}}
-                    src={wikibench_picture}
-                    alt="card-img"
-                  />
-                </Col>
-                <Col md={10}>
+                <Col md={12}>
                   <Card.Body>
                     <Card.Title style={{ textAlign: "left" }}>
                       <b>
@@ -63,8 +46,10 @@ function Projects() {
                       Tzu-Sheng Kuo, Aaron Halfaker,{" "}
                       <u>
                         <b>Zirui Cheng</b>
-                      </u>, Jiwoo Kim, Meng-Hsin Wu, Tongshuang Wu, Kenneth Holstein, Haiyi Zhu. <i>(CHI'24)</i>
-                      <br/> [Conditionally Accepted]
+                      </u>, Jiwoo Kim, Meng-Hsin Wu, Tongshuang Wu, Kenneth Holstein, Haiyi Zhu.
+                      <br/>
+                       <b>CHI 2024</b> – <i>2024 ACM CHI Conference on Human Systems in Computing Systems</i> (Conditionally Accepted).
+                       <br/> Key Words: Data Curation, Human-Centered Machine Learning, Social Computing.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
@@ -81,18 +66,10 @@ function Projects() {
             paddingBottom: "10px",
           }}
         >
-          <Card className="project-card-view">
+          <Card className="project-card-view" style={{minHeight:"40px", width:"70%"}}>
             <Container>
               <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-                <Col md={2}>
-                  <Card.Img
-                    variant="top"
-                    style={{align:"center"}}
-                    src={privacy_picture}
-                    alt="card-img"
-                  />
-                </Col>
-                <Col md={10}>
+                <Col md={12}>
                   <Card.Body>
                     <Card.Title style={{ textAlign: "left" }}>
                       <b>
@@ -107,7 +84,8 @@ function Projects() {
                       </u>
                       *, Xin Yi, Yan Kong, Xueyang Wang, Xuhai Xu, Yukang Yan,
                       Chun Yu, Shwetak Patel, Yuanchun Shi. (* indicates
-                      co-first author.) <i>(CHI'23)</i>
+                      co-first author.)
+                      <br/> <b>CHI 2023</b> – <i>2023 ACM CHI Conference on Human Systems in Computing Systems</i>.
                       <br />[
                       <a
                         href={
@@ -126,6 +104,8 @@ function Projects() {
                         Video
                       </a>
                       ]
+                      <br/>
+                      Key Words: Usable Privacy & Security, Computer Vision, Human-Centered Machine Learning.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
@@ -143,6 +123,49 @@ function Projects() {
           }}
         >
           <h4>
+            <b>Under-Review Papers</b>
+          </h4>
+        </Row>
+                <Row
+          style={{
+            justifyContent: "center",
+            paddingTop: "10px",
+            paddingBottom: "10px",
+          }}
+        >
+          <Card className="project-card-view" style={{minHeight:"40px", width:"70%"}}>
+            <Container>
+              <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+                <Col md={12}>
+                  <Card.Body>
+                    <Card.Title style={{ textAlign: "left" }}>
+                      <b>
+                        TreeQuestion: Assessing Conceptual Learning Outcomes with LLM-Generated Multiple-Choice Questions
+                      </b>
+                    </Card.Title>
+                    <Card.Text style={{ textAlign: "left" }}>
+                      <u><b>Zirui Cheng</b></u>, Jingfei Xu, Haojian Jin.
+                      <br/><b>CSCW 2024</b> – <i>2024 ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing</i> (July 2023 Cycle).
+                      <br/>
+                      Key Words: Large Language Models, Human-AI Collaboration, Educational Technology.
+                    </Card.Text>
+                    {"\n"}
+                    {"\n"}
+                  </Card.Body>
+                </Col>
+              </Row>
+            </Container>
+          </Card>
+        </Row>
+        <Row
+          style={{
+            justifyContent: "center",
+            paddingTop: "10px",
+            paddingBottom: "10px",
+          }}
+        >
+          
+          <h4>
             <b>Preprints</b>
           </h4>
         </Row>
@@ -153,17 +176,10 @@ function Projects() {
             paddingBottom: "10px",
           }}
         >
-          <Card className="project-card-view">
+          <Card className="project-card-view" style={{minHeight:"40px", width:"70%"}}>
             <Container>
               <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-                <Col md={2}>
-                  <Card.Img
-                    variant="top"
-                    src={teacherlm_picture}
-                    alt="card-img"
-                  />
-                </Col>
-                <Col md={10}>
+                <Col md={12}>
                   <Card.Body>
                     <Card.Title style={{ textAlign: "left" }}>
                       <b>
@@ -188,6 +204,8 @@ function Projects() {
                         arXiv Page
                       </a>
                       ] [<a href={teacherlm_paper}>Paper</a>]
+                      <br/>
+                      Key Words: Large Language Models, Reasoning, Instruction Finetuning.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
