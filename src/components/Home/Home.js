@@ -79,8 +79,7 @@ function Home() {
                 style={{ marginTop: 20, marginBottom: 20 }}
               >
                 <Card.Text>
-                  📢 I am looking for <b>a Ph.D. position</b> starting from{" "}
-                  <b>2024 Fall</b>!
+                  📢 I am looking for a Ph.D. position starting from 2024 Fall!
                 </Card.Text>
               </Card>
             </p>
