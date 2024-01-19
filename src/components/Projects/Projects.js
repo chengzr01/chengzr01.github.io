@@ -4,6 +4,7 @@ import privacy_picture from "../../Assets/Projects/trade-off-CHI'23.png";
 import privacy_paper from "../../Assets/Projects/trade-off-CHI'23.pdf";
 import teacherlm_picture from "../../Assets/Projects/TeacherLM.png";
 import teacherlm_paper from "../../Assets/Projects/TeacherLM.pdf";
+import wikibench_picture from "../../Assets/Projects/Wikibench.png";
 import Card from "react-bootstrap/Card";
 
 function Projects() {
@@ -46,6 +47,47 @@ function Projects() {
                 <Col md={2}>
                   <Card.Img
                     variant="top"
+                    style={{align:"center"}}
+                    src={wikibench_picture}
+                    alt="card-img"
+                  />
+                </Col>
+                <Col md={10}>
+                  <Card.Body>
+                    <Card.Title style={{ textAlign: "left" }}>
+                      <b>
+                        Wikibench: Community-Driven Data Curation for AI Evaluation on Wikipedia
+                      </b>
+                    </Card.Title>
+                    <Card.Text style={{ textAlign: "left" }}>
+                      Tzu-Sheng Kuo, Aaron Halfaker,{" "}
+                      <u>
+                        <b>Zirui Cheng</b>
+                      </u>, Jiwoo Kim, Meng-Hsin Wu, Tongshuang Wu, Kenneth Holstein, Haiyi Zhu. <i>(CHI'24)</i>
+                      <br/> [Conditionally Accepted]
+                    </Card.Text>
+                    {"\n"}
+                    {"\n"}
+                  </Card.Body>
+                </Col>
+              </Row>
+            </Container>
+          </Card>
+        </Row>
+        <Row
+          style={{
+            justifyContent: "center",
+            paddingTop: "10px",
+            paddingBottom: "10px",
+          }}
+        >
+          <Card className="project-card-view">
+            <Container>
+              <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+                <Col md={2}>
+                  <Card.Img
+                    variant="top"
+                    style={{align:"center"}}
                     src={privacy_picture}
                     alt="card-img"
                   />
