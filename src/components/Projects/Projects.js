@@ -49,7 +49,7 @@ function Projects() {
                       </u>, Jiwoo Kim, Meng-Hsin Wu, Tongshuang Wu, Kenneth Holstein, Haiyi Zhu.
                       <br/>
                        <b>CHI 2024</b> – <i>2024 ACM CHI Conference on Human Systems in Computing Systems</i> (Conditionally Accepted).
-                       <br/> Key Words: Data Curation, Human-Centered Machine Learning, Social Computing.
+                       <br/> Key Words: Data Curation, Machine Learning, Social Computing.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
@@ -105,7 +105,7 @@ function Projects() {
                       </a>
                       ]
                       <br/>
-                      Key Words: Usable Privacy & Security, Computer Vision, Human-Centered Machine Learning.
+                      Key Words: Usable Privacy & Security, Computer Vision, Machine Learning.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
@@ -147,7 +147,7 @@ function Projects() {
                       <u><b>Zirui Cheng</b></u>, Jingfei Xu, Haojian Jin.
                       <br/><b>CSCW 2024</b> – <i>2024 ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing</i> (July 2023 Cycle).
                       <br/>
-                      Key Words: Large Language Models, Human-AI Collaboration, Educational Technology.
+                      Key Words: Human-AI Collaboration, Large Language Models, Educational Technology.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
