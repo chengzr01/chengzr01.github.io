@@ -205,7 +205,7 @@ function Projects() {
                       </a>
                       ] [<a href={teacherlm_paper}>Paper</a>]
                       <br/>
-                      Key Words: Large Language Models, Reasoning, Instruction Finetuning.
+                      Key Words: Large Language Models, Complex Reasoning, Instruction Finetuning.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
