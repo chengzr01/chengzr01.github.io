@@ -26,9 +26,9 @@ function Resume() {
           width: "60%",
         }}
       >
-        <h1 className="resume-heading" style={{ textAlign: "center" }}>
+        <h2 className="resume-heading" style={{ textAlign: "center" }}>
           <strong className="purple"> Curriculum Vitae </strong>
-        </h1>
+        </h2>
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="text"

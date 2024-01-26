@@ -22,36 +22,53 @@ function Miscellaneous() {
       }}
     >
       <Container>
-        <h1
+        <h2
           style={{
             textAlign: "center",
           }}
         >
-          <b>Travelling</b>
-        </h1>
-        <Row style={{ paddingTop: "0.5em", paddingBottom: "0.5em" }}>
-          <div
-            style={{
-              textAlign: "center",
-              paddingTop: "0.5em",
-              paddingBottom: "0.5em",
-            }}
-          >
-            <i>Der Mensch kann zwar tun, was er will.</i>
-            <br></br>
-            <i>aber er kann nicht wollen, was er will.</i>
-            <br></br>– Arthur Schopenhauer
-          </div>
+          <b>Miscellaneous</b>
+        </h2>
+        <Row
+          style={{
+            justifyContent: "center",
+            paddingTop: "0.5em",
+            paddingBottom: "0.5em",
+          }}
+        >
+          <h4>
+            <b>Travelling</b>
+          </h4>
         </Row>
-        <Row style={{ justifyContent: "center" }}>
-          <Carousel
-            fade
+        <Row
+          style={{
+            justifyContent: "center",
+            paddingTop: "0.5em",
+            paddingBottom: "0.5em",
+          }}
+        >
+          <blockquote
             style={{
               paddingTop: "0.5em",
               paddingBottom: "0.5em",
-              width: "100%",
             }}
           >
+            <i>
+              Der Mensch kann zwar tun, was er will. Aber er kann nicht wollen,
+              was er will.
+            </i>
+            <br></br>
+            <p>– Arthur Schopenhauer</p>
+          </blockquote>
+        </Row>
+        <Row
+          style={{
+            justifyContent: "center",
+            paddingTop: "0.5em",
+            paddingBottom: "0.5em",
+          }}
+        >
+          <Carousel fade>
             <Carousel.Item>
               <Card>
                 <Card.Img src={SanDiego} />
