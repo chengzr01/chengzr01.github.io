@@ -16,7 +16,16 @@ function Resume() {
 
   return (
     <div>
-      <Container fluid className="resume-section">
+      <Container
+        fluid
+        style={{
+          textAlign: "left",
+          position: "relative",
+          paddingBottom: "30px",
+          paddingTop: "150px",
+          width: "60%",
+        }}
+      >
         <h1 className="resume-heading" style={{ textAlign: "center" }}>
           <strong className="purple"> Curriculum Vitae </strong>
         </h1>
@@ -143,13 +152,16 @@ function Resume() {
                   <ul>
                     <li>
                       <b>
-                        Wikibench: Community Driven Data Curation for AI Evaluation on Wikipedia
+                        Wikibench: Community Driven Data Curation for AI
+                        Evaluation on Wikipedia
                       </b>
                       <br />
                       Tzu-Sheng Kuo, Aaron Halfaker,{" "}
                       <u>
                         <b>Zirui Cheng</b>
-                      </u>, Jiwoo Kim, Meng-Hsin Wu, Tongshuang Wu, Kenneth Holstein, Haiyi Zhu.
+                      </u>
+                      , Jiwoo Kim, Meng-Hsin Wu, Tongshuang Wu, Kenneth
+                      Holstein, Haiyi Zhu.
                       <br /> <b>CHI 2024</b> –{" "}
                       <i>
                         2024 ACM CHI Conference on Human Systems in Computing

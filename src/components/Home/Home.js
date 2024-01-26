@@ -25,11 +25,12 @@ function Home() {
             </p>
             <Row>
               <Col md={12} className="home-about-social">
-                 [
+                [
                 <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
                   Google Scholar
                 </a>
-                ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [<a href={"/#/curriculum_vitae"}>Curriculum Vitae</a>] 
+                ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [
+                <a href={"/#/curriculum_vitae"}>Curriculum Vitae</a>]
               </Col>
             </Row>
           </Col>
@@ -38,45 +39,62 @@ function Home() {
               <h4>
                 <b>About</b>
               </h4>
-              Welcome! I am Zirui Cheng (pronunciation: [tsɿʐui tʂʰəŋ]). I am a
-              fourth-year undergraduate student in the{" "}
-              <a href={"https://www.cs.tsinghua.edu.cn/csen/"}>
-                Department of Computer Science and Technology
-              </a>{" "}
-              at{" "}
-              <a href={"https://www.tsinghua.edu.cn/en/"}>
-                Tsinghua University
-              </a>
-              . <br />
-              My research interests lie in <b>
-                Human-Computer Interaction
-              </b> and <b>Machine Learning</b>. In my research, I seek to
-              mitigate the gap between principles of Human-Computer Interaction
-              and realities of Artificial Intelligence in the practice of designing, developing, and evaluating AI-enabled systems.
-              <br />
-              During my undergraduate life, I have been fortunate to work with
-              Prof.{" "}
-              <a href={"https://www.thecoalalab.com/kenholstein"}>
-                Ken Holstein
-              </a>{" "}
-              at Carnegie Mellon University, Prof.{" "}
-              <a href="http://shift-3.com/">Haojian Jin</a> at University of
-              California San Diego, and Prof.{" "}
-              <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/">
-                Yuntao Wang
-              </a>{" "}
-              at Tsinghua University.<br></br>
-              <br></br>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                  Welcome! I am Zirui Cheng (pronunciation: [tsɿʐui tʂʰəŋ]). I
+                  am a fourth-year undergraduate student at{" "}
+                  <a href={"https://www.tsinghua.edu.cn/en/"}>
+                    Tsinghua University
+                  </a>{" "}
+                  where I major in Computer Science and Technology and minor in
+                  Economics and Finance. <br />
+                </p>
+                <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                  My research interests lie in{" "}
+                  <b> Human-Computer Interaction </b> and{" "}
+                  <b>Machine Learning</b>. In my research, I seek to mitigate
+                  the gap between principles of Human-Computer Interaction and
+                  realities of Artificial Intelligence in the practice of
+                  designing, developing, and evaluating AI-enabled systems.
+                  <br />
+                </p>
+                <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                  During my undergraduate life, I have been fortunate to work
+                  with Prof.{" "}
+                  <a href={"https://www.thecoalalab.com/kenholstein"}>
+                    Ken Holstein
+                  </a>{" "}
+                  at Carnegie Mellon University, Prof.{" "}
+                  <a href="http://shift-3.com/">Haojian Jin</a> at University of
+                  California San Diego, and Prof.{" "}
+                  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/">
+                    Yuntao Wang
+                  </a>{" "}
+                  at Tsinghua University.
+                </p>
+              </div>
               <h4>
                 <b>Updates</b>
               </h4>
-              <ul>
-                <li>(July 2023) I will be attending DIS 2023 in Pittsburgh, USA.</li>
-                <li>(April 2023) I will be attending CHI 2023 in Hamburg, Germany.</li>
-              </ul>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <ul>
+                  <li>
+                    (May 2024) I will be attending CHI 2024 in Honolulu,
+                    Hawaiʻi, USA.
+                  </li>
+                  <li>
+                    (July 2023) I will be attending DIS 2023 in Pittsburgh,
+                    Pennsylvania, USA.
+                  </li>
+                  <li>
+                    (April 2023) I will be attending CHI 2023 in Hamburg,
+                    Germany.
+                  </li>
+                </ul>
+              </div>
               <Card
                 className="info-card"
-                style={{ marginTop: 20, marginBottom: 20 }}
+                style={{ marginBottom: "0.5em", marginTop: "0.5em" }}
               >
                 <Card.Text>
                   📢 I am looking for a Ph.D. position starting from 2024 Fall!
