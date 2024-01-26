@@ -16,8 +16,8 @@ function Projects() {
       }}
     >
       <Container>
-        <h2 className="project-heading" style={{ textAlign: "center" }}>
-          <strong className="purple"> Publications </strong>
+        <h2 style={{ textAlign: "center" }}>
+          <b>Publications</b>
         </h2>
         <Row
           style={{

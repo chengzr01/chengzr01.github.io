@@ -64,8 +64,6 @@ function Miscellaneous() {
         <Row
           style={{
             justifyContent: "center",
-            paddingTop: "0.5em",
-            paddingBottom: "0.5em",
           }}
         >
           <Carousel fade>
