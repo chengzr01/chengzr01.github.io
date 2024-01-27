@@ -47,23 +47,17 @@ function Miscellaneous() {
             paddingBottom: "0.5em",
           }}
         >
-          <blockquote
-            style={{
-              paddingTop: "0.5em",
-              paddingBottom: "0.5em",
-            }}
-          >
-            <i>
-              Der Mensch kann zwar tun, was er will. Aber er kann nicht wollen,
-              was er will.
-            </i>
-            <br></br>
-            <p>– Arthur Schopenhauer</p>
-          </blockquote>
+          <i>
+            Der Mensch kann zwar tun, was er will. Aber er kann nicht wollen,
+            was er will.
+          </i>
+          <p>– Arthur Schopenhauer</p>
         </Row>
         <Row
           style={{
             justifyContent: "center",
+            paddingTop: "0.5em",
+            paddingBottom: "0.5em",
           }}
         >
           <Carousel fade>
@@ -138,6 +132,39 @@ function Miscellaneous() {
               </Carousel.Caption>
             </Carousel.Item>
           </Carousel>
+        </Row>
+        <br />
+        <Row
+          style={{
+            justifyContent: "center",
+            paddingTop: "0.5em",
+            paddingBottom: "0.5em",
+          }}
+        >
+          <h4>
+            <b>Fun</b>
+          </h4>
+        </Row>
+        <Row
+          style={{
+            paddingTop: "0.5em",
+            paddingBottom: "0.5em",
+          }}
+        >
+          <p>
+            Before joining the{" "}
+            <a href={"https://www.cs.tsinghua.edu.cn/csen/"}>
+              Department of Computer Science and Technology
+            </a>
+            , I studied in the{" "}
+            <a href="https://www.sem.tsinghua.edu.cn/en/">
+              School of Economics and Management
+            </a>{" "}
+            at{" "}
+            <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>.
+            I have worked as a financial analyst at banking companies including
+            the <a href="https://www.group.citic/en/">CITIC Securities</a>.
+          </p>
         </Row>
       </Container>
     </Container>

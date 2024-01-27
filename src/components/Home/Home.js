@@ -42,12 +42,15 @@ function Home() {
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                   Welcome! I am Zirui Cheng (pronunciation: [tsɿʐui tʂʰəŋ]). I
-                  am a fourth-year undergraduate student at{" "}
+                  am a fourth-year undergraduate student in the{" "}
+                  <a href={"https://www.cs.tsinghua.edu.cn/csen/"}>
+                    Department of Computer Science and Technology
+                  </a>{" "}
+                  at{" "}
                   <a href={"https://www.tsinghua.edu.cn/en/"}>
                     Tsinghua University
-                  </a>{" "}
-                  where I major in Computer Science and Technology and minor in
-                  Economics and Finance. <br />
+                  </a>
+                  . <br />
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                   My research interests lie in{" "}
