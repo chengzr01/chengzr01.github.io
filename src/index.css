@@ -87,11 +87,41 @@
   src: url("./Assets/Fonts/Fira_Sans/FiraSans-Italic.ttf");
 }
 
+@font-face {
+  font-family: "Cabin";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./Assets/Fonts/Cabin/static/Cabin-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Cabin";
+  font-weight: bold;
+  font-style: normal;
+  src: url("./Assets/Fonts/Cabin/static/Cabin-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Cabin";
+  font-weight: normal;
+  font-style: italic;
+  src: url("./Assets/Fonts/Cabin/static/Cabin-Italic.ttf");
+}
+
+@font-face {
+  font-family: "Cabin";
+  font-weight: bold;
+  font-style: italic;
+  src: url("./Assets/Fonts/Cabin/static/Cabin-SemiBoldItalic.ttf");
+}
+
+
 body {
   margin: 0;
   /* font-family: "Lato", sans-serif !important; */
   /* font-family: "Open_Sans", sans-serif !important; */
   font-family: "Palatino", serif !important;
+  /* font-family: "Cabin", serif !important; */
   /* font-family: "Fira_Sans", sans-serif !important; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
