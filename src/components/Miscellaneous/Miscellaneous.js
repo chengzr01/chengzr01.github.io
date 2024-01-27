@@ -152,17 +152,13 @@ function Miscellaneous() {
           }}
         >
           <p>
-            Before joining the{" "}
-            <a href={"https://www.cs.tsinghua.edu.cn/csen/"}>
-              Department of Computer Science and Technology
-            </a>
-            , I studied in the{" "}
+            Before joining the Department of Computer Science and Technology, I
+            studied in the{" "}
             <a href="https://www.sem.tsinghua.edu.cn/en/">
               School of Economics and Management
             </a>{" "}
-            at{" "}
-            <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>.
-            I have worked as a financial analyst at banking companies including{" "}
+            at Tsinghua University. Back then, I also worked as a financial
+            analyst at banking companies including{" "}
             <a href="https://www.group.citic/en/">CITIC Securities</a>.
           </p>
         </Row>
