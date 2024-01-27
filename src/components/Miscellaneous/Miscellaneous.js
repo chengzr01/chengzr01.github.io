@@ -162,8 +162,8 @@ function Miscellaneous() {
             </a>{" "}
             at{" "}
             <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>.
-            I have worked as a financial analyst at banking companies including
-            the <a href="https://www.group.citic/en/">CITIC Securities</a>.
+            I have worked as a financial analyst at banking companies including{" "}
+            <a href="https://www.group.citic/en/">CITIC Securities</a>.
           </p>
         </Row>
       </Container>
