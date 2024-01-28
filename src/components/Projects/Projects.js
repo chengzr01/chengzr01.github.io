@@ -136,8 +136,8 @@ function Projects() {
                       </a>
                       ]
                       <br />
-                      Topics: Usable Privacy & Security, Computer Vision,
-                      Machine Learning.
+                      Topics: Privacy & Security, Computer Vision, Ubiquitous
+                      Computing.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
