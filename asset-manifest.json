@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/static/js/main.js",
-    "main.css": "/static/css/main.8eb015f4.css",
+    "main.css": "/static/css/main.8ab3a675.css",
     "static/js/787.chunk.js": "/static/js/787.chunk.js",
     "static/media/Suzhou.jpg": "/static/media/Suzhou.jpg",
     "static/media/avatar.png": "/static/media/avatar.png",
@@ -24,16 +24,20 @@
     "static/media/Palatino.ttf": "/static/media/Palatino.ttf",
     "static/media/Curriculum_Vitae.pdf": "/static/media/Curriculum_Vitae.pdf",
     "static/media/Lato-BoldItalic.ttf": "/static/media/Lato-BoldItalic.ttf",
+    "static/media/Cabin-SemiBold.ttf": "/static/media/Cabin-SemiBold.ttf",
+    "static/media/Cabin-Regular.ttf": "/static/media/Cabin-Regular.ttf",
     "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.ttf",
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.ttf",
+    "static/media/Cabin-SemiBoldItalic.ttf": "/static/media/Cabin-SemiBoldItalic.ttf",
+    "static/media/Cabin-Italic.ttf": "/static/media/Cabin-Italic.ttf",
     "index.html": "/index.html",
     "main.js.map": "/static/js/main.js.map",
-    "main.8eb015f4.css.map": "/static/css/main.8eb015f4.css.map",
+    "main.8ab3a675.css.map": "/static/css/main.8ab3a675.css.map",
     "787.chunk.js.map": "/static/js/787.chunk.js.map"
   },
   "entrypoints": [
     "static/js/main.js",
-    "static/css/main.8eb015f4.css"
+    "static/css/main.8ab3a675.css"
   ]
 }
