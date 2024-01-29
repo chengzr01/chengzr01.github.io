@@ -1,7 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import privacy_paper from "../../Assets/Projects/trade-off-CHI'23.pdf";
-import teacherlm_paper from "../../Assets/Projects/TeacherLM.pdf";
+import privacy_paper from "../../Assets/Projects/trade-off-CHI'23-paper.pdf";
+import privacy_slides from "../../Assets/Projects/trade-off-CHI'23-slides.pdf";
+import teacherlm_paper from "../../Assets/Projects/teacherlm-paper.pdf";
 import Card from "react-bootstrap/Card";
 
 function Projects() {
@@ -133,6 +134,10 @@ function Projects() {
                       ] [
                       <a href="https://www.youtube.com/watch?v=QVe-tPDPT18">
                         Video
+                      </a>
+                      ] [
+                      <a href={privacy_slides} target="_blank">
+                        Slides
                       </a>
                       ]
                       <br />
