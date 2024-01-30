@@ -142,7 +142,7 @@ function Miscellaneous() {
           }}
         >
           <h4>
-            <b>Fun</b>
+            <b>Personal</b>
           </h4>
         </Row>
         <Row
