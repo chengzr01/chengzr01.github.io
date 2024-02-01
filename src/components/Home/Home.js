@@ -57,8 +57,8 @@ function Home() {
                   <b> Human-Computer Interaction </b> and{" "}
                   <b>Machine Learning</b>. In my research, I seek to mitigate
                   the gap between principles of Human-Computer Interaction and
-                  realities of Artificial Intelligence in the practice of
-                  designing, developing, and evaluating AI-enabled systems.
+                  realities of Machine Learning in the practice of designing,
+                  developing, and evaluating ML-enabled systems.
                   <br />
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
