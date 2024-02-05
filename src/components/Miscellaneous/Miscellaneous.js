@@ -40,7 +40,7 @@ function Miscellaneous() {
             <b>Travelling</b>
           </h4>
         </Row>
-        <Row
+        {/* <Row
           style={{
             justifyContent: "center",
             paddingTop: "0.5em",
@@ -52,7 +52,7 @@ function Miscellaneous() {
             was er will.
           </i>
           <p>– Arthur Schopenhauer</p>
-        </Row>
+        </Row> */}
         <Row
           style={{
             justifyContent: "center",
