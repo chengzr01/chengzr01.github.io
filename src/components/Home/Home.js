@@ -61,20 +61,6 @@ function Home() {
                   developing, and evaluating ML-enabled systems.
                   <br />
                 </p>
-                <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                  During my undergraduate life, I have been fortunate to work
-                  with Prof.{" "}
-                  <a href={"https://www.thecoalalab.com/kenholstein"}>
-                    Ken Holstein
-                  </a>{" "}
-                  at Carnegie Mellon University, Prof.{" "}
-                  <a href="http://shift-3.com/">Haojian Jin</a> at University of
-                  California San Diego, and Prof.{" "}
-                  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/">
-                    Yuntao Wang
-                  </a>{" "}
-                  at Tsinghua University.
-                </p>
               </div>
               <h4>
                 <b>Updates</b>
