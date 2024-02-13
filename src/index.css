@@ -115,14 +115,42 @@
   src: url("./Assets/Fonts/Cabin/static/Cabin-SemiBoldItalic.ttf");
 }
 
+@font-face {
+  font-family: "Raleway";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./Assets/Fonts/Raleway/static/Raleway-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Raleway";
+  font-weight: bold;
+  font-style: normal;
+  src: url("./Assets/Fonts/Raleway/static/Raleway-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Raleway";
+  font-weight: normal;
+  font-style: italic;
+  src: url("./Assets/Fonts/Raleway/static/Raleway-Italic.ttf");
+}
+
+@font-face {
+  font-family: "Raleway";
+  font-weight: bold;
+  font-style: italic;
+  src: url("./Assets/Fonts/Raleway/static/Raleway-BoldItalic.ttf");
+}
 
 body {
   margin: 0;
   /* font-family: "Lato", sans-serif !important; */
   /* font-family: "Open_Sans", sans-serif !important; */
-  font-family: "Palatino", serif !important;
+  /* font-family: "Palatino", serif !important; */
   /* font-family: "Cabin", serif !important; */
   /* font-family: "Fira_Sans", sans-serif !important; */
+  font-family: "Raleway", sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(

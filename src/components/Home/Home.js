@@ -53,16 +53,15 @@ function Home() {
                   . <br />
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                  My research interests lie in{" "}
-                  <b> Human-Computer Interaction </b> and{" "}
-                  <b>Machine Learning</b>. In my research, I seek to mitigate
-                  the gap between principles of Human-Computer Interaction and
-                  realities of Machine Learning in the practice of designing,
-                  developing, and evaluating ML-enabled systems.
+                  My research interests lie in and <b>Machine Learning</b> and
+                  <b> Human-Computer Interaction </b>. In my research, I seek to
+                  mitigate the gap between principles of Human-Computer
+                  Interaction and realities of Machine Learning in the practice
+                  of designing, developing, and evaluating ML-enabled systems.
                   <br />
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                  During my undergraduate life, I have been fortunate to work
+                  {/* During my undergraduate life, I have been fortunate to work
                   with Prof.{" "}
                   <a href={"https://www.thecoalalab.com/kenholstein"}>
                     Ken Holstein
@@ -73,7 +72,10 @@ function Home() {
                   <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/">
                     Yuntao Wang
                   </a>{" "}
-                  at Tsinghua University.
+                  at Tsinghua University. */}
+                  During my undergraduate life, I have also worked as a research
+                  intern at Carnegie Mellon University and University of
+                  California San Diego.
                 </p>
               </div>
               <h4>
@@ -95,14 +97,14 @@ function Home() {
                   </li>
                 </ul>
               </div>
-              <Card
+              {/* <Card
                 className="info-card"
                 style={{ marginBottom: "0.5em", marginTop: "0.5em" }}
               >
                 <Card.Text>
                   📢 I am looking for a Ph.D. position starting from 2024 Fall!
                 </Card.Text>
-              </Card>
+              </Card> */}
             </p>
           </Col>
         </Row>

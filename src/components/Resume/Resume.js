@@ -126,8 +126,8 @@ function Resume() {
                 >
                   <ul>
                     <li>
-                      Human-Computer Interaction, Machine Learning, Data
-                      Science, Natural Language Processing.
+                      Machine Learning, Natural Language Processing,
+                      Human-Computer Interaction.
                     </li>
                   </ul>
                 </td>
@@ -230,8 +230,8 @@ function Resume() {
                   <ul>
                     <li>
                       <b>Carnegie Mellon University</b>
-                      <br /> Human-Computer Interaction Institute, Advisor: Ken
-                      Holstein
+                      <br /> Research Intern at Human-Computer Interaction
+                      Institute, Advisor: Ken Holstein
                     </li>
                   </ul>
                 </td>
@@ -257,8 +257,8 @@ function Resume() {
                   <ul>
                     <li>
                       <b>University of California San Diego</b>
-                      <br /> Halıcıoğlu Data Science Institute, Advisor: Haojian
-                      Jin
+                      <br /> Research Intern at Halıcıoğlu Data Science
+                      Institute, Advisor: Haojian Jin
                     </li>
                   </ul>
                 </td>
@@ -285,7 +285,7 @@ function Resume() {
                     <li>
                       <b>SenseTime Technology</b>
                       <br />
-                      Natural Language Processing Group
+                      Research Intern at Natural Language Processing Group
                     </li>
                   </ul>
                 </td>
@@ -312,8 +312,8 @@ function Resume() {
                     <li>
                       <b>Tsinghua University</b>
                       <br />
-                      Department of Computer Science and Technology, Advisor:
-                      Yuntao Wang
+                      Research Intern at Department of Computer Science and
+                      Technology, Advisor: Yuntao Wang
                     </li>
                   </ul>
                 </td>
