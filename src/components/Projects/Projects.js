@@ -69,8 +69,6 @@ function Projects() {
                         Systems
                       </i>{" "}
                       (Conditionally Accepted).
-                      <br /> Topics: Data Curation, Machine Learning, Social
-                      Computing.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
@@ -140,9 +138,6 @@ function Projects() {
                         Slides
                       </a>
                       ]
-                      <br />
-                      Topics: Privacy & Security, Computer Vision, Ubiquitous
-                      Computing.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
@@ -199,9 +194,6 @@ function Projects() {
                         Cooperative Work & Social Computing
                       </i>{" "}
                       (Submitted in July 2023 Cycle).
-                      <br />
-                      Topics: Human-AI Collaboration, Large Language Models,
-                      Educational Technology.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
@@ -264,8 +256,6 @@ function Projects() {
                       </a>
                       ] [<a href={teacherlm_paper}>Paper</a>]
                       <br />
-                      Topics: Large Language Models, Complex Reasoning,
-                      Instruction Finetuning.
                     </Card.Text>
                     {"\n"}
                     {"\n"}
