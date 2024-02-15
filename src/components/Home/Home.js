@@ -2,7 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
-import Card from "react-bootstrap/Card";
+import pdf from "../../Assets/Resume/Curriculum_Vitae.pdf";
+import { pdfjs } from "react-pdf";
+import "react-pdf/dist/esm/Page/AnnotationLayer.css";
+pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 function Home() {
   return (
@@ -14,25 +17,38 @@ function Home() {
               <img src={myImg} width="50%" className="img-fluid" />
             </Tilt>
             <br />
-            <p style={{ fontSize: "1.8em" }}>
+            <p
+              style={{
+                fontSize: "2em",
+                marginBottom: "0.5em",
+                marginTop: "0.5em",
+              }}
+            >
               <span className="purple"> Zirui Cheng </span>
             </p>
-            <p style={{ fontSize: "1.8em" }}>
+            <p
+              style={{
+                fontSize: "2em",
+                marginBottom: "0.5em",
+                marginTop: "0.5em",
+              }}
+            >
               <span className="purple"> 程子睿 </span>
             </p>
-            <p style={{ fontSize: "1.2em" }}>
-              <span className="purple"> chengzr19@mails.tsinghua.edu.cn </span>
+            <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+              chengzr19@mails.tsinghua.edu.cn
             </p>
-            <Row>
-              <Col md={12} className="home-about-social">
-                [
-                <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
-                  Google Scholar
-                </a>
-                ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [
-                <a href={"/#/curriculum_vitae"}>Curriculum Vitae</a>]
-              </Col>
-            </Row>
+            <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+              [
+              <a href={pdf} target="_blank">
+                Curriculum Vitae
+              </a>
+              ] [
+              <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
+                Google Scholar
+              </a>
+              ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>]
+            </p>
           </Col>
           <Col md={8} className="home-about-description">
             <p className="home-about-body">
@@ -73,7 +89,7 @@ function Home() {
                     Yuntao Wang
                   </a>{" "}
                   at Tsinghua University. */}
-                  During my undergraduate life, I have also worked as a research
+                  During my undergraduate life, I also worked as a research
                   intern at Carnegie Mellon University and University of
                   California San Diego.
                 </p>

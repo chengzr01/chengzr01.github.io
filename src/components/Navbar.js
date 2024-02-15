@@ -64,7 +64,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/curriculum_vitae"
@@ -73,7 +73,7 @@ function NavBar() {
                 <AiOutlineUser style={{ marginBottom: "2px" }} />
                 Curriculum Vitae
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
             <Nav.Item>
               <Nav.Link

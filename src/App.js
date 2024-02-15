@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
 import Projects from "./components/Projects/Projects";
 import Resume from "./components/Resume/Resume";
-import Miscellaneous from "./components/Miscellaneous/Miscellaneous"
+import Miscellaneous from "./components/Miscellaneous/Miscellaneous";
 import {
   HashRouter as Router,
   Route,
@@ -25,7 +25,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/publications" element={<Projects />} />
           <Route path="/miscellaneous" element={<Miscellaneous />} />
-          <Route path="/curriculum_vitae" element={<Resume />} />
+          {/* <Route path="/curriculum_vitae" element={<Resume />} /> */}
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </div>
