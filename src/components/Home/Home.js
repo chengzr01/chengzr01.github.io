@@ -69,7 +69,7 @@ function Home() {
                   . <br />
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                  My research interests lie in and <b>Machine Learning</b> and
+                  My research interests lie in <b>Machine Learning</b> and
                   <b> Human-Computer Interaction</b>. In my research, I seek to
                   mitigate the gap between principles of Human-Computer
                   Interaction and realities of Machine Learning in the practice
