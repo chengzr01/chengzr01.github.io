@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import privacy_paper from "../../Assets/Projects/trade-off-CHI'23-paper.pdf";
+import wikibench_paper from "../../Assets/Projects/wikibench-CHI'24-paper.pdf";
 import privacy_slides from "../../Assets/Projects/trade-off-CHI'23-slides.pdf";
 import teacherlm_paper from "../../Assets/Projects/teacherlm-paper.pdf";
 import Card from "react-bootstrap/Card";
@@ -67,8 +68,20 @@ function Projects() {
                       <i>
                         2024 ACM CHI Conference on Human Systems in Computing
                         Systems
-                      </i>{" "}
-                      (Conditionally Accepted).
+                      </i>
+                      .
+                      <br />[<a target="_blank">ACM Digital Library</a>] [
+                      <a
+                        href={"https://arxiv.org/abs/2402.14147"}
+                        target="_blank"
+                      >
+                        arXiv Page
+                      </a>
+                      ] [
+                      <a href={wikibench_paper} target="_blank">
+                        Paper
+                      </a>
+                      ]
                     </Card.Text>
                     {"\n"}
                     {"\n"}
@@ -124,6 +137,13 @@ function Projects() {
                         target="_blank"
                       >
                         ACM Digital Library
+                      </a>
+                      ] [
+                      <a
+                        href="https://arxiv.org/abs/2303.10435"
+                        target="_blank"
+                      >
+                        arXiv Page
                       </a>
                       ] [
                       <a href={privacy_paper} target="_blank">
