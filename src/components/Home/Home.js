@@ -69,11 +69,13 @@ function Home() {
                   . <br />
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                  My research interests lie in <b>Machine Learning</b> and
-                  <b> Human-Computer Interaction</b>. In my research, I seek to
-                  mitigate the gap between principles of Human-Computer
-                  Interaction and realities of Machine Learning in the practice
-                  of designing, developing, and evaluating ML-enabled systems.
+                  My research interests lie at the intersection of machine
+                  learning, natural language processing, and human-computer
+                  interaction. In my research, I seek to mitigate the gap
+                  between principles of human-computer interaction and realities
+                  of artificial intelligence in the practice of designing,
+                  developing, and evaluating AI-enabled systems that are
+                  compatible with human goals.
                   <br />
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
