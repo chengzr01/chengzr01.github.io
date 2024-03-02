@@ -70,7 +70,7 @@ function Projects() {
                         Systems
                       </i>
                       .
-                      <br />[<a target="_blank">ACM Digital Library</a>] [
+                      <br />[
                       <a
                         href={"https://arxiv.org/abs/2402.14147"}
                         target="_blank"

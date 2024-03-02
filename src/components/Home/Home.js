@@ -71,13 +71,14 @@ function Home() {
                   California San Diego.
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                  My research interests lie at the intersection of machine
-                  learning, natural language processing, and human-computer
-                  interaction. In my research, I seek to mitigate the gap
-                  between principles of human-computer interaction and realities
-                  of artificial intelligence in the practice of designing,
-                  developing, and evaluating AI-enabled systems that are
-                  compatible with human goals.
+                  I am broadly interested in machine learning, natural language
+                  processing, and human-computer interaction. My research aims
+                  to advance the development of artificial general intelligence
+                  through human-AI interaction. To do so, I seek to understand
+                  and mitigate the gap between principles of human-computer
+                  interaction and realities of artificial intelligence when
+                  designing, developing, and evaluating human-centered AI
+                  systems.
                   <br />
                 </p>
                 {/* During my undergraduate life, I have been fortunate to work
