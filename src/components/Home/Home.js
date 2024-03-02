@@ -66,7 +66,9 @@ function Home() {
                   <a href={"https://www.tsinghua.edu.cn/en/"}>
                     Tsinghua University
                   </a>
-                  . <br />
+                  . During my undergraduate life, I also worked as a research
+                  intern at Carnegie Mellon University and University of
+                  California San Diego.
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                   My research interests lie at the intersection of machine
@@ -78,8 +80,7 @@ function Home() {
                   compatible with human goals.
                   <br />
                 </p>
-                <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                  {/* During my undergraduate life, I have been fortunate to work
+                {/* During my undergraduate life, I have been fortunate to work
                   with Prof.{" "}
                   <a href={"https://www.thecoalalab.com/kenholstein"}>
                     Ken Holstein
@@ -91,10 +92,6 @@ function Home() {
                     Yuntao Wang
                   </a>{" "}
                   at Tsinghua University. */}
-                  During my undergraduate life, I also worked as a research
-                  intern at Carnegie Mellon University and University of
-                  California San Diego.
-                </p>
               </div>
               <h4>
                 <b>Updates</b>

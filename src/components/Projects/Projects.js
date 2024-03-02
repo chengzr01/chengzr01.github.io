@@ -122,7 +122,7 @@ function Projects() {
                       </u>
                       *, Xin Yi, Yan Kong, Xueyang Wang, Xuhai Xu, Yukang Yan,
                       Chun Yu, Shwetak Patel, Yuanchun Shi. (* indicates
-                      co-first author.)
+                      co-first author)
                       <br /> <b>CHI 2023</b> –{" "}
                       <i>
                         2023 ACM CHI Conference on Human Systems in Computing
@@ -266,7 +266,7 @@ function Projects() {
                       , Junting Pan, Ruoyu Qin, Ruofan Lu, Rui Lu, Yunchen
                       Zhang, Gangming Zhao, Zhaohui Hou, Zhiyuan Huang, Shaoqing
                       Lu, Ding Liang, Mingjie Zhan. (* indicates co-first
-                      author.)
+                      author)
                       <br />[
                       <a
                         href={"https://arxiv.org/abs/2310.19019"}
