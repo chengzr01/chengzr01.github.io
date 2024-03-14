@@ -322,8 +322,8 @@ button:focus {
 
 .home-about-section {
   position: relative;
-  padding-bottom: 30px !important;
-  padding-top: 30px !important;
+  padding-bottom: 100px !important;
+  padding-top: 100px !important;
   padding-left: 70px !important;
   padding-right: 70px !important;
 }

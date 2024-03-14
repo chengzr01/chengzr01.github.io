@@ -12,44 +12,6 @@ function Home() {
     <Container fluid className="home-about-section" id="about">
       <Container>
         <Row>
-          <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} width="50%" className="img-fluid" />
-            </Tilt>
-            <br />
-            <p
-              style={{
-                fontSize: "2em",
-                marginBottom: "0.5em",
-                marginTop: "0.5em",
-              }}
-            >
-              <span className="purple"> Zirui Cheng </span>
-            </p>
-            <p
-              style={{
-                fontSize: "2em",
-                marginBottom: "0.5em",
-                marginTop: "0.5em",
-              }}
-            >
-              <span className="purple"> 程子睿 </span>
-            </p>
-            <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-              chengzr19@mails.tsinghua.edu.cn
-            </p>
-            <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-              [
-              <a href={pdf} target="_blank">
-                Curriculum Vitae
-              </a>
-              ] [
-              <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
-                Google Scholar
-              </a>
-              ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>]
-            </p>
-          </Col>
           <Col md={8} className="home-about-description">
             <p className="home-about-body">
               <h4>
@@ -72,13 +34,7 @@ function Home() {
                 </p>
                 <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                   I am broadly interested in machine learning, natural language
-                  processing, and human-computer interaction. My research aims
-                  to advance the development of artificial general intelligence
-                  through human-AI interaction. To do so, I seek to understand
-                  and mitigate the gap between principles of human-computer
-                  interaction and realities of artificial intelligence when
-                  designing, developing, and evaluating human-centered AI
-                  systems.
+                  processing, and human-computer interaction.
                   <br />
                 </p>
                 {/* During my undergraduate life, I have been fortunate to work
@@ -120,6 +76,44 @@ function Home() {
                   📢 I am looking for a Ph.D. position starting from 2024 Fall!
                 </Card.Text>
               </Card> */}
+            </p>
+          </Col>
+          <Col md={4} className="myAvtar">
+            <Tilt>
+              <img src={myImg} width="50%" className="img-fluid" />
+            </Tilt>
+            <br />
+            <p
+              style={{
+                fontSize: "2em",
+                marginBottom: "0.5em",
+                marginTop: "0.5em",
+              }}
+            >
+              <span className="purple"> Zirui Cheng </span>
+            </p>
+            <p
+              style={{
+                fontSize: "2em",
+                marginBottom: "0.5em",
+                marginTop: "0.5em",
+              }}
+            >
+              <span className="purple"> 程子睿 </span>
+            </p>
+            <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+              chengzr19@mails.tsinghua.edu.cn
+            </p>
+            <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+              [
+              <a href={pdf} target="_blank">
+                Curriculum Vitae
+              </a>
+              ] [
+              <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
+                Google Scholar
+              </a>
+              ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>]
             </p>
           </Col>
         </Row>

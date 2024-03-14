@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
+import Page from "./components/Page/Page";
 import Home from "./components/Home/Home";
 import Projects from "./components/Projects/Projects";
 import Resume from "./components/Resume/Resume";
@@ -19,14 +20,15 @@ function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <div className="App" id={"scroll"}>
-        <Navbar />
+        {/* <Navbar /> */}
         <ScrollToTop />
-        <Routes>
+        <Page />
+        {/* <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/publications" element={<Projects />} />
           <Route path="/miscellaneous" element={<Miscellaneous />} />
           <Route path="*" element={<Navigate to="/" />} />
-        </Routes>
+        </Routes> */}
       </div>
     </Router>
   );
