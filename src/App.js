@@ -22,13 +22,12 @@ function App() {
       <div className="App" id={"scroll"}>
         {/* <Navbar /> */}
         <ScrollToTop />
-        <Page />
-        {/* <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/publications" element={<Projects />} />
-          <Route path="/miscellaneous" element={<Miscellaneous />} />
+        <Routes>
+          <Route path="/" element={<Page />} />
+          {/* <Route path="/publications" element={<Projects />} />
+          <Route path="/miscellaneous" element={<Miscellaneous />} /> */}
           <Route path="*" element={<Navigate to="/" />} />
-        </Routes> */}
+        </Routes>
       </div>
     </Router>
   );

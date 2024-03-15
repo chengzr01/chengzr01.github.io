@@ -53,16 +53,16 @@ function Page() {
             </a>{" "}
             at{" "}
             <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>.
-            During my undergraduate life, I also worked as a research intern at
-            Carnegie Mellon University and University of California San Diego.
+            Previously, I also worked as a research intern at Carnegie Mellon
+            University and University of California San Diego.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My interest lies at the intersection of machine learning and
-            human-computer interaction. My research seeks to advance artificial
-            intelligence through human-computer interaction in the real world.
-            Recently, I have been interested in building systems to efficiently
-            elicit human feedbacks and developing algorithms to effectively
-            leverage human feedbacks.
+            human-computer interaction. My research seeks to improve artificial
+            intelligence through human-computer interaction in open
+            environments. Recently, I have been interested in building systems
+            to efficiently elicit human feedbacks and developing algorithms to
+            effectively leverage human interactions.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -192,6 +192,27 @@ function Page() {
                   Work & Social Computing
                 </i>{" "}
                 (In Submission).
+              </div>
+            </li>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>
+                  TeacherLM: Teaching to Fish Rather Than Giving the Fish,
+                  Language Modeling Likewise
+                </b>
+                <br />
+                Nan He*, Hanyu Lai*, Chenyang Zhao*,{" "}
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                , Junting Pan, Ruoyu Qin, Ruofan Lu, Rui Lu, Yunchen Zhang,
+                Gangming Zhao, Zhaohui Hou, Zhiyuan Huang, Shaoqing Lu, Ding
+                Liang, Mingjie Zhan. (* indicates co-first author)
+                <br />[
+                <a href={"https://arxiv.org/abs/2310.19019"} target="_blank">
+                  arXiv Page
+                </a>
+                ] [<a href={teacherlm_paper}>Paper</a>]
               </div>
             </li>
           </ul>
