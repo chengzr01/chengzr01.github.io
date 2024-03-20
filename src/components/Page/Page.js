@@ -59,8 +59,8 @@ function Page() {
             My interest lies at the intersection of machine learning and
             human-computer interaction. My research seeks to advance artificial
             intelligence through human interactions. Recently, I have been
-            interested in building systems to scaffold human interactions and
-            developing algorithms to utilize human interactions with
+            interested in building systems to scaffold human interactions with
+            and developing algorithms to utilize human interactions for
             state-of-the-art AI systems.
             <br />
           </p>
