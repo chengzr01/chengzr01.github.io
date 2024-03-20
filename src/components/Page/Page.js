@@ -20,8 +20,7 @@ function Page() {
         boxSizing: "border-box",
         paddingTop: "2em",
         paddingBottom: "2em",
-        paddingLeft: "12em",
-        paddingRight: "12em",
+        width: "80%",
       }}
       id="about"
     >
@@ -58,11 +57,11 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My interest lies at the intersection of machine learning and
-            human-computer interaction. My research seeks to improve artificial
-            intelligence through human-computer interaction in open
-            environments. Recently, I have been interested in building systems
-            to efficiently elicit human feedbacks and developing algorithms to
-            effectively leverage human interactions.
+            human-computer interaction. My research seeks to advance artificial
+            intelligence with human interactions. Recently, I have been
+            interested in building systems to efficiently elicit human feedbacks
+            and developing algorithms to effectively leverage human
+            interactions.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -78,14 +77,14 @@ function Page() {
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             <ul>
               <li>
-                (May 2024) I will be attending ICLR 2024 in Vienna, Austria.🇦🇹
+                (May 2024) I will be attending ICLR 2024 in Vienna, Austria.
               </li>
               <li>
                 (July 2023) I will be attending DIS 2023 in Pittsburgh,
-                Pennsylvania, USA.🇺🇸
+                Pennsylvania, USA.
               </li>
               <li>
-                (April 2023) I will be attending CHI 2023 in Hamburg, Germany.🇩🇪
+                (April 2023) I will be attending CHI 2023 in Hamburg, Germany.
               </li>
             </ul>
           </div>
