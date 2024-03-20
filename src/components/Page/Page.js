@@ -61,7 +61,7 @@ function Page() {
             intelligence through human interactions. Recently, I have been
             interested in building systems to scaffold human interactions and
             developing algorithms to utilize human interactions with
-            state-of-the-art machine learning methods.
+            state-of-the-art AI systems.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
