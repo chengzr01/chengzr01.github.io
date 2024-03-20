@@ -58,7 +58,7 @@ function Page() {
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My interest lies at the intersection of machine learning and
             human-computer interaction. My research seeks to advance artificial
-            intelligence with human interactions. Recently, I have been
+            intelligence through human interactions. Recently, I have been
             interested in building systems to scaffold human interactions and
             developing algorithms to utilize human interactions with
             state-of-the-art machine learning methods.
