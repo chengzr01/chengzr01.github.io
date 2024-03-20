@@ -60,8 +60,8 @@ function Page() {
             human-computer interaction. My research seeks to advance artificial
             intelligence through human interactions. Recently, I have been
             interested in building systems to scaffold human interactions with
-            and developing algorithms to utilize human interactions for
-            state-of-the-art AI systems.
+            AI systems as well as developing algorithms to align AI systems to
+            human interactions.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
