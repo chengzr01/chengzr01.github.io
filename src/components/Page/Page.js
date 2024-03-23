@@ -118,7 +118,9 @@ function Page() {
                   2024 ACM CHI Conference on Human Systems in Computing Systems
                 </i>
                 .
-                <br />[
+                <br />[{/* <a href={""} target="_blank"> */}
+                ACM Digital Library
+                {/* </a> */}] [
                 <a href={"https://arxiv.org/abs/2402.14147"} target="_blank">
                   arXiv Page
                 </a>
@@ -126,7 +128,38 @@ function Page() {
                 <a href={wikibench_paper} target="_blank">
                   Paper
                 </a>
-                ]
+                ] [{/* <a href=""> */}
+                Video
+                {/* </a> */}]
+              </div>
+            </li>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>
+                  TreeQuestion: Assessing Conceptual Learning Outcomes with
+                  LLM-Generated Multiple-Choice Questions
+                </b>{" "}
+                <br />
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                , Jingfei Xu, Haojian Jin.
+                <br />
+                <b>CSCW 2024</b> –{" "}
+                <i>
+                  2024 ACM SIGCHI Conference on Computer-Supported Cooperative
+                  Work & Social Computing
+                </i>
+                .
+                <br />[{/* <a href={""} target="_blank"> */}
+                ACM Digital Library
+                {/* </a> */}] [{/* <a href="" target="_blank"> */}
+                arXiv Page
+                {/* </a> */}] [{/* <a href="" target="_blank"> */}
+                Paper
+                {/* </a> */}] [{/* <a href=""> */}
+                Video
+                {/* </a> */}]
               </div>
             </li>
             <li>
@@ -166,33 +199,9 @@ function Page() {
                 </a>
                 ] [
                 <a href="https://www.youtube.com/watch?v=QVe-tPDPT18">Video</a>]
-                [
-                <a href={privacy_slides} target="_blank">
-                  Slides
-                </a>
-                ]
               </div>
             </li>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>
-                  TreeQuestion: Assessing Conceptual Learning Outcomes with
-                  LLM-Generated Multiple-Choice Questions
-                </b>{" "}
-                <br />
-                <u>
-                  <b>Zirui Cheng</b>
-                </u>
-                , Jingfei Xu, Haojian Jin.
-                <br />
-                <b>CSCW 2024</b> –{" "}
-                <i>
-                  2024 ACM SIGCHI Conference on Computer-Supported Cooperative
-                  Work & Social Computing
-                </i>{" "}
-                (In Submission).
-              </div>
-            </li>
+
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>
