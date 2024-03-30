@@ -37,18 +37,6 @@ function Home() {
                   processing, and human-computer interaction.
                   <br />
                 </p>
-                {/* During my undergraduate life, I have been fortunate to work
-                  with Prof.{" "}
-                  <a href={"https://www.thecoalalab.com/kenholstein"}>
-                    Ken Holstein
-                  </a>{" "}
-                  at Carnegie Mellon University, Prof.{" "}
-                  <a href="http://shift-3.com/">Haojian Jin</a> at University of
-                  California San Diego, and Prof.{" "}
-                  <a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/">
-                    Yuntao Wang
-                  </a>{" "}
-                  at Tsinghua University. */}
               </div>
               <h4>
                 <b>Updates</b>
@@ -58,24 +46,8 @@ function Home() {
                   <li>
                     (May 2024) I will be attending ICLR 2024 in Vienna, Austria.
                   </li>
-                  <li>
-                    (July 2023) I will be attending DIS 2023 in Pittsburgh,
-                    Pennsylvania, USA.
-                  </li>
-                  <li>
-                    (April 2023) I will be attending CHI 2023 in Hamburg,
-                    Germany.
-                  </li>
                 </ul>
               </div>
-              {/* <Card
-                className="info-card"
-                style={{ marginBottom: "0.5em", marginTop: "0.5em" }}
-              >
-                <Card.Text>
-                  📢 I am looking for a Ph.D. position starting from 2024 Fall!
-                </Card.Text>
-              </Card> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
