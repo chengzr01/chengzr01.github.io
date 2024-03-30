@@ -79,13 +79,6 @@ function Page() {
               <li>
                 (May 2024) I will be attending ICLR 2024 in Vienna, Austria.
               </li>
-              <li>
-                (July 2023) I will be attending DIS 2023 in Pittsburgh,
-                Pennsylvania, USA.
-              </li>
-              <li>
-                (April 2023) I will be attending CHI 2023 in Hamburg, Germany.
-              </li>
             </ul>
           </div>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
