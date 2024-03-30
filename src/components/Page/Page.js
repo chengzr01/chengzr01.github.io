@@ -110,6 +110,14 @@ function Page() {
                 <i>
                   2024 ACM CHI Conference on Human Systems in Computing Systems
                 </i>
+                . <br />
+                <a href="https://heal-workshop.github.io/">
+                  HEAL@CHI'24
+                </a> –{" "}
+                <i>
+                  Human Centered Evaluation and Auditing of Large Language
+                  Models
+                </i>
                 .
                 <br />[{/* <a href={""} target="_blank"> */}
                 ACM Digital Library
