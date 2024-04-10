@@ -6,9 +6,7 @@ import pdf from "../../Assets/Resume/Curriculum_Vitae.pdf";
 import { pdfjs } from "react-pdf";
 import privacy_paper from "../../Assets/Projects/trade-off-CHI'23-paper.pdf";
 import wikibench_paper from "../../Assets/Projects/wikibench-CHI'24-paper.pdf";
-import privacy_slides from "../../Assets/Projects/trade-off-CHI'23-slides.pdf";
 import teacherlm_paper from "../../Assets/Projects/teacherlm-paper.pdf";
-import Card from "react-bootstrap/Card";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
@@ -243,8 +241,7 @@ function Page() {
               School of Economics and Management
             </a>{" "}
             at Tsinghua University. Back then, I also worked as a financial
-            analyst at banking companies including{" "}
-            <a href="https://www.group.citic/en/">CITIC Securities</a>.
+            analyst at banking companies.
           </div>
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
