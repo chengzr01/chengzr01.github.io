@@ -63,7 +63,7 @@ function Page() {
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
+          {/* <p
             style={{
               fontSize: "1.5em",
               marginBottom: "0.5em",
@@ -78,7 +78,7 @@ function Page() {
                 (May 2024) I will be attending ICLR 2024 in Vienna, Austria.
               </li>
             </ul>
-          </div>
+          </div> */}
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
             style={{
