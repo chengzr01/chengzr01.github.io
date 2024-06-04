@@ -43,20 +43,16 @@ function Page() {
             About
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            Hi!👋 I am Zirui Cheng (程子睿, [tsɿʐui tʂʰəŋ]). I am a fourth-year
-            undergraduate student in the{" "}
-            <a href={"https://www.cs.tsinghua.edu.cn/csen/"}>
-              Department of Computer Science and Technology
-            </a>{" "}
+            Hi! I am Zirui Cheng (程子睿, [tsɿʐui tʂʰəŋ]). I am a fourth-year
+            undergraduate student in computer science and technology
             at{" "}
-            <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>.
+            <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>. I will join <a href="https://www.illinois.edu/">University of Illinois Urbana-Champaign</a> as a M.S. student in computer science starting from 2024 Fall.
             Previously, I also worked as a research intern at Carnegie Mellon
             University and University of California San Diego.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My interest lies at the intersection of machine learning and
-            human-computer interaction. My research seeks to advance artificial
-            intelligence through human interactions. Recently, I have been
+            human-computer interaction. I have been
             interested in building systems to scaffold human interactions with
             AI systems as well as developing algorithms to align AI systems to
             human interactions.
