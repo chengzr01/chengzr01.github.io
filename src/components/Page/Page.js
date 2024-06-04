@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.png";
+import myImg from "../../Assets/avatar_2024.jpg";
 import Tilt from "react-parallax-tilt";
 import pdf from "../../Assets/Resume/Curriculum_Vitae.pdf";
 import { pdfjs } from "react-pdf";
@@ -44,18 +44,21 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             Hi! I am Zirui Cheng (程子睿, [tsɿʐui tʂʰəŋ]). I am a fourth-year
-            undergraduate student in computer science and technology
-            at{" "}
-            <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>. I will join <a href="https://www.illinois.edu/">University of Illinois Urbana-Champaign</a> as a M.S. student in computer science starting from 2024 Fall.
+            undergraduate student in computer science and technology at{" "}
+            <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>.
+            I will join{" "}
+            <a href="https://www.illinois.edu/">
+              University of Illinois Urbana-Champaign
+            </a>{" "}
+            as a M.S. student in computer science starting from 2024 Fall.
             Previously, I also worked as a research intern at Carnegie Mellon
             University and University of California San Diego.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My interest lies at the intersection of machine learning and
-            human-computer interaction. I have been
-            interested in building systems to scaffold human interactions with
-            AI systems as well as developing algorithms to align AI systems to
-            human interactions.
+            human-computer interaction. I have been interested in building
+            systems to scaffold human interactions with AI systems as well as
+            developing algorithms to align AI systems to human interactions.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -249,6 +252,9 @@ function Page() {
           >
             <img src={myImg} width="75%" className="img-fluid" />
           </Tilt>
+          <i style={{ fontSize: "0.75em", color: "gray" }}>
+            Bayern, Deutschland
+          </i>
           <Row style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></Row>
           <p
             style={{
@@ -256,7 +262,7 @@ function Page() {
               marginTop: "0.5em",
             }}
           >
-            chengzr19@mails.tsinghua.edu.cn
+            ziruic4@illinois.edu
           </p>
           <p
             style={{
