@@ -116,9 +116,14 @@ function Page() {
                   Models
                 </i>
                 .
-                <br />[{/* <a href={""} target="_blank"> */}
-                ACM Digital Library
-                {/* </a> */}] [
+                <br />[
+                <a
+                  href={"https://dl.acm.org/doi/10.1145/3613904.3642278"}
+                  target="_blank"
+                >
+                  ACM Digital Library
+                </a>
+                ] [
                 <a href={"https://arxiv.org/abs/2402.14147"} target="_blank">
                   arXiv Page
                 </a>
@@ -126,9 +131,14 @@ function Page() {
                 <a href={wikibench_paper} target="_blank">
                   Paper
                 </a>
-                ] [{/* <a href=""> */}
-                Video
-                {/* </a> */}]
+                ] [
+                <a
+                  href="https://www.youtube.com/watch?v=VQVNKjjrlJ0"
+                  target="_blank"
+                >
+                  Video
+                </a>
+                ]
               </div>
             </li>
             <li>
