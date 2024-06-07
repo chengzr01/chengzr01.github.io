@@ -62,7 +62,7 @@ function Page() {
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          {/* <p
+          <p
             style={{
               fontSize: "1.5em",
               marginBottom: "0.5em",
@@ -74,10 +74,14 @@ function Page() {
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             <ul>
               <li>
+                (November 2024) I will be attending CSCW 2024 in San José, Costa
+                Rica.
+              </li>
+              <li style={{ color: "lightgray" }}>
                 (May 2024) I will be attending ICLR 2024 in Vienna, Austria.
               </li>
             </ul>
-          </div> */}
+          </div>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
             style={{
@@ -262,7 +266,7 @@ function Page() {
           >
             <img src={myImg} width="75%" className="img-fluid" />
           </Tilt>
-          <i style={{ fontSize: "0.75em", color: "gray" }}>
+          <i style={{ fontSize: "0.75em", color: "lightgray" }}>
             Bayern, Deutschland
           </i>
           <Row style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></Row>
