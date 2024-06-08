@@ -77,7 +77,7 @@ function Page() {
                 (November 2024) I will be attending CSCW 2024 in San José, Costa
                 Rica.
               </li>
-              <li style={{ color: "lightgray" }}>
+              <li>
                 (May 2024) I will be attending ICLR 2024 in Vienna, Austria.
               </li>
             </ul>
