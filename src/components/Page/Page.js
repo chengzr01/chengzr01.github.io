@@ -55,10 +55,11 @@ function Page() {
             University and University of California San Diego.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My interest lies at the intersection of machine learning and
-            human-computer interaction. I have been interested in building
-            systems to scaffold human interactions with AI systems as well as
-            developing algorithms to align AI systems to human interactions.
+            My interest lies at the intersection of <b>machine learning</b> and{" "}
+            <b>human-computer interaction</b>. I have been interested in
+            building systems to scaffold human interactions with AI systems as
+            well as developing algorithms to align AI systems to human
+            interactions.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -235,6 +236,19 @@ function Page() {
                 ] [<a href={teacherlm_paper}>Paper</a>]
               </div>
             </li>
+          </ul>
+          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
+          <p
+            style={{
+              fontSize: "1.5em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            Services
+          </p>
+          <ul>
+            <li>Reviewer: UIST 2024.</li>
           </ul>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
