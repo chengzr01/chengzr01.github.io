@@ -291,7 +291,10 @@ function Page() {
             }}
           >
             ziruic4@illinois.edu
+            <br />
+            chengzr19@mails.tsinghua.edu.cn
           </p>
+
           <p
             style={{
               marginBottom: "0.5em",
@@ -300,13 +303,14 @@ function Page() {
           >
             [
             <a href={pdf} target="_blank">
-              Curriculum Vitae
+              CV
             </a>
-            ] <br /> [
+            ] <br /> [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>]{" "}
+            <br />[
             <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
               Google Scholar
             </a>
-            ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>]
+            ]
           </p>
         </Col>
       </Row>
