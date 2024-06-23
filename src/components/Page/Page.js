@@ -290,27 +290,25 @@ function Page() {
               marginTop: "0.5em",
             }}
           >
-            ziruic4@illinois.edu
-            <br />
-            chengzr19@mails.tsinghua.edu.cn
+            [
+            <a href={pdf} target="_blank">
+              CV
+            </a>
+            ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [
+            <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
+              Google Scholar
+            </a>
+            ]
           </p>
-
           <p
             style={{
               marginBottom: "0.5em",
               marginTop: "0.5em",
             }}
           >
-            [
-            <a href={pdf} target="_blank">
-              CV
-            </a>
-            ] <br /> [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>]{" "}
-            <br />[
-            <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
-              Google Scholar
-            </a>
-            ]
+            ziruic4@illinois.edu
+            <br />
+            chengzr19@mails.tsinghua.edu.cn
           </p>
         </Col>
       </Row>
