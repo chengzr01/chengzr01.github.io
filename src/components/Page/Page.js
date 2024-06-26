@@ -59,7 +59,7 @@ function Page() {
             <b>human-computer interaction</b>. I have been interested in
             building systems to scaffold human interactions with AI systems as
             well as developing algorithms to align AI systems to human
-            interactions.
+            oversights.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -292,7 +292,7 @@ function Page() {
           >
             [
             <a href={pdf} target="_blank">
-              CV
+              C.V.
             </a>
             ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [
             <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
