@@ -43,14 +43,15 @@ function Page() {
             About
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            Hi! I am Zirui Cheng (程子睿, [tsɿʐui tʂʰəŋ]). I am a fourth-year
-            undergraduate student in computer science and technology at{" "}
-            <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>.
-            I will join{" "}
+            Hi! I am Zirui Cheng (程子睿, [tsɿʐui tʂʰəŋ]). I will join{" "}
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
-            as a M.S. student in computer science starting from 2024 Fall.
+            as a M.S. student in computer science starting from 2024 Fall. I
+            received my bachelor's degrees in{" "}
+            <i>computer science and technology</i> and{" "}
+            <i>economics and finance</i> from{" "}
+            <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>.
             Previously, I also worked as a research intern at Carnegie Mellon
             University and University of California San Diego.
           </p>
