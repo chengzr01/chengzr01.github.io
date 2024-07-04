@@ -252,7 +252,7 @@ function Page() {
             <li>Reviewer: UIST 2024.</li>
           </ul>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
+          {/* <p
             style={{
               fontSize: "1.5em",
               marginBottom: "0.5em",
@@ -270,7 +270,7 @@ function Page() {
             </a>{" "}
             at Tsinghua University. Back then, I also worked as a financial
             analyst at banking companies.
-          </div>
+          </div> */}
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
           <Tilt
