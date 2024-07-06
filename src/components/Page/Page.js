@@ -308,8 +308,6 @@ function Page() {
             }}
           >
             ziruic4@illinois.edu
-            <br />
-            chengzr19@mails.tsinghua.edu.cn
           </p>
         </Col>
       </Row>
