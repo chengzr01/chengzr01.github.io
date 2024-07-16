@@ -47,11 +47,17 @@ function Page() {
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
-            as a M.S. student in computer science starting from 2024 Fall. I
-            received my bachelor's degrees in{" "}
-            <i>computer science and technology</i> and{" "}
-            <i>economics and finance</i> from{" "}
-            <a href={"https://www.tsinghua.edu.cn/en/"}>Tsinghua University</a>.
+            as a M.S. student in Computer Science starting from 2024 Fall. I
+            received my Bachelor of Engineering degree in{" "}
+            <a href={"https://www.cs.tsinghua.edu.cn/"}>
+              Computer Science and Technology
+            </a>{" "}
+            and Bachelor of Economics degree in{" "}
+            <a href={"https://www.sem.tsinghua.edu.cn/"}>
+              Economics and Finance
+            </a>{" "}
+            from{" "}
+            <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
             Previously, I also worked as a research intern at Carnegie Mellon
             University and University of California San Diego.
           </p>
@@ -59,8 +65,8 @@ function Page() {
             My interest lies at the intersection of <b>machine learning</b> and{" "}
             <b>human-computer interaction</b>. I have been interested in
             building systems to scaffold human interactions with AI systems as
-            well as developing algorithms to align AI systems to human
-            oversights.
+            well as developing algorithms to advance AI systems with human
+            interactions.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -249,7 +255,7 @@ function Page() {
             Services
           </p>
           <ul>
-            <li>Reviewer: UIST 2024.</li>
+            <li>Reviewer: UIST 2024</li>
           </ul>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           {/* <p
@@ -293,11 +299,11 @@ function Page() {
           >
             [
             <a href={pdf} target="_blank">
-              C.V.
+              Vitae
             </a>
             ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [
             <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
-              Google Scholar
+              Scholar
             </a>
             ]
           </p>
