@@ -43,12 +43,13 @@ function Page() {
             About
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            Hi! I am Zirui Cheng (程子睿, [tsɿʐui tʂʰəŋ]). I will join{" "}
+            Hi! I am Zirui Cheng (程子睿, [tsɿʐui tʂʰəŋ]). I am a M.S. student
+            in Computer Science at the{" "}
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
-            as a M.S. student in Computer Science starting from 2024 Fall. I
-            received my Bachelor of Engineering degree in{" "}
+            starting from 2024 Fall. I received my Bachelor of Engineering
+            degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
@@ -62,11 +63,11 @@ function Page() {
             University and University of California San Diego.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My interest lies at the intersection of <b>machine learning</b> and{" "}
-            <b>human-computer interaction</b>. I have been interested in
-            building systems to scaffold human interactions with AI systems as
-            well as developing algorithms to advance AI systems with human
-            interactions.
+            My research interest lies at the intersection of{" "}
+            <b>machine learning</b> and <b>human-computer interaction</b>. I
+            have been interested in building systems to scaffold human
+            interactions with AI systems as well as developing algorithms to
+            advance AI systems with human interactions.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
