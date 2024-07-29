@@ -101,6 +101,15 @@ function Page() {
           >
             Publications
           </p>
+          <p
+            style={{
+              fontSize: "1em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            <i>Peer-Reviewed Papers</i>
+          </p>
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -172,15 +181,7 @@ function Page() {
                   Work & Social Computing
                 </i>
                 .
-                <br />[{/* <a href={""} target="_blank"> */}
-                ACM Digital Library
-                {/* </a> */}] [{/* <a href="" target="_blank"> */}
-                arXiv Page
-                {/* </a> */}] [{/* <a href="" target="_blank"> */}
-                Paper
-                {/* </a> */}] [{/* <a href=""> */}
-                Video
-                {/* </a> */}]
+                <br />[ ACM Digital Library ] [ arXiv Page ] [ Paper ] [ Video ]
               </div>
             </li>
             <li>
@@ -220,28 +221,6 @@ function Page() {
                 </a>
                 ] [
                 <a href="https://www.youtube.com/watch?v=QVe-tPDPT18">Video</a>]
-              </div>
-            </li>
-
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>
-                  TeacherLM: Teaching to Fish Rather Than Giving the Fish,
-                  Language Modeling Likewise
-                </b>
-                <br />
-                Nan He*, Hanyu Lai*, Chenyang Zhao*,{" "}
-                <u>
-                  <b>Zirui Cheng</b>
-                </u>
-                , Junting Pan, Ruoyu Qin, Ruofan Lu, Rui Lu, Yunchen Zhang,
-                Gangming Zhao, Zhaohui Hou, Zhiyuan Huang, Shaoqing Lu, Ding
-                Liang, Mingjie Zhan. (* indicates co-first author)
-                <br />[
-                <a href={"https://arxiv.org/abs/2310.19019"} target="_blank">
-                  arXiv Page
-                </a>
-                ] [<a href={teacherlm_paper}>Paper</a>]
               </div>
             </li>
           </ul>

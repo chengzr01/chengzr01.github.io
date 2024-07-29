@@ -1,10 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Navbar from "./components/Navbar";
 import Page from "./components/Page/Page";
-import Home from "./components/Home/Home";
-import Projects from "./components/Projects/Projects";
-import Resume from "./components/Resume/Resume";
-import Miscellaneous from "./components/Miscellaneous/Miscellaneous";
 import {
   HashRouter as Router,
   Route,
@@ -20,12 +15,9 @@ function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <div className="App" id={"scroll"}>
-        {/* <Navbar /> */}
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Page />} />
-          {/* <Route path="/publications" element={<Projects />} />
-          <Route path="/miscellaneous" element={<Miscellaneous />} /> */}
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </div>
