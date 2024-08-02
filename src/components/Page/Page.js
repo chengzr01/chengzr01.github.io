@@ -48,16 +48,17 @@ function Page() {
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
-            starting from 2024 Fall. I received my Bachelor of Engineering
-            degree in{" "}
+            starting from 2024 Fall. I am fortunate to be advised by Prof.{" "}
+            <a href={"https://cs.stanford.edu/people/jiaxuan/"}>Jiaxuan You</a>.
+            I received my Bachelor of Engineering degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
-            and Bachelor of Economics degree in{" "}
+            (major) and Bachelor of Economics degree in{" "}
             <a href={"https://www.sem.tsinghua.edu.cn/"}>
               Economics and Finance
             </a>{" "}
-            from{" "}
+            (minor) from{" "}
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
             Previously, I also worked as a research intern at Carnegie Mellon
             University and University of California San Diego.
@@ -181,7 +182,8 @@ function Page() {
                   Work & Social Computing
                 </i>
                 .
-                <br />[ ACM Digital Library ] [ arXiv Page ] [ Paper ] [ Video ]
+                <br />
+                [ACM Digital Library] [arXiv Page] [Paper] [Video]
               </div>
             </li>
             <li>
@@ -221,6 +223,26 @@ function Page() {
                 </a>
                 ] [
                 <a href="https://www.youtube.com/watch?v=QVe-tPDPT18">Video</a>]
+              </div>
+            </li>
+          </ul>
+          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
+          <p
+            style={{
+              fontSize: "1.5em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            Teaching
+          </p>
+          <ul>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>Deep Learning with Graphs</b> <br />
+                University of Illinois Urbana Champaign, CS598, 2024 Fall
+                <br />
+                Instructor: Jiaxuan You
               </div>
             </li>
           </ul>
