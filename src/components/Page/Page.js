@@ -6,7 +6,6 @@ import pdf from "../../Assets/Resume/Curriculum_Vitae.pdf";
 import { pdfjs } from "react-pdf";
 import privacy_paper from "../../Assets/Projects/trade-off-CHI'23-paper.pdf";
 import wikibench_paper from "../../Assets/Projects/wikibench-CHI'24-paper.pdf";
-import teacherlm_paper from "../../Assets/Projects/teacherlm-paper.pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
@@ -239,9 +238,12 @@ function Page() {
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>Deep Learning with Graphs</b> <br />
-                University of Illinois Urbana Champaign, CS598, 2024 Fall
-                <br />
+                <b>CS598: Deep Learning with Graphs</b> [
+                <a href="http://courses.grainger.illinois.edu/cs598you/fa2024/">
+                  Website
+                </a>
+                ]
+                <br /> University of Illinois Urbana Champaign, 2024 Fall,
                 Instructor: Jiaxuan You
               </div>
             </li>
