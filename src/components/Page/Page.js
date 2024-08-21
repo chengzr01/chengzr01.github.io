@@ -1,11 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar_2024.jpg";
 import Tilt from "react-parallax-tilt";
-import pdf from "../../Assets/Resume/Curriculum_Vitae.pdf";
 import { pdfjs } from "react-pdf";
-import privacy_paper from "../../Assets/Projects/trade-off-CHI'23-paper.pdf";
-import wikibench_paper from "../../Assets/Projects/wikibench-CHI'24-paper.pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
@@ -138,6 +134,10 @@ function Page() {
                   Models
                 </i>
                 .
+                <br />
+                <a href="https://wikiworkshop.org/">Wiki Workshop 2024</a>:
+                Supporting Community-Driven Data Curation for AI Evaluation on
+                Wikipedia through Wikibench.
                 <br />[
                 <a
                   href={"https://dl.acm.org/doi/10.1145/3613904.3642278"}
@@ -150,7 +150,10 @@ function Page() {
                   arXiv Page
                 </a>
                 ] [
-                <a href={wikibench_paper} target="_blank">
+                <a
+                  href={require("../../Assets/Projects/wikibench-CHI'24-paper.pdf")}
+                  target="_blank"
+                >
                   Paper
                 </a>
                 ] [
@@ -182,7 +185,13 @@ function Page() {
                 </i>
                 .
                 <br />
-                [ACM Digital Library] [arXiv Page] [Paper] [Video]
+                [ACM Digital Library] [arXiv Page] [
+                <a
+                  href={require("../../Assets/Projects/TreeQuestion-CSCW'24.pdf")}
+                >
+                  Paper
+                </a>
+                ] [Video]
               </div>
             </li>
             <li>
@@ -217,7 +226,10 @@ function Page() {
                   arXiv Page
                 </a>
                 ] [
-                <a href={privacy_paper} target="_blank">
+                <a
+                  href={require("../../Assets/Projects/trade-off-CHI'23-paper.pdf")}
+                  target="_blank"
+                >
                   Paper
                 </a>
                 ] [
@@ -289,7 +301,11 @@ function Page() {
               marginTop: "0.5em",
             }}
           >
-            <img src={myImg} width="75%" className="img-fluid" />
+            <img
+              src={require("../../Assets/avatar_2024.jpg")}
+              width="75%"
+              className="img-fluid"
+            />
           </Tilt>
           <i style={{ fontSize: "0.75em", color: "lightgray" }}>
             Bayern, Deutschland
@@ -302,7 +318,10 @@ function Page() {
             }}
           >
             [
-            <a href={pdf} target="_blank">
+            <a
+              href={require("../../Assets/Resume/Curriculum_Vitae.pdf")}
+              target="_blank"
+            >
               Vitae
             </a>
             ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [
