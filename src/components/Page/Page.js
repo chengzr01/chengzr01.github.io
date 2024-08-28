@@ -127,7 +127,7 @@ function Page() {
                 </i>
                 . <br />
                 <a href="https://heal-workshop.github.io/">
-                  HEAL@CHI'24
+                  HEAL@chi'24
                 </a> –{" "}
                 <i>
                   Human Centered Evaluation and Auditing of Large Language
@@ -151,7 +151,7 @@ function Page() {
                 </a>
                 ] [
                 <a
-                  href={require("../../Assets/Projects/wikibench-CHI'24-paper.pdf")}
+                  href={require("../../Assets/Projects/wikibench_chi'24_paper.pdf")}
                   target="_blank"
                 >
                   Paper
@@ -187,7 +187,7 @@ function Page() {
                 <br />
                 [ACM Digital Library] [arXiv Page] [
                 <a
-                  href={require("../../Assets/Projects/TreeQuestion-CSCW'24.pdf")}
+                  href={require("../../Assets/Projects/treequestion-cscw'24-paper.pdf")}
                 >
                   Paper
                 </a>
@@ -227,7 +227,7 @@ function Page() {
                 </a>
                 ] [
                 <a
-                  href={require("../../Assets/Projects/trade-off-CHI'23-paper.pdf")}
+                  href={require("../../Assets/Projects/trade-off_chi'23_paper.pdf")}
                   target="_blank"
                 >
                   Paper
