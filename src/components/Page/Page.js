@@ -250,7 +250,7 @@ function Page() {
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>CS598: Deep Learning with Graphs</b> [
+                <b>CS598: Deep Learning with Graphs</b>, Teaching Assistant [
                 <a href="http://courses.grainger.illinois.edu/cs598you/fa2024/">
                   Website
                 </a>
