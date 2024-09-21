@@ -63,7 +63,7 @@ function Page() {
             <b>machine learning</b> and <b>human-computer interaction</b>. I
             have been interested in building systems to scaffold human
             interactions with AI systems as well as developing algorithms to
-            advance AI systems with human interactions.
+            advance AI systems through human interactions.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -125,20 +125,7 @@ function Page() {
                 <i>
                   2024 ACM CHI Conference on Human Systems in Computing Systems
                 </i>
-                . <br />
-                <a href="https://heal-workshop.github.io/">
-                  HEAL@chi'24
-                </a> –{" "}
-                <i>
-                  Human Centered Evaluation and Auditing of Large Language
-                  Models
-                </i>
-                .
-                <br />
-                <a href="https://wikiworkshop.org/">Wiki Workshop 2024</a>:
-                Supporting Community-Driven Data Curation for AI Evaluation on
-                Wikipedia through Wikibench.
-                <br />[
+                . <br />[
                 <a
                   href={"https://dl.acm.org/doi/10.1145/3613904.3642278"}
                   target="_blank"
@@ -162,6 +149,16 @@ function Page() {
                   target="_blank"
                 >
                   Video
+                </a>
+                ]<br />
+                <a href="https://heal-workshop.github.io/">HEAL@CHI'24</a> –
+                Human Centered Evaluation and Auditing of Large Language Models
+                <br />
+                <a href="https://wikiworkshop.org/">Wiki Workshop 2024</a> [
+                <a
+                  href={require("../../Assets/Projects/wikibench_wiki'24_paper.pdf")}
+                >
+                  Paper
                 </a>
                 ]
               </div>
@@ -187,7 +184,7 @@ function Page() {
                 <br />
                 [ACM Digital Library] [arXiv Page] [
                 <a
-                  href={require("../../Assets/Projects/treequestion-cscw'24-paper.pdf")}
+                  href={require("../../Assets/Projects/treequestion_cscw'24_paper.pdf")}
                 >
                   Paper
                 </a>
@@ -251,9 +248,7 @@ function Page() {
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>CS598: Deep Learning with Graphs</b>, Teaching Assistant [
-                <a href="http://courses.grainger.illinois.edu/cs598you/fa2024/">
-                  Website
-                </a>
+                <a href="https://ulab-uiuc.github.io/CS598/">Website</a>
                 ]
                 <br /> University of Illinois Urbana Champaign, 2024 Fall,
                 Instructor: Jiaxuan You
