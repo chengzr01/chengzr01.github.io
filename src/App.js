@@ -10,14 +10,11 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   return (
     <BrowserRouter basename={"/"}>
-      <div className="App" id={"scroll"}>
-        <ScrollToTop />
-        <Routes>
-          <Route path="/home" element={<Page />} exact />
-          <Route path="/personal" element={<Personal />} />
-          <Route path="*" element={<Navigate to="/home" />} />
-        </Routes>
-      </div>
+      <Routes>
+        <Route path="/home" element={<Page />} exact />
+        <Route path="/personal" element={<Personal />} />
+        <Route path="*" element={<Navigate to="/home" />} />
+      </Routes>
     </BrowserRouter>
   );
 }
