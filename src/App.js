@@ -1,11 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Page from "./components/Page/Page";
-import {
-  HashRouter as Router,
-  Route,
-  Routes,
-  Navigate,
-} from "react-router-dom";
+import Personal from "./components/Page/Personal";
+import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
@@ -13,15 +9,16 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename={"/"}>
       <div className="App" id={"scroll"}>
         <ScrollToTop />
         <Routes>
-          <Route path="/" element={<Page />} />
-          <Route path="*" element={<Navigate to="/" />} />
+          <Route path="/home" element={<Page />} exact />
+          <Route path="/personal" element={<Personal />} />
+          <Route path="*" element={<Navigate to="/home" />} />
         </Routes>
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 

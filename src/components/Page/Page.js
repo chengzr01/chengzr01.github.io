@@ -269,7 +269,7 @@ function Page() {
             <li>Reviewer: UIST 2024</li>
           </ul>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          {/* <p
+          <p
             style={{
               fontSize: "1.5em",
               marginBottom: "0.5em",
@@ -278,16 +278,11 @@ function Page() {
           >
             Miscellaneous
           </p>
-          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            {" "}
-            Before joining the Department of Computer Science and Technology, I
-            studied in the{" "}
-            <a href="https://www.sem.tsinghua.edu.cn/en/">
-              School of Economics and Management
-            </a>{" "}
-            at Tsinghua University. Back then, I also worked as a financial
-            analyst at banking companies.
-          </div> */}
+          <ul>
+            <li>
+              Personal: [<a href="/personal">Page</a>]
+            </li>
+          </ul>
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
           <Tilt
