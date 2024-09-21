@@ -280,7 +280,7 @@ function Page() {
           </p>
           <ul>
             <li>
-              Personal: [<a href="/personal">Page</a>]
+              Personal: [<a href="/#/personal">Page</a>]
             </li>
           </ul>
         </Col>
