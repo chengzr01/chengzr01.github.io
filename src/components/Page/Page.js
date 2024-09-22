@@ -268,21 +268,6 @@ function Page() {
           <ul>
             <li>Reviewer: UIST 2024</li>
           </ul>
-          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Miscellaneous
-          </p>
-          <ul>
-            <li>
-              Personal: [<a href="/#/personal">Page</a>]
-            </li>
-          </ul>
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
           <Tilt
@@ -318,7 +303,7 @@ function Page() {
             <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
               Scholar
             </a>
-            ]
+            ] [<a href="/#/personal">Personal</a>]
           </p>
           <p
             style={{
