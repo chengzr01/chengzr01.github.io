@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/static/js/main.js",
-    "main.css": "/static/css/main.f5d6b9c2.css",
+    "main.css": "/static/css/main.d3f67b9c.css",
     "static/js/787.chunk.js": "/static/js/787.chunk.js",
     "static/media/treequestion_cscw'24_paper.pdf": "/static/media/treequestion_cscw'24_paper.pdf",
     "static/media/wikibench_chi'24_paper.pdf": "/static/media/wikibench_chi'24_paper.pdf",
@@ -32,11 +32,11 @@
     "static/media/Cabin-Italic.ttf": "/static/media/Cabin-Italic.ttf",
     "index.html": "/index.html",
     "main.js.map": "/static/js/main.js.map",
-    "main.f5d6b9c2.css.map": "/static/css/main.f5d6b9c2.css.map",
+    "main.d3f67b9c.css.map": "/static/css/main.d3f67b9c.css.map",
     "787.chunk.js.map": "/static/js/787.chunk.js.map"
   },
   "entrypoints": [
     "static/js/main.js",
-    "static/css/main.f5d6b9c2.css"
+    "static/css/main.d3f67b9c.css"
   ]
 }
