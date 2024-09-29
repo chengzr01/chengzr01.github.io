@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 
 function Personal() {
   return (
@@ -12,24 +12,7 @@ function Personal() {
         width: "80%",
       }}
       id="about"
-    >
-      <Row style={{ width: "100%", marginBottom: "1em", marginTop: "1em" }}>
-        <p
-          style={{
-            fontSize: "2em",
-            marginBottom: "1em",
-            marginTop: "1em",
-          }}
-        >
-          Zirui Cheng
-        </p>
-      </Row>
-      <Row style={{ width: "100%", marginBottom: "1em", marginTop: "1em" }}>
-        <p>
-          [<a href="/#/home">Home</a>]
-        </p>
-      </Row>
-    </Container>
+    ></Container>
   );
 }
 

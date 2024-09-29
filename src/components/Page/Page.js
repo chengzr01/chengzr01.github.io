@@ -17,7 +17,14 @@ function Page() {
       }}
       id="about"
     >
-      <Row style={{ width: "100%", marginBottom: "1em", marginTop: "1em" }}>
+      <Row
+        style={{
+          width: "100%",
+          marginBottom: "1em",
+          marginTop: "1em",
+          textAlign: "center",
+        }}
+      >
         <p
           style={{
             fontSize: "2em",
@@ -303,7 +310,7 @@ function Page() {
             <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
               Scholar
             </a>
-            ] [<a href="/#/personal">Personal</a>]
+            ]
           </p>
           <p
             style={{
