@@ -19,8 +19,17 @@ function Personal() {
           <PhotoCard
             width="300px"
             height="200px"
-            url={require("../../Assets/Misc/Zurich.jpg")}
-            description="Zurich, Switzerland"
+            url={require("../../Assets/Misc/Vienna.jpg")}
+            description="Vienna, Austria"
+          />
+        </Col>
+
+        <Col xs={4}>
+          <PhotoCard
+            width="300px"
+            height="200px"
+            url={require("../../Assets/Misc/Salzburg.jpg")}
+            description="Salzburg, Austria"
           />
         </Col>
         <Col xs={4}>
@@ -37,6 +46,14 @@ function Personal() {
             height="200px"
             url={require("../../Assets/Misc/San Diego.jpg")}
             description="San Diego, USA"
+          />
+        </Col>
+        <Col xs={4}>
+          <PhotoCard
+            width="300px"
+            height="200px"
+            url={require("../../Assets/Misc/Zurich.png")}
+            description="Zurich, Switzerland"
           />
         </Col>
         <Col xs={4}>
@@ -62,6 +79,14 @@ function Personal() {
             height="200px"
             url={require("../../Assets/Misc/Suzhou.jpg")}
             description="Suzhou, China"
+          />
+        </Col>
+        <Col xs={4}>
+          <PhotoCard
+            width="300px"
+            height="200px"
+            url={require("../../Assets/Misc/Hong Kong.jpg")}
+            description="Hong Kong, China"
           />
         </Col>
       </Row>
