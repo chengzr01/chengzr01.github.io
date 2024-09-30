@@ -116,6 +116,20 @@ function Page() {
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>How Far Are We From AGI?</b>
+                <br />
+                Tao Feng*, Chuanyang Jin*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu,{" "}
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                , Guanyu Lin, Jiaxuan You.
+                <br />
+                <b>TMLR 2024</b> –{" "}
+                <i>Transactions on Machine Learning Research (Forthcoming).</i>
+              </div>
+            </li>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>
                   Wikibench: Community-Driven Data Curation for AI Evaluation on
                   Wikipedia
