@@ -5,7 +5,6 @@ import Personal from "./components/Page/Personal";
 import ScrollToTop from "./components/ScrollToTop";
 import Nav from "react-bootstrap/Nav";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./App.css";
 
 function App() {
   const [isScrolled, setIsScrolled] = useState(false);
