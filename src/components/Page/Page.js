@@ -50,9 +50,8 @@ function Page() {
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
-            starting from 2024 Fall. I am fortunate to be advised by Prof.{" "}
-            <a href={"https://cs.stanford.edu/people/jiaxuan/"}>Jiaxuan You</a>.
-            I received my Bachelor of Engineering degree in{" "}
+            starting from 2024 Fall. I received my Bachelor of Engineering
+            degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
