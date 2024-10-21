@@ -201,14 +201,13 @@ function Page() {
                   Work & Social Computing
                 </i>
                 .
-                <br />
-                [ACM Digital Library] [arXiv Page] [
+                <br />[
                 <a
                   href={require("../../Assets/Projects/treequestion_cscw'24_paper.pdf")}
                 >
                   Paper
                 </a>
-                ] [Video]
+                ]
               </div>
             </li>
             <li>
@@ -273,6 +272,28 @@ function Page() {
                 <br /> University of Illinois Urbana Champaign, 2024 Fall,
                 Instructor: Jiaxuan You
               </div>
+            </li>
+          </ul>
+          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
+          <p
+            style={{
+              fontSize: "1.5em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            Projects
+          </p>
+          <ul>
+            <li>
+              <b>Research Town: Simulator of Research Community</b>, Core
+              Contributor [
+              <a href="https://github.com/ulab-uiuc/research-town">GitHub</a>]{" "}
+              <br />{" "}
+              <i>
+                A multi-agent platform for simulating community-level automatic
+                research.
+              </i>
             </li>
           </ul>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
