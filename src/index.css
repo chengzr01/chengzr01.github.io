@@ -26,9 +26,37 @@
   src: url("./Assets/Fonts/Open_Sans/static/OpenSans-BoldItalic.ttf");
 }
 
+@font-face {
+  font-family: "Biolinum";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./Assets/Fonts/Biolinum/LinBiolinum_R.otf");
+}
+
+@font-face {
+  font-family: "Biolinum";
+  font-weight: bold;
+  font-style: normal;
+  src: url("./Assets/Fonts/Biolinum/LinBiolinum_RB.otf");
+}
+
+@font-face {
+  font-family: "Biolinum";
+  font-weight: normal;
+  font-style: italic;
+  src: url("./Assets/Fonts/Biolinum/LinBiolinum_RI.otf");
+}
+
+@font-face {
+  font-family: "Biolinum";
+  font-weight: bold;
+  font-style: italic;
+  src: url("./Assets/Fonts/Biolinum/LinBiolinum_RBO.otf");
+}
+
 body {
   margin: 0;
-  font-family: "Open_Sans", sans-serif !important;
+  font-family: "Biolinum", sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(
