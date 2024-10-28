@@ -158,7 +158,7 @@ function Page() {
                 </a>
                 ] [
                 <a
-                  href={require("../../Assets/Projects/wikibench_chi'24_paper.pdf")}
+                  href={require("../../Assets/Projects/kuo2024wikibench.pdf")}
                   target="_blank"
                 >
                   Paper
@@ -176,7 +176,8 @@ function Page() {
                 <br />
                 <a href="https://wikiworkshop.org/">Wiki Workshop 2024</a> [
                 <a
-                  href={require("../../Assets/Projects/wikibench_wiki'24_paper.pdf")}
+                  href={require("../../Assets/Projects/kuo2024supporting.pdf")}
+                  target="_blank"
                 >
                   Paper
                 </a>
@@ -203,7 +204,8 @@ function Page() {
                 .
                 <br />[
                 <a
-                  href={require("../../Assets/Projects/treequestion_cscw'24_paper.pdf")}
+                  href={require("../../Assets/Projects/cheng2024treequestion.pdf")}
+                  target="_blank"
                 >
                   Paper
                 </a>
@@ -243,7 +245,7 @@ function Page() {
                 </a>
                 ] [
                 <a
-                  href={require("../../Assets/Projects/trade-off_chi'23_paper.pdf")}
+                  href={require("../../Assets/Projects/wang2023modeling.pdf")}
                   target="_blank"
                 >
                   Paper
