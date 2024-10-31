@@ -124,7 +124,15 @@ function Page() {
                 , Guanyu Lin, Jiaxuan You.
                 <br />
                 <b>TMLR 2024</b> –{" "}
-                <i>Transactions on Machine Learning Research (Forthcoming).</i>
+                <i>Transactions on Machine Learning Research.</i>
+                <br />[
+                <a
+                  href={require("../../Assets/Projects/feng2024how.pdf")}
+                  target="_blank"
+                >
+                  Paper
+                </a>
+                ]
               </div>
             </li>
             <li>
@@ -150,11 +158,7 @@ function Page() {
                   href={"https://dl.acm.org/doi/10.1145/3613904.3642278"}
                   target="_blank"
                 >
-                  ACM Digital Library
-                </a>
-                ] [
-                <a href={"https://arxiv.org/abs/2402.14147"} target="_blank">
-                  arXiv Page
+                  DOI
                 </a>
                 ] [
                 <a
@@ -237,11 +241,7 @@ function Page() {
                   }
                   target="_blank"
                 >
-                  ACM Digital Library
-                </a>
-                ] [
-                <a href="https://arxiv.org/abs/2303.10435" target="_blank">
-                  arXiv Page
+                  DOI
                 </a>
                 ] [
                 <a
