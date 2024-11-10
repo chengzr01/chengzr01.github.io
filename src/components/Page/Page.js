@@ -125,7 +125,7 @@ function Page() {
                 <br />
                 <b>TMLR 2024</b> –{" "}
                 <i>Transactions on Machine Learning Research.</i>
-                <br />[
+                <br /> [
                 <a
                   href={require("../../Assets/Projects/feng2024how.pdf")}
                   target="_blank"
@@ -206,7 +206,14 @@ function Page() {
                   Work & Social Computing
                 </i>
                 .
-                <br />[
+                <br /> [
+                <a
+                  href={"https://dl.acm.org/doi/10.1145/3686970"}
+                  target="_blank"
+                >
+                  DOI
+                </a>
+                ] [
                 <a
                   href={require("../../Assets/Projects/cheng2024treequestion.pdf")}
                   target="_blank"
