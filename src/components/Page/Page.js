@@ -278,7 +278,7 @@ function Page() {
                 <b>CS598: Deep Learning with Graphs</b>, Teaching Assistant [
                 <a href="https://ulab-uiuc.github.io/CS598/">Website</a>
                 ]
-                <br /> University of Illinois Urbana Champaign, 2024 Fall,
+                <br /> University of Illinois Urbana-Champaign, 2024 Fall,
                 Instructor: Jiaxuan You
               </div>
             </li>
