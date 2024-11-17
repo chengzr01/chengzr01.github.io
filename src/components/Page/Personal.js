@@ -67,7 +67,7 @@ function Personal() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Zurich.png")}
+            url={require("../../Assets/Misc/Zurich.jpg")}
             description="Zurich, Switzerland"
           />
         </Col>
@@ -94,14 +94,6 @@ function Personal() {
             height="240px"
             url={require("../../Assets/Misc/Suzhou.jpg")}
             description="Suzhou, China"
-          />
-        </Col>
-        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
-          <PhotoCard
-            width="360px"
-            height="240px"
-            url={require("../../Assets/Misc/Hong Kong.jpg")}
-            description="Hong Kong, China"
           />
         </Col>
       </Row>
