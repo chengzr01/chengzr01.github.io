@@ -36,6 +36,14 @@ function Personal() {
           <PhotoCard
             width="360px"
             height="240px"
+            url={require("../../Assets/Misc/Alajuela.jpg")}
+            description="Alajuela, Costa Rica"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
             url={require("../../Assets/Misc/Chicago.jpg")}
             description="Chicago, USA"
           />
