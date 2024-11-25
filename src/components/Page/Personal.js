@@ -84,8 +84,8 @@ function Personal() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Zurich.jpg")}
-            description="Zurich, Switzerland"
+            url={require("../../Assets/Misc/Jeddah.jpg")}
+            description="Jeddah, Saudi Arabia"
           />
         </Col>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
@@ -101,8 +101,16 @@ function Personal() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Jeddah.jpg")}
-            description="Jeddah, Saudi Arabia"
+            url={require("../../Assets/Misc/Zurich.jpg")}
+            description="Zurich, Switzerland"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Beijing.jpg")}
+            description="Beijing, China"
           />
         </Col>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
