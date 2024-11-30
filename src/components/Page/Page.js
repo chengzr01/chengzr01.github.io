@@ -50,8 +50,9 @@ function Page() {
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
-            starting from 2024 Fall. I received my Bachelor of Engineering
-            degree in{" "}
+            (UIUC) starting from 2024 Fall. I am fortunate to work with Prof.{" "}
+            <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a>.
+            Prior to UIUC, I received my Bachelor of Engineering degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
@@ -62,14 +63,17 @@ function Page() {
             (minor) from{" "}
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
             Previously, I also worked as a research intern at Carnegie Mellon
-            University and University of California San Diego.
+            University and University of California San Diego during my
+            undergraduate life.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interest lies at the intersection of{" "}
-            <b>machine learning</b> and <b>human-computer interaction</b>. I
-            have been interested in building systems to scaffold human
-            interactions with AI systems as well as developing algorithms to
-            advance AI systems through human interactions.
+            <b>machine learning</b> and <b>human-computer interaction</b>. I am
+            interested in building <i>interfaces</i> to scaffold human
+            interactions with AI systems as well as developing <i>algorithms</i>{" "}
+            to improve AI systems with human supervision. By co-designing such
+            interfaces and algorithms, I aim to ultimately accelerate human
+            knowledge and augment human intelligence with AI systems.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -126,6 +130,7 @@ function Page() {
                 <b>TMLR 2024</b> –{" "}
                 <i>Transactions on Machine Learning Research.</i>
                 <br /> [
+                <a href="https://openreview.net/forum?id=H2ZKqfNd0U">DOI</a>] [
                 <a
                   href={require("../../Assets/Projects/feng2024how.pdf")}
                   target="_blank"
