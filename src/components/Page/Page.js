@@ -71,7 +71,7 @@ function Page() {
             <b>machine learning</b> and <b>human-computer interaction</b>. I am
             interested in building <i>interfaces</i> to scaffold human
             interactions with AI systems as well as developing <i>algorithms</i>{" "}
-            to improve AI systems with human supervision. By co-designing such
+            to improve AI systems with human interactions. By co-designing such
             interfaces and algorithms, I aim to ultimately accelerate human
             knowledge and augment human intelligence with AI systems.
             <br />
