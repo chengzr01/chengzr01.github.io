@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { HashRouter, Route, Routes, Navigate } from "react-router-dom";
 import Page from "./components/Page/Page";
-import Personal from "./components/Page/Personal";
+import Misc from "./components/Page/Misc";
 import ScrollToTop from "./components/ScrollToTop";
 import Nav from "react-bootstrap/Nav";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -61,7 +61,7 @@ function App() {
               </Nav.Item>
               <Nav.Item>
                 <Nav.Link
-                  href="/#/personal"
+                  href="/#/misc"
                   style={{
                     color: "inherit",
                     textDecoration: "none",
@@ -70,7 +70,7 @@ function App() {
                   onMouseEnter={(e) => (e.target.style.fontWeight = "bold")}
                   onMouseLeave={(e) => (e.target.style.fontWeight = "normal")}
                 >
-                  Personal
+                  Misc
                 </Nav.Link>
               </Nav.Item>
             </Nav>
@@ -79,7 +79,7 @@ function App() {
         <div style={{ paddingTop: "60px" }}>
           <Routes>
             <Route path="/home" element={<Page />} exact />
-            <Route path="/personal" element={<Personal />} />
+            <Route path="/misc" element={<Misc />} />
             <Route path="*" element={<Navigate to="/home" />} />
           </Routes>
         </div>

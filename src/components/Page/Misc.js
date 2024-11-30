@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import PhotoCard from "./PhotoCard";
 
-function Personal() {
+function Misc() {
   return (
     <Container
       fluid
@@ -126,4 +126,4 @@ function Personal() {
   );
 }
 
-export default Personal;
+export default Misc;
