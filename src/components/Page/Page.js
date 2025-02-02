@@ -52,11 +52,11 @@ function Page() {
             </a>{" "}
             (UIUC) starting from 2024 Fall. I am fortunate to work with Prof.{" "}
             <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a>.
-            Prior to UIUC, I received my Bachelor of Engineering degree in{" "}
+            Prior to UIUC, I received my Bachelor's degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
-            (major) and Bachelor of Economics degree in{" "}
+            (major) and{" "}
             <a href={"https://www.sem.tsinghua.edu.cn/"}>
               Economics and Finance
             </a>{" "}
@@ -71,7 +71,7 @@ function Page() {
             <b>machine learning</b> and <b>human-computer interaction</b>. I am
             interested in building <i>interfaces</i> to scaffold human
             interactions with AI systems as well as developing <i>algorithms</i>{" "}
-            to improve AI systems with human interactions. By co-designing such
+            to improve AI systems for human interactions. By co-designing such
             interfaces and algorithms, I aim to ultimately accelerate human
             knowledge and augment human intelligence with AI systems.
             <br />
@@ -94,6 +94,9 @@ function Page() {
               </li>
               <li>
                 (May 2024) I will be attending ICLR 2024 in Vienna, Austria.
+              </li>
+              <li>
+                (April 2023) I will be attending CHI 2023 in Hamburg, Germany.
               </li>
             </ul>
           </div>
@@ -280,11 +283,18 @@ function Page() {
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>CS222: Software Design Lab</b>, Teaching Assistant [
+                <a href="https://cs222-uiuc.pages.dev/">Website</a>
+                ]
+                <br /> University of Illinois Urbana-Champaign, 2025 Spring
+              </div>
+            </li>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>CS598: Deep Learning with Graphs</b>, Teaching Assistant [
                 <a href="https://ulab-uiuc.github.io/CS598/">Website</a>
                 ]
-                <br /> University of Illinois Urbana-Champaign, 2024 Fall,
-                Instructor: Jiaxuan You
+                <br /> University of Illinois Urbana-Champaign, 2024 Fall
               </div>
             </li>
           </ul>
@@ -310,7 +320,7 @@ function Page() {
               </i>
             </li>
           </ul>
-          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
+          {/* <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
             style={{
               fontSize: "1.5em",
@@ -322,7 +332,7 @@ function Page() {
           </p>
           <ul>
             <li>Reviewer: UIST 2024</li>
-          </ul>
+          </ul> */}
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
           <Tilt
@@ -352,11 +362,11 @@ function Page() {
               href={require("../../Assets/Resume/Curriculum_Vitae.pdf")}
               target="_blank"
             >
-              Vitae
+              Curriculum Vitae
             </a>
-            ] [<a href={"https://twitter.com/Zirui_Cheng_"}>Twitter</a>] [
+            ] [<a href={"https://twitter.com/Zirui_Cheng_"}>X (Twitter)</a>] [
             <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
-              Scholar
+              Google Scholar
             </a>
             ]
           </p>
