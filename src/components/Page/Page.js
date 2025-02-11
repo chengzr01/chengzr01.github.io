@@ -50,9 +50,8 @@ function Page() {
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
-            (UIUC) starting from 2024 Fall. I am fortunate to work with Prof.{" "}
-            <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a>.
-            Prior to UIUC, I received my Bachelor's degree in{" "}
+            (UIUC) starting from 2024 Fall. Prior to UIUC, I received my
+            Bachelor's degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
