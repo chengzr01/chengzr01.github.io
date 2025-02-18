@@ -341,7 +341,7 @@ function Page() {
             }}
           >
             <img
-              src={require("../../Assets/avatar_2024.jpg")}
+              src={require("../../Assets/Profile.jpg")}
               width="75%"
               className="img-fluid"
             />
