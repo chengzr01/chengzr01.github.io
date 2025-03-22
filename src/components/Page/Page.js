@@ -34,6 +34,51 @@ function Page() {
         >
           Zirui Cheng
         </p>
+        <Col md={3} style={{ textAlign: "center" }}>
+          <Tilt
+            style={{
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            <img
+              src={require("../../Assets/Profile_.jpg")}
+              width="75%"
+              className="img-fluid"
+            />
+          </Tilt>
+          <i style={{ fontSize: "0.75em", color: "lightgray" }}>
+            Colorado, USA
+          </i>
+          <Row style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></Row>
+          <p
+            style={{
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            [
+            <a
+              href={require("../../Assets/Resume/Curriculum_Vitae.pdf")}
+              target="_blank"
+            >
+              Curriculum Vitae
+            </a>
+            ] [<a href={"https://twitter.com/Zirui_Cheng_"}>X (Twitter)</a>] [
+            <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
+              Google Scholar
+            </a>
+            ]
+          </p>
+          <p
+            style={{
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            ziruic4@illinois.edu
+          </p>
+        </Col>
         <Col md={9} style={{ textAlign: "left" }}>
           <p
             style={{
@@ -332,51 +377,6 @@ function Page() {
           <ul>
             <li>Reviewer: UIST 2024</li>
           </ul> */}
-        </Col>
-        <Col md={3} style={{ textAlign: "center" }}>
-          <Tilt
-            style={{
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            <img
-              src={require("../../Assets/Profile.jpg")}
-              width="75%"
-              className="img-fluid"
-            />
-          </Tilt>
-          <i style={{ fontSize: "0.75em", color: "lightgray" }}>
-            Bayern, Deutschland
-          </i>
-          <Row style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></Row>
-          <p
-            style={{
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            [
-            <a
-              href={require("../../Assets/Resume/Curriculum_Vitae.pdf")}
-              target="_blank"
-            >
-              Curriculum Vitae
-            </a>
-            ] [<a href={"https://twitter.com/Zirui_Cheng_"}>X (Twitter)</a>] [
-            <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
-              Google Scholar
-            </a>
-            ]
-          </p>
-          <p
-            style={{
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            ziruic4@illinois.edu
-          </p>
         </Col>
       </Row>
     </Container>
