@@ -28,6 +28,14 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
+            url={require("../../Assets/Misc/Colorado Springs.jpg")}
+            description="Colorado Springs, USA"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
             url={require("../../Assets/Misc/San José.jpg")}
             description="San José, Costa Rica"
           />

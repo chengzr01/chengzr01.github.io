@@ -62,9 +62,8 @@ function Page() {
             </a>{" "}
             (minor) from{" "}
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
-            Previously, I also worked as a research intern at Carnegie Mellon
-            University and University of California San Diego during my
-            undergraduate life.
+            During my undergraduate life, I also worked as a research intern at
+            Carnegie Mellon University and University of California San Diego.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interest lies at the intersection of{" "}
