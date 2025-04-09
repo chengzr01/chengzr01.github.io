@@ -60,14 +60,6 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Vienna.jpg")}
-            description="Vienna, Austria"
-          />
-        </Col>
-        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
-          <PhotoCard
-            width="360px"
-            height="240px"
             url={require("../../Assets/Misc/Salzburg.jpg")}
             description="Salzburg, Austria"
           />
