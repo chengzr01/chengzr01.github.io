@@ -51,7 +51,8 @@ function Page() {
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
-            (UIUC), starting in 2024 Fall. Prior to UIUC, I received my
+            (UIUC), starting in 2024 Fall. I have been fortunate to work with
+            Prof. Hao Peng and Prof. Jiaxuan You.Prior to UIUC, I received my
             Bachelor's degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
@@ -67,12 +68,12 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interest lies at the intersection of{" "}
-            <b>machine learning</b> and <b>human-computer interaction</b>. I am
-            interested in building <i>interfaces</i> to scaffold human
-            interactions with AI systems as well as developing <i>algorithms</i>{" "}
-            to improve AI systems for human interactions. By co-designing such
-            interfaces and algorithms, I aim to ultimately accelerate human
-            knowledge and augment human intelligence with AI systems.
+            <b>machine learning</b> and <b>human-computer interaction</b>. I
+            have been interested in building systems to scaffold human
+            interactions with AI models as well as developing algorithms to
+            improve AI models with human interactions. By co-designing such
+            systems and algorithms, my research aims to ultimately accelerate
+            human knowledge and augment human intelligence.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
