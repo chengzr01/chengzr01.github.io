@@ -320,19 +320,6 @@ function Page() {
               </i>
             </li>
           </ul>
-          {/* <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Services
-          </p>
-          <ul>
-            <li>Reviewer: UIST 2024</li>
-          </ul> */}
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
           <Tilt
@@ -342,13 +329,13 @@ function Page() {
             }}
           >
             <img
-              src={require("../../Assets/Profile_.jpg")}
+              src={require("../../Assets/Profile.jpg")}
               width="75%"
               className="img-fluid"
             />
           </Tilt>
           <i style={{ fontSize: "0.75em", color: "lightgray" }}>
-            Colorado, USA
+            Bayern, Deutschland
           </i>
           <Row style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></Row>
           <p
