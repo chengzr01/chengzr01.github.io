@@ -71,10 +71,11 @@ function Page() {
             My research interest lies at the intersection of{" "}
             <b>machine learning</b> and <b>human-computer interaction</b>. I
             have been interested in building systems to scaffold human
-            interactions with AI models as well as developing algorithms to
-            improve AI models with human interactions. By co-designing such
-            systems and algorithms, my research aims to ultimately accelerate
-            human knowledge and augment human intelligence.
+            interactions with language models as well as developing algorithms
+            to improve language models through human interactions. By
+            co-designing such systems and algorithms, my research aims to build
+            more accessible and reliable language models that can positively
+            impact human society.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
