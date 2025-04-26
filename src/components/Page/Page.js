@@ -52,8 +52,9 @@ function Page() {
               University of Illinois Urbana-Champaign
             </a>{" "}
             (UIUC), starting in 2024 Fall. I have been fortunate to work with
-            Prof. Hao Peng and Prof. Jiaxuan You at UIUC. Previously, I received
-            my Bachelor's degree in{" "}
+            Prof. <a href={"https://haopeng-nlp.github.io/"}>Hao Peng</a> and
+            Prof. <a href={"https://cs.stanford.edu/~jiaxuan/"}>Jiaxuan You</a>{" "}
+            at UIUC. Previously, I received my Bachelor's degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
