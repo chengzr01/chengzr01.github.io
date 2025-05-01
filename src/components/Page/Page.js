@@ -124,6 +124,25 @@ function Page() {
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>ResearchTown: Simulator of Human Research Community</b>
+                <br />
+                Haofei Yu*, Zhaochen Hong*,{" "}
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                * , Kunlun Zhu*, Keyang Xuan, Jinwei Yao, Tao Feng, Jiaxuan You.
+                (* indicates co-first author)
+                <br />
+                <b>ICML 2025</b> –{" "}
+                <i>
+                  Forty-second International Conference on Machine Learning.
+                </i>
+                <br /> [
+                <a href="https://github.com/ulab-uiuc/research-town">Code</a>]
+              </div>
+            </li>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>How Far Are We From AGI?</b>
                 <br />
                 Tao Feng*, Chuanyang Jin*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu,{" "}
@@ -298,28 +317,6 @@ function Page() {
                 ]
                 <br /> University of Illinois Urbana-Champaign, 2024 Fall
               </div>
-            </li>
-          </ul>
-          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Projects
-          </p>
-          <ul>
-            <li>
-              <b>Research Town: Simulator of Research Community</b>, Core
-              Contributor [
-              <a href="https://github.com/ulab-uiuc/research-town">GitHub</a>]{" "}
-              <br />{" "}
-              <i>
-                A multi-agent platform for simulating community-level automatic
-                research.
-              </i>
             </li>
           </ul>
         </Col>
