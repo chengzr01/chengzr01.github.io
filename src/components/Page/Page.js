@@ -112,16 +112,27 @@ function Page() {
           >
             Publications
           </p>
-          <p
-            style={{
-              fontSize: "1em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            <i>Peer-Reviewed Papers</i>
-          </p>
           <ul>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>Towards Strategic Persuasion with Language Models</b>
+                <br />
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                , Jiaxuan You.
+                <br />
+                <i>Preprint</i>.
+                <br /> [
+                <a
+                  href={require("../../Assets/Projects/cheng2025persuasion.pdf")}
+                  target="_blank"
+                >
+                  Paper
+                </a>
+                ]
+              </div>
+            </li>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>ResearchTown: Simulator of Human Research Community</b>
@@ -138,7 +149,14 @@ function Page() {
                   Forty-second International Conference on Machine Learning.
                 </i>
                 <br /> [
-                <a href="https://github.com/ulab-uiuc/research-town">Code</a>]
+                <a href="https://github.com/ulab-uiuc/research-town">Code</a>] [
+                <a
+                  href={require("../../Assets/Projects/yu2024researchtown.pdf")}
+                  target="_blank"
+                >
+                  Paper
+                </a>
+                ]
               </div>
             </li>
             <li>
