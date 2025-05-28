@@ -123,14 +123,6 @@ function Page() {
                 , Jiaxuan You.
                 <br />
                 <i>Preprint</i>.
-                <br /> [
-                <a
-                  href={require("../../Assets/Projects/cheng2025persuasion.pdf")}
-                  target="_blank"
-                >
-                  Paper
-                </a>
-                ]
               </div>
             </li>
             <li>
