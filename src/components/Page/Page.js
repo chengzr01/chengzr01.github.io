@@ -122,7 +122,6 @@ function Page() {
                 </u>
                 , Jiaxuan You.
                 <br />
-                <i>Preprint</i>.
               </div>
             </li>
             <li>
@@ -329,6 +328,17 @@ function Page() {
               </div>
             </li>
           </ul>
+          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
+          <p
+            style={{
+              fontSize: "1.5em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            Miscellaneous
+          </p>
+          [<a href="/#/photos">Photos</a>]
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
           <Tilt

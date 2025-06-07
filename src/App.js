@@ -59,7 +59,7 @@ function App() {
                   Home
                 </Nav.Link>
               </Nav.Item>
-              <Nav.Item>
+              {/* <Nav.Item>
                 <Nav.Link
                   href="/#/misc"
                   style={{
@@ -72,14 +72,14 @@ function App() {
                 >
                   Misc
                 </Nav.Link>
-              </Nav.Item>
+              </Nav.Item> */}
             </Nav>
           </div>
         </div>
         <div style={{ paddingTop: "60px" }}>
           <Routes>
             <Route path="/home" element={<Page />} exact />
-            <Route path="/misc" element={<Misc />} />
+            <Route path="/photos" element={<Misc />} />
             <Route path="*" element={<Navigate to="/home" />} />
           </Routes>
         </div>
