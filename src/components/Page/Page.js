@@ -337,7 +337,7 @@ function Page() {
             }}
           >
             <img
-              src={require("../../Assets/Profile.JPG")}
+              src={require("../../Assets/Profile.jpg")}
               width="75%"
               className="img-fluid"
             />
