@@ -337,12 +337,14 @@ function Page() {
             }}
           >
             <img
-              src={require("../../Assets/Profile__.JPG")}
+              src={require("../../Assets/Profile.JPG")}
               width="75%"
               className="img-fluid"
             />
           </Tilt>
-          <i style={{ fontSize: "0.75em", color: "lightgray" }}>Arizona, USA</i>
+          <i style={{ fontSize: "0.75em", color: "lightgray" }}>
+            Bayern, Deutschland
+          </i>
           <Row style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></Row>
           <p
             style={{
