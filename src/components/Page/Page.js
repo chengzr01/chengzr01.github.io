@@ -70,10 +70,10 @@ function Page() {
             and human-computer interaction. I am always interested in building
             more accessible and reliable machine learning models systems that
             can positively impact society. Currently, I am actively working on
-            or thinking about scalable approaches to understanding and improving
-            the <i>impacts</i> of large language models, while also shedding
-            light on problems in <i>alignment</i> and <i>oversight</i> of large
-            language models.
+            or thinking about algorithmic approaches to understanding and
+            improving the <i>impacts</i> of large language models, while also
+            shedding light on problems in <i>alignment</i> and <i>oversight</i>{" "}
+            of large language models.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
