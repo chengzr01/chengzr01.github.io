@@ -64,18 +64,16 @@ function Page() {
             </a>{" "}
             (minor) from{" "}
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
-            During my undergraduate life, I also worked as a research intern at
-            Carnegie Mellon University and University of California San Diego.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My research interest lies at the intersection of{" "}
-            <b>machine learning</b> and <b>human-computer interaction</b>. I
-            have been interested in building systems to scaffold human
-            interactions with language models as well as developing algorithms
-            to improve language models through human interactions. By
-            co-designing such systems and algorithms, my research aims to build
-            more accessible and reliable language models that can positively
-            impact human society.
+            My research interests lie at the intersection of machine learning
+            and human-computer interaction. I am always interested in building
+            more accessible and reliable machine learning models systems that
+            can positively impact society. Currently, I am actively working on
+            or thinking about scalable approaches to understanding and improving
+            the <i>impacts</i> of large language models, while also shedding
+            light on problems in <i>alignment</i> and <i>oversight</i> of large
+            language models.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -93,12 +91,6 @@ function Page() {
               <li>
                 (November 2024) I will be attending CSCW 2024 in San José, Costa
                 Rica.
-              </li>
-              <li>
-                (May 2024) I will be attending ICLR 2024 in Vienna, Austria.
-              </li>
-              <li>
-                (April 2023) I will be attending CHI 2023 in Hamburg, Germany.
               </li>
             </ul>
           </div>
