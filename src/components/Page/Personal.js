@@ -15,15 +15,27 @@ function Personal() {
       id="about"
     >
       <Row>
-        <p
-          style={{
-            fontSize: "1.5em",
-            marginBottom: "0.5em",
-            marginTop: "0.5em",
-          }}
-        >
-          Personal
-        </p>
+        <Col md={12} style={{ textAlign: "left" }}>
+          <p
+            style={{
+              fontSize: "1.5em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            Personal
+          </p>
+          <ul>
+            <li>
+              I was born and raised in{" "}
+              <a href="https://en.wikipedia.org/wiki/Huai%27an">
+                Huai'an, China
+              </a>
+              . During my undergraduate, I have also lived in Beijing, China and
+              Pittsburgh, PA.
+            </li>
+          </ul>
+        </Col>
       </Row>
     </Container>
   );
