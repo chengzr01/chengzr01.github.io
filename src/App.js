@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { HashRouter, Route, Routes, Navigate } from "react-router-dom";
 import Page from "./components/Page/Page";
-import Misc from "./components/Page/Misc";
+import Photography from "./components/Page/Photography";
+import Personal from "./components/Page/Personal";
 import ScrollToTop from "./components/ScrollToTop";
 import Nav from "react-bootstrap/Nav";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -79,7 +80,8 @@ function App() {
         <div style={{ paddingTop: "60px" }}>
           <Routes>
             <Route path="/home" element={<Page />} exact />
-            <Route path="/photos" element={<Misc />} />
+            <Route path="/photography" element={<Photography />} />
+            <Route path="/personal" element={<Personal />} />
             <Route path="*" element={<Navigate to="/home" />} />
           </Routes>
         </div>

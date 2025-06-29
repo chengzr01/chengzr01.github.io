@@ -68,12 +68,12 @@ function Page() {
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interests lie at the intersection of machine learning
             and human-computer interaction. I am always interested in building
-            more accessible and reliable machine learning models systems that
-            can positively impact society. Currently, I am actively working on
-            or thinking about algorithmic approaches to scalably understanding
-            and improving the <i>impacts</i> of large language models, while
-            also shedding light on problems in <i>alignment</i> and{" "}
-            <i>oversight</i> of large language models.
+            more accessible and reliable machine learning models that can
+            positively impact society. Currently, I am actively working on both
+            theoretical and empirical approaches to scalably understanding and
+            improving the <i>impacts</i> of large language models, while also
+            shedding light on problems in <i>alignment</i> and <i>oversight</i>{" "}
+            of large language models.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -319,7 +319,16 @@ function Page() {
           >
             Miscellaneous
           </p>
-          [<a href="/#/photos">Photos</a>]
+          <div
+            style={{
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+              paddingLeft: "1.5em",
+            }}
+          >
+            [<a href="/#/personal">Personal</a>] [
+            <a href="/#/photography">Photography</a>]
+          </div>
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
           <Tilt
