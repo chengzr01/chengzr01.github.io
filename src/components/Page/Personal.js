@@ -34,6 +34,10 @@ function Personal() {
               . During my undergraduate, I have also lived in Beijing, China and
               Pittsburgh, PA.
             </li>
+            <li>
+              Outside of research, I enjoy indoor workouts 🏃, outdoor
+              adventures 🏔️, and studying languages 🔠 (e.g., German).
+            </li>
           </ul>
         </Col>
       </Row>
