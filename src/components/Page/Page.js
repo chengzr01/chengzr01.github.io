@@ -67,13 +67,12 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interests lie at the intersection of machine learning
-            and human-computer interaction. I am always interested in building
-            more accessible and reliable machine learning models that can
+            and human-computer interaction. I am always interested in making
+            machine learning models more accessible and reliable so as to
             positively impact society. Currently, I am actively working on
             computational approaches (both theoretically and empirically) to
-            scalably understanding and improving the <i>impacts</i> of large
-            language models, while also shedding light on problems in
-            <i>alignment</i> and <i>oversight</i>.
+            scalably understand the impacts of language models, while also
+            shedding light on problems in alignment and oversight.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
