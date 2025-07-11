@@ -66,13 +66,13 @@ function Page() {
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My research interests lie at the intersection of machine learning
-            and human-computer interaction. I am always interested in making
-            machine learning models more accessible and reliable so as to
-            positively impact society. Currently, I am actively working on
-            computational approaches (both theoretically and empirically) to
-            scalably understand the impacts of language models, while also
-            shedding light on problems in alignment and oversight.
+            My research interests lie at the intersection of machine learning,
+            economics and computation, and human-computer interaction. I am
+            always interested in making machine learning models more accessible
+            and reliable so as to positively impact society. Currently, I am
+            actively working on computational approaches (both theoretically and
+            empirically) to scalably understand the impacts of language models,
+            while also shedding light on problems in alignment and oversight.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
