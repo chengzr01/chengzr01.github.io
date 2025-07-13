@@ -34,8 +34,8 @@ function Personal() {
               Pittsburgh, PA.
             </li>
             <li>
-              Outside of research, I enjoy indoor workouts 🏃, outdoor
-              adventures 🏔️, and studying languages 🔠 (e.g., German).
+              Outside of research, I enjoy indoor workouts 🏃 and outdoor
+              adventures 🏔️.
             </li>
           </ul>
         </Col>
