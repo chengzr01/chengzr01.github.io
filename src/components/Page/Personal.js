@@ -37,6 +37,10 @@ function Personal() {
               Outside of research, I enjoy indoor workouts 🏃 and outdoor
               adventures 🏔️.
             </li>
+            <li>
+              I speak Chinese, English, and German. Although my native language
+              is Mandarin, I can speak both the Wu and Yue dialects.
+            </li>
           </ul>
         </Col>
       </Row>
