@@ -54,7 +54,12 @@ function Page() {
             (UIUC), starting in 2024 Fall. I have been fortunate to work with
             Prof. <a href={"https://haopeng-nlp.github.io/"}>Hao Peng</a> and
             Prof. <a href={"https://cs.stanford.edu/~jiaxuan/"}>Jiaxuan You</a>{" "}
-            at UIUC. Previously, I received my Bachelor's degree in{" "}
+            at UIUC. I have also been fortunate to work with Prof.{" "}
+            <a href={"https://www.cs.princeton.edu/people/profile/ph4162"}>
+              Peter Henderson
+            </a>{" "}
+            at Princeton University. Previously, I received my Bachelor's degree
+            in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
@@ -71,9 +76,8 @@ function Page() {
             always interested in making machine learning models more accessible
             and reliable so as to positively impact society. Currently, I am
             actively working on computational approaches (both theoretically and
-            empirically) to scalably understand the impacts of <i>strategic</i>{" "}
-            foundation models, while also shedding light on problems in
-            alignment and oversight.
+            empirically) to build <i>strategic</i> foundation models, while also
+            shedding light on problems in alignment and oversight.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
