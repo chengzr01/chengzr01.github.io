@@ -71,13 +71,11 @@ function Page() {
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My research interests lie at the intersection of machine learning,
-            economics and computation, and human-computer interaction. I am
-            always interested in making machine learning models more accessible
-            and reliable so as to positively impact society. Currently, I am
-            actively working on computational approaches (both theoretically and
-            empirically) to build <i>strategic</i> foundation models, while also
-            shedding light on problems in alignment and oversight.
+            My research interest broadly lies at the intersection of machine
+            learning, and natural language processing. Recently, I have
+            beenworking on computational foundations for strategic foundation
+            models, while also providing insights into problems in alignment,
+            interaction, and societal impacts of foundation models.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -128,29 +126,6 @@ function Page() {
                 <a href="https://github.com/ulab-uiuc/research-town">Code</a>] [
                 <a
                   href={require("../../Assets/Projects/yu2024researchtown.pdf")}
-                  target="_blank"
-                >
-                  Paper
-                </a>
-                ]
-              </div>
-            </li>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>How Far Are We From AGI?</b>
-                <br />
-                Tao Feng*, Chuanyang Jin*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu,{" "}
-                <u>
-                  <b>Zirui Cheng</b>
-                </u>
-                , Guanyu Lin, Jiaxuan You.
-                <br />
-                <b>TMLR 2024</b> –{" "}
-                <i>Transactions on Machine Learning Research.</i>
-                <br /> [
-                <a href="https://openreview.net/forum?id=H2ZKqfNd0U">DOI</a>] [
-                <a
-                  href={require("../../Assets/Projects/feng2024how.pdf")}
                   target="_blank"
                 >
                   Paper
