@@ -72,8 +72,8 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interest broadly lies at the intersection of machine
-            learning, and natural language processing. Recently, I have
-            beenworking on computational foundations for strategic foundation
+            learning, and natural language processing. Recently, I have been{" "}
+            working on computational foundations for strategic foundation
             models, while also providing insights into problems in alignment,
             interaction, and societal impacts of foundation models.
             <br />
@@ -104,7 +104,7 @@ function Page() {
               marginTop: "0.5em",
             }}
           >
-            Publications
+            Recent Publications
           </p>
           <ul>
             <li>
@@ -133,7 +133,7 @@ function Page() {
                 ]
               </div>
             </li>
-            <li>
+            {/* <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>
                   Wikibench: Community-Driven Data Curation for AI Evaluation on
@@ -258,7 +258,7 @@ function Page() {
                 ] [
                 <a href="https://www.youtube.com/watch?v=QVe-tPDPT18">Video</a>]
               </div>
-            </li>
+            </li> */}
           </ul>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
