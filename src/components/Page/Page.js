@@ -72,10 +72,11 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interest broadly lies at the intersection of machine
-            learning, and natural language processing. Recently, I have been{" "}
-            working on computational foundations for strategic foundation
-            models, while also providing insights into problems in alignment,
-            interaction, and societal impacts of foundation models.
+            learning, natural language processing, and economics and
+            computation. Recently, I have been working on computational
+            foundations for strategic foundation models, while also providing
+            insights into problems in alignment, interaction, and societal
+            impacts of foundation models.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
