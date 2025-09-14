@@ -51,15 +51,10 @@ function Page() {
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
-            (UIUC), starting in 2024 Fall. I have been fortunate to work with
+            (UIUC), starting from 2024 Fall. I have been fortunate to work with
             Prof. <a href={"https://haopeng-nlp.github.io/"}>Hao Peng</a> and
             Prof. <a href={"https://cs.stanford.edu/~jiaxuan/"}>Jiaxuan You</a>{" "}
-            at UIUC. I have also been fortunate to work with Prof.{" "}
-            <a href={"https://www.cs.princeton.edu/people/profile/ph4162"}>
-              Peter Henderson
-            </a>{" "}
-            at Princeton University. Previously, I received my Bachelor's degree
-            in{" "}
+            at UIUC. Previously, I received my Bachelor's degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
