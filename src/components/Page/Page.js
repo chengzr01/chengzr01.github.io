@@ -66,12 +66,12 @@ function Page() {
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My research interest broadly lies at the intersection of machine
-            learning, natural language processing, and economics and
-            computation. Recently, I have been working on computational
-            foundations in reinforcement learning and game theory for strategic
-            foundation models, while also providing insights into problems in
-            alignment, interaction, and societal impacts of foundation models.
+            My research broadly lies at the intersection of machine learning and
+            natural language processing. Recently, I have focus on the
+            computational foundations of reinforcement learning and game theory
+            for language models, aiming to provide scientific insights into
+            their societal impacts (e.g., in scientific discovery) while
+            addressing critical problems in alignment and interaction.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -301,7 +301,7 @@ function Page() {
               paddingLeft: "1.5em",
             }}
           >
-            [<a href="/#/personal">Personal</a>] [
+            {/* [<a href="/#/personal">Personal</a>]  */}[
             <a href="/#/photography">Photography</a>]
           </div>
         </Col>
