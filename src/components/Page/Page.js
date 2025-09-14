@@ -69,9 +69,9 @@ function Page() {
             My research broadly lies at the intersection of machine learning and
             natural language processing. Recently, I have focus on the
             computational foundations of reinforcement learning and game theory
-            for language models, aiming to provide scientific insights into
-            their societal impacts (e.g., in scientific discovery) while
-            addressing critical problems in alignment and interaction.
+            for language models, aiming to provide rigorous insights into their
+            societal impacts while addressing critical problems in alignment and
+            interaction.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
