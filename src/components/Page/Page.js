@@ -105,6 +105,26 @@ function Page() {
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>Towards Strategic Persuasion with Language Models</b>
+                <br />
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                , Jiaxuan You.
+                <br />
+                <i>Preprint. Under Review.</i>
+                <br />[
+                <a
+                  href={require("../../Assets/Projects/cheng2025persuasion.pdf")}
+                  target="_blank"
+                >
+                  Paper
+                </a>
+                ]
+              </div>
+            </li>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>ResearchTown: Simulator of Human Research Community</b>
                 <br />
                 Haofei Yu*, Zhaochen Hong*,{" "}
