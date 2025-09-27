@@ -44,10 +44,18 @@ function Photography() {
           <PhotoCard
             width="360px"
             height="240px"
+            url={require("../../Assets/Misc/Oregon.png")}
+            description="Oregon, USA"
+          />
+        </Col>
+        {/* <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
             url={require("../../Assets/Misc/San Diego.jpg")}
             description="San Diego, USA"
           />
-        </Col>
+        </Col> */}
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
           <PhotoCard
             width="360px"
