@@ -67,13 +67,11 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research broadly lies at the intersection of machine learning,
-            economics and computation, and natural language processing.
-            Recently, I have been focusing on <b>game theory</b> (e.g.,
-            information design and mechanism design) and{" "}
-            <b>reinforcement learning</b> for language models, aiming to build
-            the computational foundations to scientifically understand their
-            societal impacts while also providing rigorous insights into
-            problems in alignment and oversight.
+            natural language processing, and economics and computation.
+            Recently, I have been focusing on the foundations of game theory and
+            reinforcement learning for language models,with the aim of advancing
+            language models as strategic agents, while also providing insights
+            into problems in alignment, oversight, and societal impacts.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
