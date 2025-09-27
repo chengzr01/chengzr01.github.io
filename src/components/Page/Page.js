@@ -66,12 +66,14 @@ function Page() {
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My research broadly lies at the intersection of machine learning and
-            natural language processing. Recently, I have focus on the
-            computational foundations of reinforcement learning and game theory
-            for language models, aiming to provide rigorous insights into their
-            societal impacts while addressing critical problems in alignment and
-            interaction.
+            My research broadly lies at the intersection of machine learning,
+            economics and computation, and natural language processing.
+            Recently, I have been focusing on <b>game theory</b> (e.g.,
+            information design and mechanism design) and{" "}
+            <b>reinforcement learning</b> for language models, aiming to build
+            the computational foundations to scientifically understand their
+            societal impacts while also providing rigorous insights into
+            problems in alignment and oversight.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -149,132 +151,6 @@ function Page() {
                 ]
               </div>
             </li>
-            {/* <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>
-                  Wikibench: Community-Driven Data Curation for AI Evaluation on
-                  Wikipedia
-                </b>{" "}
-                <br />
-                Tzu-Sheng Kuo, Aaron Halfaker,{" "}
-                <u>
-                  <b>Zirui Cheng</b>
-                </u>
-                , Jiwoo Kim, Meng-Hsin Wu, Tongshuang Wu, Kenneth Holstein,
-                Haiyi Zhu.
-                <br />
-                <b>CHI 2024</b> –{" "}
-                <i>
-                  2024 ACM CHI Conference on Human Systems in Computing Systems
-                </i>
-                . <br />[
-                <a
-                  href={"https://dl.acm.org/doi/10.1145/3613904.3642278"}
-                  target="_blank"
-                >
-                  DOI
-                </a>
-                ] [
-                <a
-                  href={require("../../Assets/Projects/kuo2024wikibench.pdf")}
-                  target="_blank"
-                >
-                  Paper
-                </a>
-                ] [
-                <a
-                  href="https://www.youtube.com/watch?v=VQVNKjjrlJ0"
-                  target="_blank"
-                >
-                  Video
-                </a>
-                ]<br />
-                <a href="https://heal-workshop.github.io/">HEAL@CHI'24</a> –
-                Human Centered Evaluation and Auditing of Large Language Models
-                <br />
-                <a href="https://wikiworkshop.org/">Wiki Workshop 2024</a> [
-                <a
-                  href={require("../../Assets/Projects/kuo2024supporting.pdf")}
-                  target="_blank"
-                >
-                  Paper
-                </a>
-                ]
-              </div>
-            </li>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>
-                  TreeQuestion: Assessing Conceptual Learning Outcomes with
-                  LLM-Generated Multiple-Choice Questions
-                </b>{" "}
-                <br />
-                <u>
-                  <b>Zirui Cheng</b>
-                </u>
-                , Jingfei Xu, Haojian Jin.
-                <br />
-                <b>CSCW 2024</b> –{" "}
-                <i>
-                  2024 ACM SIGCHI Conference on Computer-Supported Cooperative
-                  Work & Social Computing
-                </i>
-                .
-                <br /> [
-                <a
-                  href={"https://dl.acm.org/doi/10.1145/3686970"}
-                  target="_blank"
-                >
-                  DOI
-                </a>
-                ] [
-                <a
-                  href={require("../../Assets/Projects/cheng2024treequestion.pdf")}
-                  target="_blank"
-                >
-                  Paper
-                </a>
-                ]
-              </div>
-            </li>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>
-                  Modeling the Trade-off of Privacy Preservation and Activity
-                  Recognition on Low-Resolution Images
-                </b>{" "}
-                <br />
-                Yuntao Wang*,{" "}
-                <u>
-                  <b>Zirui Cheng</b>
-                </u>
-                *, Xin Yi, Yan Kong, Xueyang Wang, Xuhai Xu, Yukang Yan, Chun
-                Yu, Shwetak Patel, Yuanchun Shi. (* indicates co-first author)
-                <br /> <b>CHI 2023</b> –{" "}
-                <i>
-                  2023 ACM CHI Conference on Human Systems in Computing Systems
-                </i>
-                .
-                <br />[
-                <a
-                  href={
-                    "https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581425"
-                  }
-                  target="_blank"
-                >
-                  DOI
-                </a>
-                ] [
-                <a
-                  href={require("../../Assets/Projects/wang2023modeling.pdf")}
-                  target="_blank"
-                >
-                  Paper
-                </a>
-                ] [
-                <a href="https://www.youtube.com/watch?v=QVe-tPDPT18">Video</a>]
-              </div>
-            </li> */}
           </ul>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
