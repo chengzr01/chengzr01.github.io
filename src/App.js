@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { HashRouter, Route, Routes, Navigate } from "react-router-dom";
 import Page from "./components/Page/Page";
-import Photography from "./components/Page/Photography";
+import Photos from "./components/Page/Photos";
 import Personal from "./components/Page/Personal";
 import ScrollToTop from "./components/ScrollToTop";
 import Nav from "react-bootstrap/Nav";
@@ -80,7 +80,7 @@ function App() {
         <div style={{ paddingTop: "60px" }}>
           <Routes>
             <Route path="/home" element={<Page />} exact />
-            <Route path="/photography" element={<Photography />} />
+            <Route path="/photos" element={<Photos />} />
             <Route path="/personal" element={<Personal />} />
             <Route path="*" element={<Navigate to="/home" />} />
           </Routes>

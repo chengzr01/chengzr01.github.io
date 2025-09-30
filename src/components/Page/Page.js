@@ -113,7 +113,7 @@ function Page() {
                 , Jiaxuan You.
                 <br />
                 <i>Preprint. Under Review.</i>
-                <br />[
+                <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>] [
                 <a
                   href={require("../../Assets/Projects/cheng2025persuasion.pdf")}
                   target="_blank"
@@ -138,14 +138,14 @@ function Page() {
                 <i>
                   Forty-second International Conference on Machine Learning.
                 </i>
-                <br /> [
-                <a href="https://github.com/ulab-uiuc/research-town">Code</a>] [
+                <br />[<a href="https://arxiv.org/abs/2412.17767">arXiv</a>] [
                 <a
                   href={require("../../Assets/Projects/yu2024researchtown.pdf")}
                   target="_blank"
                 >
                   Paper
                 </a>
+                ] [<a href="https://github.com/ulab-uiuc/research-town">Code</a>
                 ]
               </div>
             </li>
@@ -196,7 +196,7 @@ function Page() {
             }}
           >
             {/* [<a href="/#/personal">Personal</a>]  */}[
-            <a href="/#/photography">Photography</a>]
+            <a href="/#/photos">Photos</a>]
           </div>
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
