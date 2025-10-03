@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import PhotoCard from "./PhotoCard";
+import PhotoCard from "../shared/PhotoCard";
 
 function Photography() {
   return (

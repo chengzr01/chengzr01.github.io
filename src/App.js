@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { HashRouter, Route, Routes, Navigate } from "react-router-dom";
-import Page from "./components/Page/Page";
-import Photos from "./components/Page/Photos";
-import Personal from "./components/Page/Personal";
-import ScrollToTop from "./components/ScrollToTop";
+import Home from "./components/pages/Home";
+import Photos from "./components/pages/Photos";
+import Publications from "./components/pages/Publications";
+import Misc from "./components/pages/Misc";
+import ScrollToTop from "./components/layout/ScrollToTop";
 import Nav from "react-bootstrap/Nav";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -60,7 +61,35 @@ function App() {
                   Home
                 </Nav.Link>
               </Nav.Item>
-              {/* <Nav.Item>
+              <Nav.Item>
+                <Nav.Link
+                  href="/#/publications"
+                  style={{
+                    color: "inherit",
+                    textDecoration: "none",
+                    marginLeft: "20px",
+                  }}
+                  onMouseEnter={(e) => (e.target.style.fontWeight = "bold")}
+                  onMouseLeave={(e) => (e.target.style.fontWeight = "normal")}
+                >
+                  Publications
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link
+                  href="/#/photos"
+                  style={{
+                    color: "inherit",
+                    textDecoration: "none",
+                    marginLeft: "20px",
+                  }}
+                  onMouseEnter={(e) => (e.target.style.fontWeight = "bold")}
+                  onMouseLeave={(e) => (e.target.style.fontWeight = "normal")}
+                >
+                  Photos
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
                 <Nav.Link
                   href="/#/misc"
                   style={{
@@ -73,15 +102,16 @@ function App() {
                 >
                   Misc
                 </Nav.Link>
-              </Nav.Item> */}
+              </Nav.Item>
             </Nav>
           </div>
         </div>
         <div style={{ paddingTop: "60px" }}>
           <Routes>
-            <Route path="/home" element={<Page />} exact />
+            <Route path="/home" element={<Home />} exact />
+            <Route path="/publications" element={<Publications />} />
             <Route path="/photos" element={<Photos />} />
-            <Route path="/personal" element={<Personal />} />
+            <Route path="/misc" element={<Misc />} />
             <Route path="*" element={<Navigate to="/home" />} />
           </Routes>
         </div>

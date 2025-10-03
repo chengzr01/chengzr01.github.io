@@ -99,7 +99,7 @@ function Page() {
               marginTop: "0.5em",
             }}
           >
-            Recent Publications
+            Recent Work
           </p>
           <ul>
             <li>
@@ -136,41 +136,17 @@ function Page() {
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>CS222: Software Design Lab</b>, Teaching Assistant [
-                <a href="https://cs222-uiuc.pages.dev/">Website</a>
-                ]
-                <br /> University of Illinois Urbana-Champaign, 2025 Spring
+                <b>Software Design @ UIUC</b>, Teaching Assistant [
+                <a href="https://cs222-uiuc.pages.dev/">Website</a>]
               </div>
             </li>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>CS598: Deep Learning with Graphs</b>, Teaching Assistant [
-                <a href="https://ulab-uiuc.github.io/CS598/">Website</a>
-                ]
-                <br /> University of Illinois Urbana-Champaign, 2024 Fall
+                <b>Deep Learning with Graphs @ UIUC</b>, Teaching Assistant [
+                <a href="https://ulab-uiuc.github.io/CS598/">Website</a>]
               </div>
             </li>
           </ul>
-          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Miscellaneous
-          </p>
-          <div
-            style={{
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-              paddingLeft: "1.5em",
-            }}
-          >
-            {/* [<a href="/#/personal">Personal</a>]  */}[
-            <a href="/#/photos">Photos</a>]
-          </div>
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
           <Tilt
