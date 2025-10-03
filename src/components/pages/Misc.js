@@ -55,9 +55,6 @@ function Misc() {
           >
             Blogs
           </p>
-          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            Coming soon...
-          </p>
         </Col>
       </Row>
     </Container>
