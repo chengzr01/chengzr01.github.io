@@ -52,9 +52,8 @@ function Page() {
               University of Illinois Urbana-Champaign
             </a>{" "}
             (UIUC), starting from 2024 Fall. I have been fortunate to work with
-            Prof. <a href={"https://haopeng-nlp.github.io/"}>Hao Peng</a> and
-            Prof. <a href={"https://cs.stanford.edu/~jiaxuan/"}>Jiaxuan You</a>{" "}
-            at UIUC. Previously, I received my Bachelor's degree in{" "}
+            Prof. <a href={"https://haopeng-nlp.github.io/"}>Hao Peng</a> at
+            UIUC. Previously, I received my Bachelor's degree in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
@@ -120,32 +119,6 @@ function Page() {
                 >
                   Paper
                 </a>
-                ]
-              </div>
-            </li>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>ResearchTown: Simulator of Human Research Community</b>
-                <br />
-                Haofei Yu*, Zhaochen Hong*,{" "}
-                <u>
-                  <b>Zirui Cheng</b>
-                </u>
-                * , Kunlun Zhu*, Keyang Xuan, Jinwei Yao, Tao Feng, Jiaxuan You.
-                (* indicates co-first author)
-                <br />
-                <b>ICML 2025</b> –{" "}
-                <i>
-                  Forty-second International Conference on Machine Learning.
-                </i>
-                <br />[<a href="https://arxiv.org/abs/2412.17767">arXiv</a>] [
-                <a
-                  href={require("../../Assets/Projects/yu2024researchtown.pdf")}
-                  target="_blank"
-                >
-                  Paper
-                </a>
-                ] [<a href="https://github.com/ulab-uiuc/research-town">Code</a>
                 ]
               </div>
             </li>
