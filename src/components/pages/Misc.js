@@ -44,7 +44,7 @@ function Misc() {
           </ul>
         </Col>
       </Row>
-      <Row style={{ marginTop: "2em" }}>
+      {/* <Row style={{ marginTop: "2em" }}>
         <Col md={12} style={{ textAlign: "left" }}>
           <p
             style={{
@@ -56,7 +56,7 @@ function Misc() {
             Blogs
           </p>
         </Col>
-      </Row>
+      </Row> */}
     </Container>
   );
 }
