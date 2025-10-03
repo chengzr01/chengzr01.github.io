@@ -53,15 +53,15 @@ function Page() {
             </a>{" "}
             (UIUC), starting from 2024 Fall. I have been fortunate to work with
             Prof. <a href={"https://haopeng-nlp.github.io/"}>Hao Peng</a> at
-            UIUC. Previously, I received my Bachelor's degree in{" "}
+            UIUC. Previously, I received my Bachelor's degrees in{" "}
             <a href={"https://www.cs.tsinghua.edu.cn/"}>
               Computer Science and Technology
             </a>{" "}
-            (major) and{" "}
+            and{" "}
             <a href={"https://www.sem.tsinghua.edu.cn/"}>
               Economics and Finance
             </a>{" "}
-            (minor) from{" "}
+            from{" "}
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -69,8 +69,8 @@ function Page() {
             natural language processing, and economics and computation.
             Recently, I have been focusing on building the computational
             foundations to enable language models as strategic agents. In doing
-            so, I aim to advance the strategic intelligence of language models
-            to enhance their societal impacts, while also providing insights
+            so, I aim to advance the strategic intelligence in language models
+            to improve their societal impacts, while also providing insights
             into problems in alignment and oversight.
             <br />
           </p>
@@ -84,6 +84,7 @@ function Page() {
           >
             Updates
           </p>
+
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             <ul>
               <li>
@@ -101,6 +102,9 @@ function Page() {
             }}
           >
             Recent Work
+          </p>
+          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+            <i>On Information, Persuasion, and Decision-Making</i>
           </p>
           <ul>
             <li>
