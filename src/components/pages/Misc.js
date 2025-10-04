@@ -25,17 +25,10 @@ function Misc() {
             Personal
           </p>
           <ul>
+            <li>I was born and raised in Huai'an, China. </li>
             <li>
-              I was born and raised in{" "}
-              <a href="https://en.wikipedia.org/wiki/Huai%27an">
-                Huai'an, China
-              </a>
-              . During my undergraduate, I have also lived in Beijing, China and
-              Pittsburgh, PA.
-            </li>
-            <li>
-              Outside of research, I enjoy indoor workouts 🏃 and outdoor
-              adventures 🏔️.
+              Outside of research, I enjoy indoor workouts and outdoor
+              adventures.
             </li>
             <li>
               I speak Chinese, English, and German. Although my native language

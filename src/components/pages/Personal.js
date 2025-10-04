@@ -34,12 +34,6 @@ function Personal() {
               Pittsburgh, PA.
             </li>
             <li>
-              I spent the first half of my undergraduate in the School of
-              Economics and Management, and the second half in the Department of
-              Computer Science and Technology, at Tsinghua University. Back
-              then, I also worked in China Securities in Shanghai, China.
-            </li>
-            <li>
               Outside of research, I enjoy indoor workouts 🏃 and outdoor
               adventures 🏔️.
             </li>
