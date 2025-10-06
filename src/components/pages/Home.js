@@ -69,9 +69,10 @@ function Page() {
             natural language processing, and economics and computation.
             Recently, I have been focusing on building the computational
             foundations to enable language models as strategic agents. In doing
-            so, I aim to advance the general intelligence of language models in
-            strategic settings to enhance their societal impacts, while also
-            providing insights into problems in alignment and oversight.
+            so, I aim to advance the capabilities of language models in
+            strategic settings (e.g., information design, mechanism design) to
+            enhance their societal impacts, while also providing insights into
+            problems in alignment and oversight.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
