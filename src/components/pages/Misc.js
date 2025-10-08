@@ -27,13 +27,11 @@ function Misc() {
           <ul>
             <li>
               <b>Computer Science</b>: Algorithmic Game Theory, Statistical
-              Reinforcement Learning, Advanced Natural Language Processing,
-              Social Spaces, etc.
+              Reinforcement Learning, Advanced Natural Language Processing.
             </li>
             <li>
               <b>Economics</b>: Intermediate Microeconomics, Intermediate
-              Macroeconomics, Econometrics (I), Econometrics (II), Game Theory,
-              etc.
+              Macroeconomics, Econometrics (I), Econometrics (II), Game Theory.
             </li>
           </ul>
         </Col>
