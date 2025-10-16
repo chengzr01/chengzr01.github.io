@@ -67,11 +67,11 @@ function Page() {
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research broadly lies at the intersection of machine learning,
             natural language processing, and economics and computation.
-            Recently, I have been focusing on building the computational
-            foundations to enable language models as strategic agents. In doing
-            so, I aim to advance the capabilities of language models in
-            strategic environments to enhance their societal impacts, while also
-            providing insights into problems in alignment and oversight.
+            Recently, I have been focusing on building the foundations to enable
+            language models as strategic agents. In doing so, I aim to advance
+            the capabilities of language models in strategic environments to
+            improve their societal impacts, while also providing insights into
+            problems in alignment and oversight.
             <br />
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -104,7 +104,7 @@ function Page() {
             Recent Work
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <i>On Information, Persuasion, and Decision-Making</i>
+            <i>On Information Design</i>
           </p>
           <ul>
             <li>
