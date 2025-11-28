@@ -74,25 +74,10 @@ function Page() {
             problems in alignment and oversight.
             <br />
           </p>
-          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Updates
+          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+            I am looking for Ph.D. positions starting from Fall 2026! Please
+            feel free to reach out if you think I would be a good fit!
           </p>
-
-          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <ul>
-              <li>
-                (November 2024) I will be attending CSCW 2024 in San José, Costa
-                Rica.
-              </li>
-            </ul>
-          </div>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
             style={{
@@ -102,9 +87,6 @@ function Page() {
             }}
           >
             Recent Work
-          </p>
-          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <i>On Information Design</i>
           </p>
           <ul>
             <li>
