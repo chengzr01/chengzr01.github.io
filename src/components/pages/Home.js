@@ -70,8 +70,8 @@ function Page() {
             Recently, I have been focusing on building the foundations to enable
             language models as strategic agents. In doing so, I aim to advance
             the capabilities of language models in strategic environments to
-            improve their societal impacts, while also providing insights into
-            problems in alignment and oversight.
+            improve their societal impacts, while also providing
+            algorithmicinsights into problems in alignment and oversight.
             <br />
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -99,14 +99,7 @@ function Page() {
                 , Jiaxuan You.
                 <br />
                 <i>Preprint. Under Review.</i>
-                <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>] [
-                <a
-                  href={require("../../Assets/Projects/cheng2025persuasion.pdf")}
-                  target="_blank"
-                >
-                  Paper
-                </a>
-                ]
+                <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
               </div>
             </li>
           </ul>

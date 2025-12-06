@@ -81,6 +81,25 @@ function Photography() {
           />
         </Col>
       </Row>
+      <Row>
+        <p
+          style={{
+            fontSize: "1.5em",
+            marginBottom: "0.5em",
+            marginTop: "0.5em",
+          }}
+        >
+          Profile
+        </p>
+        <p>
+          {" "}
+          [
+          <a href={require("../../Assets/Profile.jpg")} target="_blank">
+            Bayern, Deutschland
+          </a>
+          ]
+        </p>
+      </Row>
     </Container>
   );
 }
