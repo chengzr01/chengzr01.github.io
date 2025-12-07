@@ -69,9 +69,9 @@ function Page() {
             natural language processing, and economics and computation.
             Recently, I have been focusing on building the foundations to enable
             language models as strategic agents. In doing so, I aim to advance
-            the capabilities of language models in strategic environments to
-            improve their societal impacts, while also providing
-            algorithmicinsights into problems in alignment and oversight.
+            the general intelligence of language models to improve their
+            societal impacts, while also providing algorithmicinsights into
+            problems in alignment and oversight.
             <br />
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -87,6 +87,9 @@ function Page() {
             }}
           >
             Recent Work
+          </p>
+          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+            <i>Game Theory and Language Models</i>
           </p>
           <ul>
             <li>
