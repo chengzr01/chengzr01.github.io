@@ -89,7 +89,7 @@ function Page() {
             Recent Work
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <i>Game Theory and Language Models</i>
+            <i>Game Theory for Language Models</i>
           </p>
           <ul>
             <li>
