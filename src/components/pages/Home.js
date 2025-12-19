@@ -89,7 +89,7 @@ function Page() {
             Recent Work
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <i>Game Theory for Language Models</i>
+            <i>Information Design and Language Models</i>
           </p>
           <ul>
             <li>
@@ -103,6 +103,26 @@ function Page() {
                 <br />
                 <i>Preprint. Under Review.</i>
                 <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
+              </div>
+            </li>
+          </ul>
+          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+            <i>Mechanism Design and Language Models</i>
+          </p>
+          <ul>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>ResearchTown: Simulator of Human Research Community</b>
+                <br />
+                Haofei Yu*, Zhaochen Hong*,{" "}
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                *, Kunlun Zhu*, Keyang Xuan, Jinwei Yao, Tao Feng, Jiaxuan You.
+                <br />
+                <b>ICML 2025</b> – Forty-second International Conference on
+                Machine Learning.
+                <br />[<a href="https://arxiv.org/abs/2412.17767">arXiv</a>]
               </div>
             </li>
           </ul>
