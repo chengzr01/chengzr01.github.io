@@ -28,34 +28,34 @@ function Photography() {
           <PhotoCard
             width="360px"
             height="240px"
+            url={require("../../Assets/Misc/Paris.png")}
+            description="Paris, France"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
             url={require("../../Assets/Misc/Alajuela.jpg")}
             description="Alajuela, Costa Rica"
-          />
-        </Col>
-        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
-          <PhotoCard
-            width="360px"
-            height="240px"
-            url={require("../../Assets/Misc/Munich.jpg")}
-            description="Munich, Germany"
-          />
-        </Col>
-        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
-          <PhotoCard
-            width="360px"
-            height="240px"
-            url={require("../../Assets/Misc/Oregon.png")}
-            description="Oregon, USA"
           />
         </Col>
         {/* <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/San Diego.jpg")}
-            description="San Diego, USA"
+            url={require("../../Assets/Misc/Munich.jpg")}
+            description="Munich, Germany"
           />
         </Col> */}
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Oregon.png")}
+            description="Portland, USA"
+          />
+        </Col>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
           <PhotoCard
             width="360px"
@@ -80,25 +80,6 @@ function Photography() {
             description="Suzhou, China"
           />
         </Col>
-      </Row>
-      <Row>
-        <p
-          style={{
-            fontSize: "1.5em",
-            marginBottom: "0.5em",
-            marginTop: "0.5em",
-          }}
-        >
-          Profile
-        </p>
-        <p>
-          {" "}
-          [
-          <a href={require("../../Assets/Profile.jpg")} target="_blank">
-            Bayern, Deutschland
-          </a>
-          ]
-        </p>
       </Row>
     </Container>
   );
