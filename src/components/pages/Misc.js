@@ -22,6 +22,22 @@ function Misc() {
               marginTop: "0.5em",
             }}
           >
+            Essays
+          </p>
+          <ul>
+            <li>Mechanism Design for Human-AI Alignment</li>
+          </ul>
+        </Col>
+      </Row>
+      <Row style={{ marginTop: "2em" }}>
+        <Col md={12} style={{ textAlign: "left" }}>
+          <p
+            style={{
+              fontSize: "1.5em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
             Coursework
           </p>
           <ul>
@@ -36,7 +52,7 @@ function Misc() {
           </ul>
         </Col>
       </Row>
-      <Row>
+      {/* <Row>
         <Col md={12} style={{ textAlign: "left" }}>
           <p
             style={{
@@ -62,7 +78,7 @@ function Misc() {
             </li>
           </ul>
         </Col>
-      </Row>
+      </Row> */}
     </Container>
   );
 }
