@@ -77,7 +77,7 @@ function App() {
               </Nav.Item>
               <Nav.Item>
                 <Nav.Link
-                  href="/#/photos"
+                  href="/#/photography"
                   style={{
                     color: "inherit",
                     textDecoration: "none",
