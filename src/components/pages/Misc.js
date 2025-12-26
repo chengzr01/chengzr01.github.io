@@ -25,11 +25,17 @@ function Misc() {
             Essays
           </p>
           <ul>
-            <li>Mechanism Design for Human-AI Alignment</li>
+            <li>
+              Mechanism Design for Human-AI Alignment. <br />{" "}
+              <i>
+                Coursework Project for Algorithmic Game Theory, 2025 Fall.
+                Advised by Prof. Ruta Mehta.
+              </i>
+            </li>
           </ul>
         </Col>
       </Row>
-      <Row style={{ marginTop: "2em" }}>
+      {/* <Row style={{ marginTop: "2em" }}>
         <Col md={12} style={{ textAlign: "left" }}>
           <p
             style={{
@@ -51,8 +57,8 @@ function Misc() {
             </li>
           </ul>
         </Col>
-      </Row>
-      {/* <Row>
+      </Row> */}
+      <Row>
         <Col md={12} style={{ textAlign: "left" }}>
           <p
             style={{
@@ -65,12 +71,9 @@ function Misc() {
           </p>
           <ul>
             <li>
-              I was born and raised in Huai'an, a beautiful city in Jiangsu,
-              China.
-            </li>
-            <li>
-              I speak Chinese, English, and German. Although my native language
-              is Mandarin, I can speak both the Wu and Yue dialects.
+              I speak Chinese, English, German, and French. Although my native
+              language is Mandarin, I can speak both the Wu and Yue dialects of
+              Chinese.
             </li>
             <li>
               Outside of research, I enjoy indoor workouts and outdoor
@@ -78,7 +81,7 @@ function Misc() {
             </li>
           </ul>
         </Col>
-      </Row> */}
+      </Row>
     </Container>
   );
 }
