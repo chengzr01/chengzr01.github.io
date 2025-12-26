@@ -38,15 +38,6 @@ function Publications() {
                 , Jiaxuan You.
                 <br />
                 <i>Preprint. Under Review.</i>
-                <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>] [
-                <a
-                  href={require("../../Assets/Projects/cheng2025persuasion.pdf")}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Paper
-                </a>
-                ]
               </li>
             </div>
           </ul>

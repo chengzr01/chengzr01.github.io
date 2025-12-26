@@ -30,7 +30,16 @@ function Misc() {
               <i>
                 Coursework Project for Algorithmic Game Theory, 2025 Fall.
                 Advised by Prof. Ruta Mehta.
-              </i>
+              </i>{" "}
+              <br />[
+              <a
+                href={require("../../Assets/Projects/cheng2025mechanism.pdf")}
+                target="_blank"
+                rel="noreferrer"
+              >
+                Essay
+              </a>
+              ]
             </li>
           </ul>
         </Col>
