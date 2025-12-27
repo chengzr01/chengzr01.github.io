@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import PhotoCard from "../shared/PhotoCard";
 
-function Photography() {
+function Photos() {
   return (
     <Container
       fluid
@@ -12,7 +12,7 @@ function Photography() {
         paddingBottom: "2em",
         width: "80%",
       }}
-      id="about"
+      id="photos"
     >
       <Row>
         <p
@@ -22,7 +22,7 @@ function Photography() {
             marginTop: "0.5em",
           }}
         >
-          Photography
+          Photos
         </p>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
           <PhotoCard
@@ -85,4 +85,4 @@ function Photography() {
   );
 }
 
-export default Photography;
+export default Photos;

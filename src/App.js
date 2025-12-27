@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { HashRouter, Route, Routes, Navigate } from "react-router-dom";
 import Home from "./components/pages/Home";
-import Photography from "./components/pages/Photography";
+import Photos from "./components/pages/Photos";
 import Publications from "./components/pages/Publications";
 import Misc from "./components/pages/Misc";
 import ScrollToTop from "./components/layout/ScrollToTop";
@@ -77,7 +77,7 @@ function App() {
               </Nav.Item>
               <Nav.Item>
                 <Nav.Link
-                  href="/#/photography"
+                  href="/#/photos"
                   style={{
                     color: "inherit",
                     textDecoration: "none",
@@ -86,7 +86,7 @@ function App() {
                   onMouseEnter={(e) => (e.target.style.fontWeight = "bold")}
                   onMouseLeave={(e) => (e.target.style.fontWeight = "normal")}
                 >
-                  Photography
+                  Photos
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item>
@@ -110,7 +110,7 @@ function App() {
           <Routes>
             <Route path="/home" element={<Home />} exact />
             <Route path="/publications" element={<Publications />} />
-            <Route path="/photography" element={<Photography />} />
+            <Route path="/photos" element={<Photos />} />
             <Route path="/misc" element={<Misc />} />
             <Route path="*" element={<Navigate to="/home" />} />
           </Routes>
