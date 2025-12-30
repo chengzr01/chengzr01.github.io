@@ -88,9 +88,6 @@ function Page() {
           >
             Recent Work
           </p>
-          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <i>Information Design for Language Models</i>
-          </p>
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -106,9 +103,6 @@ function Page() {
               </div>
             </li>
           </ul>
-          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <i>Mechanism Design for Language Models</i>
-          </p>
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
