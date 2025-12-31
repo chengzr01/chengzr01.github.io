@@ -26,20 +26,47 @@ function Misc() {
           </p>
           <ul>
             <li>
-              Mechanism Design for Human-AI Alignment. <br />{" "}
-              <i>
-                Coursework Project for Algorithmic Game Theory, 2025 Fall.
-                Advised by Prof. Ruta Mehta.
-              </i>{" "}
-              <br />[
+              <b>Mechanism Design for Human-AI Alignment</b> [
               <a
                 href={require("../../Assets/Projects/cheng2025mechanism.pdf")}
                 target="_blank"
                 rel="noreferrer"
               >
-                Essay
+                File
               </a>
-              ]
+              ] <br />{" "}
+              <i>
+                Course Project for Algorithmic Game Theory, 2025 Fall. Advised
+                by Prof. Ruta Mehta.
+              </i>{" "}
+            </li>
+          </ul>
+        </Col>
+      </Row>
+      <Row>
+        <Col md={12} style={{ textAlign: "left" }}>
+          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
+          <p
+            style={{
+              fontSize: "1.5em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            Teaching
+          </p>
+          <ul>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>Software Design Lab</b>, Teaching Assistant [
+                <a href="https://cs222-uiuc.pages.dev/">Website</a>]
+              </div>
+            </li>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>Deep Learning with Graphs</b>, Teaching Assistant [
+                <a href="https://ulab-uiuc.github.io/CS598/">Website</a>]
+              </div>
             </li>
           </ul>
         </Col>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/static/js/main.js",
-    "main.css": "/static/css/main.3d2a6b6c.css",
+    "main.css": "/static/css/main.cb462a26.css",
     "static/js/787.chunk.js": "/static/js/787.chunk.js",
     "static/media/Paris.png": "/static/media/Paris.png",
     "static/media/Suzhou.jpg": "/static/media/Suzhou.jpg",
@@ -20,13 +20,17 @@
     "static/media/OpenSans-BoldItalic.ttf": "/static/media/OpenSans-BoldItalic.ttf",
     "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.ttf",
     "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.ttf",
+    "static/media/LibreBaskerville-BoldItalic.ttf": "/static/media/LibreBaskerville-BoldItalic.ttf",
+    "static/media/LibreBaskerville-Italic.ttf": "/static/media/LibreBaskerville-Italic.ttf",
+    "static/media/LibreBaskerville-Bold.ttf": "/static/media/LibreBaskerville-Bold.ttf",
+    "static/media/LibreBaskerville-Regular.ttf": "/static/media/LibreBaskerville-Regular.ttf",
     "index.html": "/index.html",
     "main.js.map": "/static/js/main.js.map",
-    "main.3d2a6b6c.css.map": "/static/css/main.3d2a6b6c.css.map",
+    "main.cb462a26.css.map": "/static/css/main.cb462a26.css.map",
     "787.chunk.js.map": "/static/js/787.chunk.js.map"
   },
   "entrypoints": [
     "static/js/main.js",
-    "static/css/main.3d2a6b6c.css"
+    "static/css/main.cb462a26.css"
   ]
 }

@@ -120,30 +120,6 @@ function Page() {
               </div>
             </li>
           </ul>
-          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Teaching
-          </p>
-          <ul>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>Software Design @ UIUC</b>, Teaching Assistant [
-                <a href="https://cs222-uiuc.pages.dev/">Website</a>]
-              </div>
-            </li>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>Deep Learning with Graphs @ UIUC</b>, Teaching Assistant [
-                <a href="https://ulab-uiuc.github.io/CS598/">Website</a>]
-              </div>
-            </li>
-          </ul>
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
           <Tilt
