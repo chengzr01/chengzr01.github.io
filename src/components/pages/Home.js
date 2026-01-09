@@ -52,26 +52,20 @@ function Page() {
               University of Illinois Urbana-Champaign
             </a>{" "}
             (UIUC), starting from 2024 Fall. I have been fortunate to work with
-            Prof. <a href={"https://haopeng-nlp.github.io/"}>Hao Peng</a> at
-            UIUC. Previously, I received my Bachelor's degrees in{" "}
-            <a href={"https://www.cs.tsinghua.edu.cn/"}>
-              Computer Science and Technology
-            </a>{" "}
-            and{" "}
-            <a href={"https://www.sem.tsinghua.edu.cn/"}>
-              Economics and Finance
-            </a>{" "}
-            from{" "}
-            <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
+            Prof. Hao Peng at UIUC. Previously, I received my Bachelor's degrees
+            in Computer Science and Technology and Economics and Finance from{" "}
+            <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>. I
+            have also been a visiting student at Princeton University and
+            Carnegie Mellon University.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research broadly lies at the intersection of machine learning,
-            natural language processing, and reinforcement learning. Recently, I
-            have been focusing on building the foundations to enable language
-            models as strategic agents. In doing so, I aim to advance the
-            general intelligence of language models to improve their societal
-            impacts, while also providing algorithmic insights into problems in
-            alignment and oversight.
+            natural language processing, reinforcement learning, and game
+            theory. Recently, I have been focusing on building the foundations
+            to enable language models as strategic agents. In doing so, I aim to
+            advance the general intelligence of language models to improve their
+            societal impacts, while also providing algorithmic insights into
+            problems in alignment and oversight.
             <br />
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
