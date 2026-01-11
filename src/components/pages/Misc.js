@@ -83,11 +83,7 @@ function Misc() {
             Personal
           </p>
           <ul>
-            <li>
-              I speak Chinese, English, German, and French. Although my native
-              language is Mandarin, I can speak both the Wu and Yue dialects of
-              Chinese.
-            </li>
+            <li>I speak Chinese, English, German, and French.</li>
             <li>
               Outside of research, I enjoy indoor workouts and outdoor
               adventures.
