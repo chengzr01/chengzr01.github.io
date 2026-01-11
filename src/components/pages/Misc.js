@@ -13,7 +13,7 @@ function Misc() {
       }}
       id="misc"
     >
-      <Row style={{ marginTop: "2em" }}>
+      <Row>
         <Col md={12} style={{ textAlign: "left" }}>
           <p
             style={{
@@ -71,29 +71,6 @@ function Misc() {
           </ul>
         </Col>
       </Row>
-      {/* <Row style={{ marginTop: "2em" }}>
-        <Col md={12} style={{ textAlign: "left" }}>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Coursework
-          </p>
-          <ul>
-            <li>
-              <b>Computer Science</b>: Algorithmic Game Theory, Statistical
-              Reinforcement Learning, Advanced Natural Language Processing.
-            </li>
-            <li>
-              <b>Economics</b>: Intermediate Microeconomics, Intermediate
-              Macroeconomics, Econometrics (I), Econometrics (II), Game Theory.
-            </li>
-          </ul>
-        </Col>
-      </Row> */}
       <Row>
         <Col md={12} style={{ textAlign: "left" }}>
           <p

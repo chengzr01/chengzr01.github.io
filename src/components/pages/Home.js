@@ -65,7 +65,7 @@ function Page() {
             to enable language models as strategic agents. In doing so, I aim to
             advance the general intelligence of language models to improve their
             societal impacts, while also providing algorithmic insights into
-            problems in alignment and oversight.
+            human-AI interaction and alignment.
             <br />
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
