@@ -44,14 +44,6 @@ function Photos() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Oregon.png")}
-            description="Portland, USA"
-          />
-        </Col>
-        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
-          <PhotoCard
-            width="360px"
-            height="240px"
             url={require("../../Assets/Misc/Munich.jpg")}
             description="Munich, Germany"
           />
@@ -60,7 +52,15 @@ function Photos() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Suzhou_.jpg")}
+            url={require("../../Assets/Misc/Oregon.png")}
+            description="Portland, USA"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Suzhou.jpg")}
             description="Suzhou, China"
           />
         </Col>
