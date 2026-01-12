@@ -40,14 +40,6 @@ function Photos() {
             description="Alajuela, Costa Rica"
           />
         </Col>
-        {/* <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
-          <PhotoCard
-            width="360px"
-            height="240px"
-            url={require("../../Assets/Misc/Munich.jpg")}
-            description="Munich, Germany"
-          />
-        </Col> */}
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
           <PhotoCard
             width="360px"
@@ -60,24 +52,24 @@ function Photos() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Jeddah.jpg")}
-            description="Jeddah, Saudi Arabia"
+            url={require("../../Assets/Misc/Munich.jpg")}
+            description="Munich, Germany"
           />
         </Col>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Zurich.jpg")}
-            description="Zurich, Switzerland"
-          />
-        </Col>
-        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
-          <PhotoCard
-            width="360px"
-            height="240px"
-            url={require("../../Assets/Misc/Suzhou.jpg")}
+            url={require("../../Assets/Misc/Suzhou_.jpg")}
             description="Suzhou, China"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Geneva.jpg")}
+            description="Geneva, Switzerland"
           />
         </Col>
       </Row>
