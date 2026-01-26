@@ -92,7 +92,7 @@ function Page() {
                 </u>
                 , Jiaxuan You.
                 <br />
-                <i>Preprint. Under Review.</i>
+                <b>ICLR 2026</b> – Fourteenth International Conference on Learning Representations.
                 <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
               </div>
             </li>
