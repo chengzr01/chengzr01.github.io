@@ -110,7 +110,7 @@ function Page() {
                 <br />
                 <b>ICML 2025</b> – Forty-second International Conference on
                 Machine Learning.
-                <br />[<a href="https://arxiv.org/abs/2412.17767">arXiv</a>]
+                <br />[<a href="https://arxiv.org/abs/2412.17767">arXiv</a>] [<a href="https://github.com/ulab-uiuc/research-town">Code</a>]
               </div>
             </li>
           </ul>
@@ -148,6 +148,10 @@ function Page() {
             ] [<a href={"https://twitter.com/Zirui_Cheng_"}>X (Twitter)</a>] [
             <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
               Google Scholar
+            </a>
+            ] [
+            <a href="https://www.linkedin.com/in/zirui-cheng-044024284/">
+              LinkedIn
             </a>
             ]
           </p>
