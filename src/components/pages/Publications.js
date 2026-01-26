@@ -24,8 +24,16 @@ function Publications() {
           >
             Publications
           </p>
-          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+          {/* <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             <i>Preprints</i>
+          </p>
+          <ul>
+            <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+              
+            </div>
+          </ul> */}
+          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+            <i>Peer-Reviewed Papers</i>
           </p>
           <ul>
             <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -37,14 +45,9 @@ function Publications() {
                 </u>
                 , Jiaxuan You.
                 <br />
-                <i>Preprint. Under Review.</i>
+                <b>ICLR 2026</b> – Fourteenth International Conference on Learning Representations.
               </li>
             </div>
-          </ul>
-          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <i>Peer-Reviewed Papers</i>
-          </p>
-          <ul>
             <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
               <li>
                 <b>ResearchTown: Simulator of Human Research Community</b>

@@ -93,7 +93,7 @@ function Page() {
                 , Jiaxuan You.
                 <br />
                 <b>ICLR 2026</b> – Fourteenth International Conference on Learning Representations.
-                <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
+                <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>] [Code]
               </div>
             </li>
           </ul>
