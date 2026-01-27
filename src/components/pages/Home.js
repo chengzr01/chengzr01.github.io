@@ -55,8 +55,7 @@ function Page() {
             Prof. Hao Peng at UIUC. Previously, I received my Bachelor's degrees
             in Computer Science and Technology and Economics and Finance from{" "}
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>. I
-            have also been a visiting student at Princeton University and
-            Carnegie Mellon University.
+            have also been a visiting student at Princeton University.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research broadly lies at the intersection of machine learning,
@@ -64,8 +63,7 @@ function Page() {
             theory. Recently, I have been focusing on building the foundations
             to enable language models as strategic agents. In doing so, I aim to
             advance the general intelligence of language models to improve their
-            societal impacts, while also providing algorithmic insights into
-            human-AI interaction and alignment.
+            societal impacts, while also providing algorithmic insights into alignment and oversight.
             <br />
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
