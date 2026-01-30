@@ -60,10 +60,11 @@ function Page() {
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research broadly lies at the intersection of machine learning,
             natural language processing, reinforcement learning, and game
-            theory. Recently, I have been focusing on building the foundations
-            to enable language models as strategic agents. In doing so, I aim to
-            advance the general intelligence of language models to improve their
-            societal impacts, while also providing algorithmic insights into alignment and oversight.
+            theory. Recently, I have been focusing on advancing the
+            decision-making capabilities of language models. In doing so, I aim
+            to advance the general intelligence of language models to improve
+            their societal impacts, while also providing algorithmic insights
+            into alignment and oversight.
             <br />
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -90,8 +91,10 @@ function Page() {
                 </u>
                 , Jiaxuan You.
                 <br />
-                <b>ICLR 2026</b> – Fourteenth International Conference on Learning Representations.
-                <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>] [Code]
+                <b>ICLR 2026</b> – Fourteenth International Conference on
+                Learning Representations.
+                <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
+                [Code]
               </div>
             </li>
           </ul>
@@ -108,7 +111,8 @@ function Page() {
                 <br />
                 <b>ICML 2025</b> – Forty-second International Conference on
                 Machine Learning.
-                <br />[<a href="https://arxiv.org/abs/2412.17767">arXiv</a>] [<a href="https://github.com/ulab-uiuc/research-town">Code</a>]
+                <br />[<a href="https://arxiv.org/abs/2412.17767">arXiv</a>] [
+                <a href="https://github.com/ulab-uiuc/research-town">Code</a>]
               </div>
             </li>
           </ul>
