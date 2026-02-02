@@ -50,12 +50,12 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research broadly lies at the intersection of machine learning,
-            natural language processing, reinforcement learning, and game
-            theory. Recently, I have been focusing on advancing the
-            decision-making capabilities of language models. In doing so, I aim
-            to advance the general intelligence of language models to improve
-            their societal impacts, while also providing algorithmic insights
-            into alignment and oversight.
+            natural language processing, economics and computation, and
+            reinforcement learning. Recently, I have been focusing on advancing
+            decision-making with language models. In doing so, I aim to advance
+            the general intelligence of language models to improve their
+            societal impacts, while also providing algorithmic insights into
+            alignment and oversight.
             <br />
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
