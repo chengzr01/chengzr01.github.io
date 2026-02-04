@@ -1,36 +1,26 @@
 {
   "files": {
     "main.js": "/static/js/main.js",
-    "main.css": "/static/css/main.cb462a26.css",
+    "main.css": "/static/css/main.6edc3a5c.css",
     "static/js/787.chunk.js": "/static/js/787.chunk.js",
     "static/media/Paris.png": "/static/media/Paris.png",
     "static/media/Suzhou.jpg": "/static/media/Suzhou.jpg",
     "static/media/Munich.jpg": "/static/media/Munich.jpg",
     "static/media/Oregon.png": "/static/media/Oregon.png",
     "static/media/Alajuela.jpg": "/static/media/Alajuela.jpg",
+    "static/media/Helvetica.ttc": "/static/media/Helvetica.ttc",
     "static/media/Profile.jpg": "/static/media/Profile.jpg",
+    "static/media/Baskerville.ttc": "/static/media/Baskerville.ttc",
     "static/media/Geneva.jpg": "/static/media/Geneva.jpg",
-    "static/media/LinBiolinum_RBO.otf": "/static/media/LinBiolinum_RBO.otf",
-    "static/media/LinBiolinum_RI.otf": "/static/media/LinBiolinum_RI.otf",
-    "static/media/LinBiolinum_RB.otf": "/static/media/LinBiolinum_RB.otf",
-    "static/media/LinBiolinum_R.otf": "/static/media/LinBiolinum_R.otf",
     "static/media/cheng2025mechanism.pdf": "/static/media/cheng2025mechanism.pdf",
-    "static/media/OpenSans-Italic.ttf": "/static/media/OpenSans-Italic.ttf",
-    "static/media/OpenSans-BoldItalic.ttf": "/static/media/OpenSans-BoldItalic.ttf",
     "static/media/Curriculum_Vitae.pdf": "/static/media/Curriculum_Vitae.pdf",
-    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.ttf",
-    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.ttf",
-    "static/media/LibreBaskerville-BoldItalic.ttf": "/static/media/LibreBaskerville-BoldItalic.ttf",
-    "static/media/LibreBaskerville-Italic.ttf": "/static/media/LibreBaskerville-Italic.ttf",
-    "static/media/LibreBaskerville-Bold.ttf": "/static/media/LibreBaskerville-Bold.ttf",
-    "static/media/LibreBaskerville-Regular.ttf": "/static/media/LibreBaskerville-Regular.ttf",
     "index.html": "/index.html",
     "main.js.map": "/static/js/main.js.map",
-    "main.cb462a26.css.map": "/static/css/main.cb462a26.css.map",
+    "main.6edc3a5c.css.map": "/static/css/main.6edc3a5c.css.map",
     "787.chunk.js.map": "/static/js/787.chunk.js.map"
   },
   "entrypoints": [
     "static/js/main.js",
-    "static/css/main.cb462a26.css"
+    "static/css/main.6edc3a5c.css"
   ]
 }
