@@ -1,86 +1,11 @@
 @font-face {
   font-family: "Baskerville";
-  font-weight: normal;
-  font-style: normal;
-  src: url("./Assets/Fonts/Libre_Baskerville/static/LibreBaskerville-Regular.ttf");
+  src: url("./Assets/Fonts/Baskerville/Baskerville.ttc") format("truetype-collection");
 }
 
 @font-face {
-  font-family: "Baskerville";
-  font-weight: bold;
-  font-style: normal;
-  src: url("./Assets/Fonts/Libre_Baskerville/static/LibreBaskerville-Bold.ttf");
-}
-
-@font-face {
-  font-family: "Baskerville";
-  font-weight: normal;
-  font-style: italic;
-  src: url("./Assets/Fonts/Libre_Baskerville/static/LibreBaskerville-Italic.ttf");
-}
-
-@font-face {
-  font-family: "Baskerville";
-  font-weight: bold;
-  font-style: italic;
-  src: url("./Assets/Fonts/Libre_Baskerville/static/LibreBaskerville-BoldItalic.ttf");
-}
-
-
-@font-face {
-  font-family: "Open_Sans";
-  font-weight: normal;
-  font-style: normal;
-  src: url("./Assets/Fonts/Open_Sans/static/OpenSans-Regular.ttf");
-}
-
-@font-face {
-  font-family: "Open_Sans";
-  font-weight: bold;
-  font-style: normal;
-  src: url("./Assets/Fonts/Open_Sans/static/OpenSans-Bold.ttf");
-}
-
-@font-face {
-  font-family: "Open_Sans";
-  font-weight: normal;
-  font-style: italic;
-  src: url("./Assets/Fonts/Open_Sans/static/OpenSans-Italic.ttf");
-}
-
-@font-face {
-  font-family: "Open_Sans";
-  font-weight: bold;
-  font-style: italic;
-  src: url("./Assets/Fonts/Open_Sans/static/OpenSans-BoldItalic.ttf");
-}
-
-@font-face {
-  font-family: "Biolinum";
-  font-weight: normal;
-  font-style: normal;
-  src: url("./Assets/Fonts/Biolinum/LinBiolinum_R.otf");
-}
-
-@font-face {
-  font-family: "Biolinum";
-  font-weight: bold;
-  font-style: normal;
-  src: url("./Assets/Fonts/Biolinum/LinBiolinum_RB.otf");
-}
-
-@font-face {
-  font-family: "Biolinum";
-  font-weight: normal;
-  font-style: italic;
-  src: url("./Assets/Fonts/Biolinum/LinBiolinum_RI.otf");
-}
-
-@font-face {
-  font-family: "Biolinum";
-  font-weight: bold;
-  font-style: italic;
-  src: url("./Assets/Fonts/Biolinum/LinBiolinum_RBO.otf");
+  font-family: "Helvetica";
+  src: url("./Assets/Fonts/Helvetica/Helvetica.ttc") format("truetype-collection");
 }
 
 body {
