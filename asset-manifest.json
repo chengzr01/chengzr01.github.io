@@ -1,26 +1,26 @@
 {
   "files": {
     "main.js": "/static/js/main.js",
-    "main.css": "/static/css/main.6edc3a5c.css",
+    "main.css": "/static/css/main.d72addc7.css",
     "static/js/787.chunk.js": "/static/js/787.chunk.js",
     "static/media/Paris.png": "/static/media/Paris.png",
     "static/media/Suzhou.jpg": "/static/media/Suzhou.jpg",
     "static/media/Munich.jpg": "/static/media/Munich.jpg",
     "static/media/Oregon.png": "/static/media/Oregon.png",
     "static/media/Alajuela.jpg": "/static/media/Alajuela.jpg",
-    "static/media/Helvetica.ttc": "/static/media/Helvetica.ttc",
     "static/media/Profile.jpg": "/static/media/Profile.jpg",
-    "static/media/Baskerville.ttc": "/static/media/Baskerville.ttc",
     "static/media/Geneva.jpg": "/static/media/Geneva.jpg",
     "static/media/cheng2025mechanism.pdf": "/static/media/cheng2025mechanism.pdf",
+    "static/media/LibreBaskerville-VariableFont_wght.ttf": "/static/media/LibreBaskerville-VariableFont_wght.ttf",
+    "static/media/LibreBaskerville-Italic-VariableFont_wght.ttf": "/static/media/LibreBaskerville-Italic-VariableFont_wght.ttf",
     "static/media/Curriculum_Vitae.pdf": "/static/media/Curriculum_Vitae.pdf",
     "index.html": "/index.html",
     "main.js.map": "/static/js/main.js.map",
-    "main.6edc3a5c.css.map": "/static/css/main.6edc3a5c.css.map",
+    "main.d72addc7.css.map": "/static/css/main.d72addc7.css.map",
     "787.chunk.js.map": "/static/js/787.chunk.js.map"
   },
   "entrypoints": [
     "static/js/main.js",
-    "static/css/main.6edc3a5c.css"
+    "static/css/main.d72addc7.css"
   ]
 }
