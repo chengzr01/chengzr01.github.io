@@ -56,11 +56,6 @@ function Page() {
             the general intelligence of language models to improve their
             societal impacts, while also providing algorithmic insights into
             alignment and oversight.
-            <br />
-          </p>
-          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            I am looking for Ph.D. positions starting from Fall 2026! Please
-            feel free to reach out if you think I would be a good fit!
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
