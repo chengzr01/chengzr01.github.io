@@ -83,7 +83,7 @@ function Misc() {
             Personal
           </p>
           <ul>
-            <li>My name is pronounced as [tsɿʐui tʂʰəŋ] in IPA.</li>
+            <li>My name is pronounced as [tsɿʐui tʂʰəŋ].</li>
             <li>I speak Chinese, English, and German.</li>
             <li>
               Outside of research, I enjoy indoor workouts and outdoor
