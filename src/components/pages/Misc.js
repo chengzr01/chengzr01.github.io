@@ -43,27 +43,6 @@ function Misc() {
         </Col>
       </Row>
       <Row>
-        <Col md={12} style={{ textAlign: "left" }}>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Personal
-          </p>
-          <ul>
-            <li>My name is pronounced as [tsɿʐui tʂʰəŋ].</li>
-            <li>I speak Chinese, English, and German.</li>
-            <li>
-              Outside of research, I enjoy indoor workouts and outdoor
-              adventures.
-            </li>
-          </ul>
-        </Col>
-      </Row>
-      <Row>
         <Col md={12}>
           <p
             style={{
@@ -124,6 +103,27 @@ function Misc() {
             url={require("../../Assets/Misc/Geneva.jpg")}
             description="Geneva, Switzerland"
           />
+        </Col>
+      </Row>
+      <Row>
+        <Col md={12} style={{ textAlign: "left" }}>
+          <p
+            style={{
+              fontSize: "1.5em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            Personal
+          </p>
+          <ul>
+            <li>My name is pronounced as [tsɿʐui tʂʰəŋ].</li>
+            <li>I speak Chinese, English, and German.</li>
+            <li>
+              Outside of research, I enjoy indoor workouts and outdoor
+              adventures.
+            </li>
+          </ul>
         </Col>
       </Row>
     </Container>
