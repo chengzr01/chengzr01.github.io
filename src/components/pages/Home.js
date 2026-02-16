@@ -54,10 +54,10 @@ function Page() {
             reinforcement learning. Recently, I have been focusing on enabling
             language models as strategic agents. My research explores the
             theoretical foundations, algorithmic approaches, and societal
-            impacts of strategic behavior in these systems. In doing so, I aim
-            to advance the general intelligence of language models to improve
-            their societal impacts, while also providing algorithmic insights
-            into alignment and oversight.
+            implications for strategic behaviors in these systems. In doing so,
+            I aim to advance the general intelligence of language models to
+            improve their societal impacts, while also providing algorithmic
+            insights into alignment and oversight.
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
