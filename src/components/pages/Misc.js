@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import PhotoCard from "../shared/PhotoCard";
 
 function Misc() {
   return (
@@ -13,36 +14,6 @@ function Misc() {
       }}
       id="misc"
     >
-      <Row>
-        <Col md={12} style={{ textAlign: "left" }}>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Essays
-          </p>
-          <ul>
-            <li>
-              <b>Mechanism Design for Human-AI Alignment</b> [
-              <a
-                href={require("../../Assets/Projects/cheng2025mechanism.pdf")}
-                target="_blank"
-                rel="noreferrer"
-              >
-                File
-              </a>
-              ] <br />{" "}
-              <i>
-                Course Project for Algorithmic Game Theory, 2025 Fall. Advised
-                by Prof. Ruta Mehta.
-              </i>{" "}
-            </li>
-          </ul>
-        </Col>
-      </Row>
       <Row>
         <Col md={12} style={{ textAlign: "left" }}>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
@@ -90,6 +61,69 @@ function Misc() {
               adventures.
             </li>
           </ul>
+        </Col>
+      </Row>
+      <Row>
+        <Col md={12}>
+          <p
+            style={{
+              fontSize: "1.5em",
+              marginBottom: "0.5em",
+              marginTop: "0.5em",
+            }}
+          >
+            Gallery
+          </p>
+        </Col>
+      </Row>
+      <Row>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Paris.png")}
+            description="Paris, France"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Alajuela.jpg")}
+            description="Alajuela, Costa Rica"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Munich.jpg")}
+            description="Munich, Germany"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Oregon.png")}
+            description="Portland, USA"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Suzhou.jpg")}
+            description="Suzhou, China"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../Assets/Misc/Geneva.jpg")}
+            description="Geneva, Switzerland"
+          />
         </Col>
       </Row>
     </Container>

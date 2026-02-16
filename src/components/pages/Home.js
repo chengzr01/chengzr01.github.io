@@ -111,7 +111,7 @@ function Page() {
             }}
           >
             <img
-              src={require("../../Assets/Profile.jpg")}
+              src={require("../../Assets/Profile_Bayern.jpg")}
               width="75%"
               className="img-fluid"
             />
