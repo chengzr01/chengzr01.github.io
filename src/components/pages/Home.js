@@ -52,10 +52,12 @@ function Page() {
             My research broadly lies at the intersection of machine learning,
             natural language processing, economics and computation, and
             reinforcement learning. Recently, I have been focusing on enabling
-            language models as strategic agents. In doing so, I aim to advance
-            the general intelligence of language models to improve their
-            societal impacts, while also providing algorithmic insights into
-            alignment and oversight.
+            language models as strategic agents. My research explores the
+            theoretical foundations, algorithmic approaches, and societal
+            impacts of strategic behavior in these systems. In doing so, I aim
+            to advance the general intelligence of language models to improve
+            their societal impacts, while also providing algorithmic insights
+            into alignment and oversight.
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
