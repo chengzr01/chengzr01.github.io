@@ -55,9 +55,9 @@ function Page() {
             language models as strategic agents. My research explores the{" "}
             <b>theoretical foundations</b>, <b>algorithmic approaches</b>, and{" "}
             <b>societal impacts</b> related to the strategic behaviors in these
-            systems. In doing so, I aim to advance the general intelligence of
-            language models, while also providing algorithmic insights into
-            alignment and oversight.
+            systems. In doing so, I aim to improve the <b>societal impacts</b>{" "}
+            of language models, while also providing algorithmic insights into{" "}
+            <b>alignment</b> and <b>oversight</b>.
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
