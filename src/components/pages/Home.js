@@ -16,9 +16,7 @@ function Page() {
           textAlign: "center",
         }}
       >
-        <h1 style={{ paddingTop: "0.5em", paddingBottom: "0.5em" }}>
-          Zirui Cheng
-        </h1>
+        <h1 style={{ paddingTop: "1em", paddingBottom: "1em" }}>Zirui Cheng</h1>
 
         <Col md={9} style={{ textAlign: "left" }}>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
