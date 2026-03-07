@@ -79,7 +79,7 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Paris.png")}
+            url={require("../../assets/misc/Paris.png")}
             description="Paris, France"
           />
         </Col>
@@ -87,7 +87,7 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Alajuela.jpg")}
+            url={require("../../assets/misc/Alajuela.jpg")}
             description="Alajuela, Costa Rica"
           />
         </Col>
@@ -95,7 +95,7 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Munich.jpg")}
+            url={require("../../assets/misc/Munich.jpg")}
             description="Munich, Germany"
           />
         </Col>
@@ -103,7 +103,7 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Oregon.png")}
+            url={require("../../assets/misc/Oregon.png")}
             description="Portland, USA"
           />
         </Col>
@@ -111,7 +111,7 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Suzhou.jpg")}
+            url={require("../../assets/misc/Suzhou.jpg")}
             description="Suzhou, China"
           />
         </Col>
@@ -119,7 +119,7 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../Assets/Misc/Geneva.jpg")}
+            url={require("../../assets/misc/Geneva.jpg")}
             description="Geneva, Switzerland"
           />
         </Col>

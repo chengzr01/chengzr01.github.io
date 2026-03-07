@@ -28,7 +28,7 @@ function Blogs() {
             <li>
               <b>Mechanism Design for Human-AI Alignment</b> [
               <a
-                href={require("../../Assets/Projects/cheng2025mechanism.pdf")}
+                href={require("../../assets/projects/cheng2025mechanism.pdf")}
                 target="_blank"
                 rel="noreferrer"
               >

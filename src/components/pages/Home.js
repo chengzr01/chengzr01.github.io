@@ -37,16 +37,17 @@ function Page() {
 
         <Col md={9} style={{ textAlign: "left" }}>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            Hi! I am Zirui Cheng (程子睿). I am an M.S. student in Computer
-            Science at the{" "}
+            Hi! I am Zirui Cheng (程子睿, <a href="/#/pronunciation">pronunciation</a>). I am an M.S.
+            student in Computer Science at the{" "}
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
             (UIUC), starting from 2024 Fall. I have been fortunate to work with
-            Prof. Hao Peng at UIUC. Previously, I received my Bachelor's degrees
-            in Computer Science and Technology and Economics and Finance from{" "}
-            <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>. I
-            have also been a visiting student at Princeton University.
+            Prof. Hao Peng at UIUC. I have also been a visiting student at{" "}
+            <a href="https://www.princeton.edu/">Princeton University</a>,
+            working with Prof. Peter Henderson. Previously, I completed my
+            undergraduate studies in Computer Science and Economics at{" "}
+            <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research broadly lies at the intersection of machine learning,
@@ -55,9 +56,9 @@ function Page() {
             language models as strategic agents. My research explores the{" "}
             <b>theoretical foundations</b>, <b>algorithmic approaches</b>, and{" "}
             <b>societal impacts</b> related to the strategic behaviors in these
-            systems. In doing so, I aim to improve the <b>societal impacts</b>{" "}
-            of language models, while also providing algorithmic insights into{" "}
-            <b>alignment</b> and <b>oversight</b>.
+            systems. In doing so, I aim to improve the societal impacts of
+            language models, while also providing algorithmic insights into
+            alignment and oversight.
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <p
@@ -113,7 +114,7 @@ function Page() {
             }}
           >
             <img
-              src={require("../../Assets/Profile_Bayern.jpg")}
+              src={require("../../assets/Profile_Bayern.jpg")}
               width="75%"
               className="img-fluid"
             />
@@ -130,7 +131,7 @@ function Page() {
           >
             [
             <a
-              href={require("../../Assets/Resume/Curriculum_Vitae.pdf")}
+              href={require("../../assets/resume/Curriculum_Vitae.pdf")}
               target="_blank"
             >
               Curriculum Vitae

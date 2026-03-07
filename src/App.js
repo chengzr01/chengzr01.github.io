@@ -4,6 +4,7 @@ import Home from "./components/pages/Home";
 import Blogs from "./components/pages/Blogs";
 import Publications from "./components/pages/Publications";
 import Misc from "./components/pages/Misc";
+import Pronunciation from "./components/pages/Pronunciation";
 import ScrollToTop from "./components/layout/ScrollToTop";
 import Nav from "react-bootstrap/Nav";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -112,6 +113,7 @@ function App() {
             <Route path="/publications" element={<Publications />} />
             <Route path="/blogs" element={<Blogs />} />
             <Route path="/misc" element={<Misc />} />
+            <Route path="/pronunciation" element={<Pronunciation />} />
             <Route path="*" element={<Navigate to="/home" />} />
           </Routes>
         </div>
