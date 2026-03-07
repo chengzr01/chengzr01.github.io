@@ -7,16 +7,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
 function Page() {
   return (
-    <Container
-      fluid
-      style={{
-        boxSizing: "border-box",
-        paddingTop: "2em",
-        paddingBottom: "2em",
-        width: "80%",
-      }}
-      id="about"
-    >
+    <Container fluid className="page-container" id="about">
       <Row
         style={{
           width: "100%",
@@ -25,15 +16,7 @@ function Page() {
           textAlign: "center",
         }}
       >
-        <p
-          style={{
-            fontSize: "2em",
-            marginBottom: "1em",
-            marginTop: "1em",
-          }}
-        >
-          Zirui Cheng
-        </p>
+        <h1 style={{ paddingTop: "0.5em", paddingBottom: "0.5em" }}>Zirui Cheng</h1>
 
         <Col md={9} style={{ textAlign: "left" }}>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -61,15 +44,7 @@ function Page() {
             alignment and oversight.
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Recent Work
-          </p>
+          <h2 className="section-title">Recent Work</h2>
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>

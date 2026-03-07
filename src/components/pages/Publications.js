@@ -3,27 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function Publications() {
   return (
-    <Container
-      fluid
-      style={{
-        boxSizing: "border-box",
-        paddingTop: "2em",
-        paddingBottom: "2em",
-        width: "80%",
-      }}
-      id="publications"
-    >
+    <Container fluid className="page-container" id="publications">
       <Row>
         <Col md={12} style={{ textAlign: "left" }}>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Publications
-          </p>
+          <h2 className="section-title">Publications</h2>
           {/* <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             <i>Preprints</i>
           </p>

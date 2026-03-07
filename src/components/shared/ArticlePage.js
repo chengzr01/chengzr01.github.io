@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ReactMarkdown from "react-markdown";
+import "./ArticlePage.css";
 
 function ArticlePage({ src }) {
   const [markdown, setMarkdown] = useState("");
@@ -12,18 +13,12 @@ function ArticlePage({ src }) {
   }, [src]);
 
   return (
-    <Container
-      fluid
-      style={{
-        boxSizing: "border-box",
-        paddingTop: "2em",
-        paddingBottom: "2em",
-        width: "80%",
-      }}
-    >
+    <Container fluid className="page-container">
       <Row>
         <Col md={12} style={{ textAlign: "left" }}>
-          <ReactMarkdown>{markdown}</ReactMarkdown>
+          <div className="markdown-body">
+            <ReactMarkdown>{markdown}</ReactMarkdown>
+          </div>
         </Col>
       </Row>
     </Container>

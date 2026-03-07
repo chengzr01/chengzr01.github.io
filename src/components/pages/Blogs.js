@@ -3,27 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function Blogs() {
   return (
-    <Container
-      fluid
-      style={{
-        boxSizing: "border-box",
-        paddingTop: "2em",
-        paddingBottom: "2em",
-        width: "80%",
-      }}
-      id="blogs"
-    >
+    <Container fluid className="page-container" id="blogs">
       <Row>
         <Col md={12} style={{ textAlign: "left" }}>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Blogs
-          </p>
+          <h2 className="section-title">Blogs</h2>
           <ul>
             <li>
               <b>Mechanism Design for Human-AI Alignment</b> [

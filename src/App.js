@@ -43,6 +43,7 @@ function App() {
             padding: "0.5em 1em",
             boxShadow: isScrolled ? "0 1px 1px rgba(0, 0, 0, 0.1)" : "none",
             transition: "box-shadow 0.3s ease",
+            textTransform: "uppercase",
           }}
         >
           <div>Zirui Cheng</div>

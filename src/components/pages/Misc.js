@@ -4,28 +4,11 @@ import PhotoCard from "../shared/PhotoCard";
 
 function Misc() {
   return (
-    <Container
-      fluid
-      style={{
-        boxSizing: "border-box",
-        paddingTop: "2em",
-        paddingBottom: "2em",
-        width: "80%",
-      }}
-      id="misc"
-    >
+    <Container fluid className="page-container" id="misc">
       <Row>
         <Col md={12} style={{ textAlign: "left" }}>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Teaching
-          </p>
+          <h2 className="section-title">Teaching</h2>
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -46,15 +29,7 @@ function Misc() {
       </Row>
       <Row>
         <Col md={12} style={{ textAlign: "left" }}>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Personal
-          </p>
+          <h2 className="section-title">Personal</h2>
           <ul>
             <li>My name is pronounced as [tsɿʐui tʂʰəŋ].</li>
             <li>I speak Chinese, English, and German.</li>
@@ -63,15 +38,7 @@ function Misc() {
       </Row>
       <Row>
         <Col md={12}>
-          <p
-            style={{
-              fontSize: "1.5em",
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            Gallery
-          </p>
+          <h2 className="section-title">Gallery</h2>
         </Col>
       </Row>
       <Row>
