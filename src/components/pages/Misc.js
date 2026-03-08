@@ -36,7 +36,14 @@ function Misc() {
               <a href="/#/pronunciation">article</a> explaining the
               pronunciation.
             </li>
-            <li>I speak Chinese, English, and German.</li>
+            <li>
+              I speak Chinese (Standard Mandarin,{" "}
+              <a href="https://en.wikipedia.org/wiki/Wu_Chinese">Wu Dialect</a>,{" "}
+              <a href="https://en.wikipedia.org/wiki/Yue_Chinese">
+                Yue Dialect
+              </a>
+              ), English, and German.
+            </li>
           </ul>
         </Col>
       </Row>
