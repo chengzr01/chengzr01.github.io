@@ -31,7 +31,11 @@ function Misc() {
         <Col md={12} style={{ textAlign: "left" }}>
           <h2 className="section-title">Personal</h2>
           <ul>
-            <li>My name is pronounced as [tsɿʐui tʂʰəŋ].</li>
+            <li>
+              My name is pronounced as [tsɿʐui tʂʰəŋ]. I have an{" "}
+              <a href="/#/pronunciation">article</a> explaining the
+              pronunciation.
+            </li>
             <li>I speak Chinese, English, and German.</li>
           </ul>
         </Col>

@@ -20,9 +20,8 @@ function Page() {
 
         <Col md={9} style={{ textAlign: "left" }}>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            Hi! I am Zirui Cheng (程子睿,{" "}
-            <a href="/#/pronunciation">Pronunciation</a>). I am an M.S. student
-            in Computer Science at the{" "}
+            Hi! I am Zirui Cheng (程子睿). I am an M.S. student in Computer
+            Science at the{" "}
             <a href="https://www.illinois.edu/">
               University of Illinois Urbana-Champaign
             </a>{" "}
