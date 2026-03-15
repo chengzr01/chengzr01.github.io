@@ -105,31 +105,39 @@ function Page() {
           <i style={{ fontSize: "0.75em", color: "lightgray" }}>
             Bayern, Deutschland
           </i>
-          <Row style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></Row>
-          <p
+          <Row
             style={{
               marginBottom: "0.5em",
               marginTop: "0.5em",
             }}
           >
-            [
-            <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
-              Google Scholar
-            </a>
-            ] [<a href={"https://twitter.com/Zirui_Cheng_"}>X</a>] [
-            <a href="https://www.linkedin.com/in/zirui-cheng-044024284/">
-              LinkedIn
-            </a>
-            ]
-          </p>
-          <p
-            style={{
-              marginBottom: "0.5em",
-              marginTop: "0.5em",
-            }}
-          >
-            ziruic4@illinois.edu
-          </p>
+            <p
+              style={{
+                marginBottom: "0.5em",
+                marginTop: "0.5em",
+                textAlign: "center",
+              }}
+            >
+              [
+              <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
+                Google Scholar
+              </a>
+              ] [<a href={"https://twitter.com/Zirui_Cheng_"}>X</a>] [
+              <a href="https://www.linkedin.com/in/zirui-cheng-044024284/">
+                LinkedIn
+              </a>
+              ]
+            </p>
+            <p
+              style={{
+                marginBottom: "0.5em",
+                marginTop: "0.5em",
+                textAlign: "center",
+              }}
+            >
+              ziruic4@illinois.edu
+            </p>
+          </Row>
         </Col>
       </Row>
     </Container>
