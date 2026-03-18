@@ -97,13 +97,13 @@ function Page() {
             }}
           >
             <img
-              src={require("../../assets/Profile_Bayern.jpg")}
+              src={require("../../assets/Profile_Louisiana.jpg")}
               width="75%"
               className="img-fluid"
             />
           </Tilt>
           <i style={{ fontSize: "0.75em", color: "lightgray" }}>
-            Bayern, Deutschland
+            Louisiana, USA
           </i>
           <Row
             style={{
