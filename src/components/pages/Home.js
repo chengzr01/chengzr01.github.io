@@ -33,13 +33,13 @@ function Page() {
             <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My research broadly lies at the intersection of machine learning,
-            natural language processing, economics and computation, and
-            reinforcement learning. Recently, I have been focusing on enabling
-            language models as strategic agents. My research explores the{" "}
-            <b>theoretical foundations</b>, <b>algorithmic approaches</b>, and{" "}
-            <b>societal impacts</b> related to the strategic behaviors in these
-            systems. In doing so, I aim to improve the societal impacts of
+            My research broadly lies at the intersection of{" "}
+            <b>machine learning</b>, <b>economics and computation</b>, and{" "}
+            <b>reinforcement learning</b>. Recently, I have been focusing on
+            enabling language models as strategic agents. My research explores
+            the <b>theoretical foundations</b>, <b>algorithmic approaches</b>,
+            and <b>societal impacts</b> related to the strategic behaviors in
+            these systems. In doing so, I aim to improve the societal impacts of
             language models, while also providing algorithmic insights into
             alignment and oversight.
           </p>
