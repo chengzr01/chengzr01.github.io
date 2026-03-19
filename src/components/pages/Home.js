@@ -69,8 +69,6 @@ function Page() {
                 [Code]
               </div>
             </li>
-          </ul>
-          <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>ResearchTown: Simulator of Human Research Community</b>
