@@ -16,7 +16,14 @@ function Page() {
           textAlign: "center",
         }}
       >
-        <h1 style={{ paddingTop: "1em", paddingBottom: "1em" }}>Zirui Cheng</h1>
+        <h1
+          style={{
+            paddingTop: "1em",
+            paddingBottom: "1em",
+          }}
+        >
+          ZIRUI CHENG
+        </h1>
 
         <Col md={9} style={{ textAlign: "left" }}>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -35,13 +42,13 @@ function Page() {
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research broadly lies at the intersection of{" "}
             <b>machine learning</b>, <b>economics and computation</b>, and{" "}
-            <b>reinforcement learning</b>. Recently, I have been focusing on
-            enabling language models as strategic agents. My research explores
-            the <b>theoretical foundations</b>, <b>algorithmic approaches</b>,
-            and <b>societal impacts</b> related to the strategic behaviors in
-            these systems. In doing so, I aim to improve the societal impacts of
-            language models, while also providing algorithmic insights into
-            alignment and oversight.
+            <b>natural language processing</b>. Recently, I have been focusing
+            on enabling language models as strategic agents. My research
+            explores the <b>theoretical foundations</b>,{" "}
+            <b>algorithmic approaches</b>, and <b>societal impacts</b> related
+            to the strategic behaviors in these systems. In doing so, I aim to
+            improve the societal impacts of language models, while also
+            providing algorithmic insights into alignment and oversight.
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <h2 className="section-title">Recent Updates</h2>
