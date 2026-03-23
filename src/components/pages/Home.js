@@ -45,7 +45,7 @@ function Page() {
             <b>natural language processing</b>. Recently, I have been focusing
             on enabling language models as strategic agents. My research
             explores the <b>theoretical foundations</b>,{" "}
-            <b>algorithmic approaches</b>, and <b>societal impacts</b> related
+            <b>algorithmic mechanisms</b>, and <b>societal impacts</b> related
             to the strategic behaviors in these systems. In doing so, I aim to
             improve the societal impacts of language models, while also
             providing algorithmic insights into alignment and oversight.
