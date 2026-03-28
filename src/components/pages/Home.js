@@ -28,34 +28,29 @@ function Page() {
         <Col md={9} style={{ textAlign: "left" }}>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             Hi! I am Zirui Cheng (程子睿). I am an M.S. student in Computer
-            Science at the{" "}
-            <a href="https://www.illinois.edu/">
-              University of Illinois Urbana-Champaign
-            </a>{" "}
-            (UIUC), starting from 2024 Fall. I have been fortunate to work with
-            Prof. Hao Peng at UIUC. I have also been a visiting student at{" "}
-            <a href="https://www.princeton.edu/">Princeton University</a>,
-            working with Prof. Peter Henderson. Previously, I completed my
-            undergraduate studies in Computer Science and Economics at{" "}
-            <a href={"https://www.tsinghua.edu.cn/"}>Tsinghua University</a>.
+            Science at the University of Illinois Urbana-Champaign (UIUC),
+            starting from 2024 Fall. I have been fortunate to work with Prof.
+            Hao Peng at UIUC. I have also been a visiting student at Princeton
+            University, working with Prof. Peter Henderson. Previously, I
+            completed my undergraduate studies in Computer Science and Economics
+            at Tsinghua University.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My research broadly lies at the intersection of{" "}
-            <b>machine learning</b>, <b>economics and computation</b>, and{" "}
-            <b>natural language processing</b>. Recently, I have been focusing
-            on enabling language models as strategic agents. My research
-            explores the <b>theoretical foundations</b>,{" "}
-            <b>algorithmic mechanisms</b>, and <b>societal impacts</b> related
-            to the strategic behaviors in these systems. In doing so, I aim to
-            improve the societal impacts of language models, while also
-            providing algorithmic insights into alignment and oversight.
+            My interest broadly lies at the intersection of machine learning,
+            economics and computation, and natural language processing.
+            Recently, I have been focusing on enabling language models as
+            strategic agents. My research explores the theoretical foundations,
+            algorithmic mechanisms, and societal impacts related to the
+            strategic behaviors in these systems. In doing so, I aim to improve
+            the societal impacts of language models, while also providing
+            algorithmic insights into alignment and oversight.
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
           <h2 className="section-title">Recent Updates</h2>
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                I will attend ICLR 2026 in Rio de Janeiro, Brazil 🇧🇷.
+                I will attend ICLR 2026 in Rio de Janeiro, Brazil.
               </div>
             </li>
           </ul>
