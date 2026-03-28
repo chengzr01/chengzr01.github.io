@@ -71,22 +71,6 @@ function Page() {
                 [Code]
               </div>
             </li>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>ResearchTown: Simulator of Human Research Community</b>
-                <br />
-                Haofei Yu*, Zhaochen Hong*,{" "}
-                <u>
-                  <b>Zirui Cheng</b>
-                </u>
-                *, Kunlun Zhu*, Keyang Xuan, Jinwei Yao, Tao Feng, Jiaxuan You.
-                <br />
-                <b>ICML 2025</b> – Forty-second International Conference on
-                Machine Learning.
-                <br />[<a href="https://arxiv.org/abs/2412.17767">arXiv</a>] [
-                <a href="https://github.com/ulab-uiuc/research-town">Code</a>]
-              </div>
-            </li>
           </ul>
         </Col>
         <Col md={3} style={{ textAlign: "center" }}>
