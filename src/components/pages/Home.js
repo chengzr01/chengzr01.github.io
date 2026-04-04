@@ -28,12 +28,16 @@ function Page() {
         <Col md={9} style={{ textAlign: "left" }}>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             Hi! I am Zirui Cheng (程子睿). I am an M.S. student in Computer
-            Science at the University of Illinois Urbana-Champaign (UIUC),
-            starting from 2024 Fall. I have been fortunate to work with Prof.
-            Hao Peng at UIUC. I have also been a visiting student at Princeton
-            University, working with Prof. Peter Henderson. Previously, I
-            completed my undergraduate studies in Computer Science and Economics
-            at Tsinghua University.
+            Science at the{" "}
+            <a href="https://illinois.edu">
+              University of Illinois Urbana-Champaign
+            </a>{" "}
+            (UIUC), starting from 2024 Fall. I have been fortunate to work with
+            Prof. Hao Peng at UIUC. I have also been a visiting student at{" "}
+            <a href="https://www.princeton.edu">Princeton University</a>,
+            working with Prof. Peter Henderson. Previously, I completed my
+            undergraduate studies in Computer Science and Economics at{" "}
+            <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My interest broadly lies at the intersection of machine learning,
@@ -68,7 +72,6 @@ function Page() {
                 <b>ICLR 2026</b> – Fourteenth International Conference on
                 Learning Representations.
                 <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
-                [Code]
               </div>
             </li>
           </ul>
