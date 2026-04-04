@@ -41,7 +41,7 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My interest broadly lies at the intersection of machine learning,
-            economics and computation, and natural language processing.
+            natural language processing, and economics and computation.
             Recently, I have been focusing on enabling language models as
             strategic agents. My research explores the theoretical foundations,
             algorithmic mechanisms, and societal impacts related to the
