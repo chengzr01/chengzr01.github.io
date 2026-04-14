@@ -28,26 +28,6 @@ function Misc() {
         </Col>
       </Row>
       <Row>
-        <Col md={12} style={{ textAlign: "left" }}>
-          <h2 className="section-title">Personal</h2>
-          <ul>
-            <li>
-              My name is pronounced as [tsɿʐui tʂʰəŋ]. I have an{" "}
-              <a href="/#/pronunciation">article</a> explaining the
-              pronunciation.
-            </li>
-            <li>
-              I speak Chinese (Standard Mandarin,{" "}
-              <a href="https://en.wikipedia.org/wiki/Wu_Chinese">Wu Dialect</a>,{" "}
-              <a href="https://en.wikipedia.org/wiki/Yue_Chinese">
-                Yue Dialect
-              </a>
-              ), English, and German.
-            </li>
-          </ul>
-        </Col>
-      </Row>
-      <Row>
         <Col md={12}>
           <h2 className="section-title">Gallery</h2>
         </Col>
@@ -100,6 +80,26 @@ function Misc() {
             url={require("../../assets/misc/Geneva.jpg")}
             description="Geneva, Switzerland"
           />
+        </Col>
+      </Row>
+      <Row>
+        <Col md={12} style={{ textAlign: "left" }}>
+          <h2 className="section-title">Personal</h2>
+          <ul>
+            <li>
+              My name is pronounced as [tsɿʐui tʂʰəŋ]. I have an{" "}
+              <a href="/#/pronunciation">article</a> explaining the
+              pronunciation.
+            </li>
+            <li>
+              I speak Chinese (Standard Mandarin,{" "}
+              <a href="https://en.wikipedia.org/wiki/Wu_Chinese">Wu Dialect</a>,{" "}
+              <a href="https://en.wikipedia.org/wiki/Yue_Chinese">
+                Yue Dialect
+              </a>
+              ), English, and German.
+            </li>
+          </ul>
         </Col>
       </Row>
     </Container>
