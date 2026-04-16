@@ -54,7 +54,13 @@ function Page() {
           <ul>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                I will attend ICLR 2026 in Rio de Janeiro, Brazil.
+                I will be joining Princeton University as a Ph.D. student in
+                Computer Science in Fall 2026.
+              </div>
+            </li>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                I will be attending ICLR 2026 in Rio de Janeiro, Brazil.
               </div>
             </li>
           </ul>
