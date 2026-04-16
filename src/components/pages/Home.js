@@ -44,7 +44,7 @@ function Page() {
             natural language processing, and economics and computation.
             Recently, I have been focusing on enabling language models as
             strategic agents. My research explores the theoretical foundations,
-            algorithmic solutions, and societal impacts related to the strategic
+            algorithmic methods, and societal impacts related to the strategic
             behaviors in these systems. In doing so, I aim to improve the
             societal impacts of language models, while also providing
             algorithmic insights into alignment and oversight.
