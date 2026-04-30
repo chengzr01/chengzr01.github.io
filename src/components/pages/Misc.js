@@ -69,8 +69,8 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../assets/misc/Suzhou.jpg")}
-            description="Suzhou, China"
+            url={require("../../assets/misc/Chicago.png")}
+            description="Chicago, USA"
           />
         </Col>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
