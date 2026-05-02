@@ -61,7 +61,7 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../assets/misc/Paris.png")}
+            url={require("../../assets/misc/Paris.jpg")}
             description="Paris, France"
           />
         </Col>
@@ -77,8 +77,8 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../assets/misc/Geneva.jpg")}
-            description="Geneva, Switzerland"
+            url={require("../../assets/misc/Portland.jpg")}
+            description="Portland, USA"
           />
         </Col>
       </Row>
