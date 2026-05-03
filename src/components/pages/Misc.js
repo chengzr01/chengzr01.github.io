@@ -45,16 +45,8 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../assets/misc/Alajuela.jpg")}
-            description="Alajuela, Costa Rica"
-          />
-        </Col>
-        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
-          <PhotoCard
-            width="360px"
-            height="240px"
-            url={require("../../assets/misc/Munich.jpg")}
-            description="Munich, Germany"
+            url={require("../../assets/misc/Chicago.png")}
+            description="Chicago, USA"
           />
         </Col>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
@@ -69,16 +61,24 @@ function Misc() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../assets/misc/Chicago.png")}
-            description="Chicago, USA"
+            url={require("../../assets/misc/Portland.jpg")}
+            description="Portland, USA"
           />
         </Col>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../assets/misc/Portland.jpg")}
-            description="Portland, USA"
+            url={require("../../assets/misc/Alajuela.jpg")}
+            description="Alajuela, Costa Rica"
+          />
+        </Col>
+        <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
+          <PhotoCard
+            width="360px"
+            height="240px"
+            url={require("../../assets/misc/Munich.jpg")}
+            description="Munich, Germany"
           />
         </Col>
       </Row>
