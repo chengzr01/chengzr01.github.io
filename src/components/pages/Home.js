@@ -27,17 +27,17 @@ function Page() {
 
         <Col md={9} style={{ textAlign: "left" }}>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            Hi! I am Zirui Cheng (程子睿). I am an M.S. student in Computer
-            Science at the{" "}
+            Hi! I'm Zirui Cheng (程子睿), an incoming Ph.D. student in Computer
+            Science at{" "}
+            <a href="https://www.princeton.edu">Princeton University</a>,
+            starting from 2026 Fall. Previously, I received my B.Eng. in
+            Computer Science and Economics at{" "}
+            <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, and
+            my M.S. in Computer Science at the{" "}
             <a href="https://illinois.edu">
               University of Illinois Urbana-Champaign
-            </a>{" "}
-            (UIUC), starting from 2024 Fall. I have been fortunate to work with
-            Prof. Hao Peng at UIUC. I have also been a visiting student at{" "}
-            <a href="https://www.princeton.edu">Princeton University</a>,
-            working with Prof. Peter Henderson. Previously, I completed my
-            undergraduate studies in Computer Science and Economics at{" "}
-            <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>.
+            </a>
+            .
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My interest broadly lies at the intersection of machine learning,
@@ -48,15 +48,6 @@ function Page() {
             related to the strategic behaviors in these systems.
           </p>
           <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
-          <h2 className="section-title">Recent Updates</h2>
-          <ul>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                I will be joining Princeton University as a Ph.D. student in
-                Computer Science in Fall 2026.
-              </div>
-            </li>
-          </ul>
           <h2 className="section-title">Recent Work</h2>
           <ul>
             <li>
@@ -121,7 +112,7 @@ function Page() {
                 textAlign: "center",
               }}
             >
-              ziruic4@illinois.edu
+              zirui.cheng@princeton.edu
             </p>
           </Row>
         </Col>
