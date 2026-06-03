@@ -31,9 +31,9 @@ function Page() {
             Science at{" "}
             <a href="https://www.princeton.edu">Princeton University</a>,
             working with Prof. Peter Henderson. Previously, I received my B.Eng.
-            in Computer Science and Economics at{" "}
+            in Computer Science and Economics from{" "}
             <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, and
-            my M.S. in Computer Science at the{" "}
+            my M.S. in Computer Science from the{" "}
             <a href="https://illinois.edu">
               University of Illinois Urbana-Champaign
             </a>
