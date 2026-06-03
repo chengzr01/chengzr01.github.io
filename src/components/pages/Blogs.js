@@ -11,11 +11,11 @@ function Blogs() {
             <li>
               <b>Mechanism Design for Human-AI Alignment</b> [
               <a
-                href={require("../../assets/projects/cheng2025mechanism.pdf")}
+                href={require("../../assets/paper/cheng2025mechanism.pdf")}
                 target="_blank"
                 rel="noreferrer"
               >
-                File
+                paper
               </a>
               ] <br />{" "}
               <i>

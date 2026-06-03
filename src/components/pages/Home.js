@@ -30,8 +30,8 @@ function Page() {
             Hi! I'm Zirui Cheng (程子睿), an incoming Ph.D. student in Computer
             Science at{" "}
             <a href="https://www.princeton.edu">Princeton University</a>,
-            starting from 2026 Fall. Previously, I received my B.Eng. in
-            Computer Science and Economics at{" "}
+            working with Prof. Peter Henderson. Previously, I received my B.Eng.
+            in Computer Science and Economics at{" "}
             <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, and
             my M.S. in Computer Science at the{" "}
             <a href="https://illinois.edu">
@@ -40,16 +40,66 @@ function Page() {
             .
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My interest broadly lies at the intersection of machine learning,
-            natural language processing, and economics and computation.
-            Recently, I have been focusing on enabling language models as
-            strategic agents for science and society. My research explores the
-            theoretical foundations, algorithmic methods, and societal impacts
-            related to the strategic behaviors in these systems.
+            My research interest lies in <b>machine learning</b>,{" "}
+            <b>economics and computation</b>, and{" "}
+            <b>natural language processing</b>. I have been focusing on enabling
+            language models as strategic agents for society and science. My
+            research explores the theoretical foundations, algorithmic methods,
+            and societal impacts related to the strategic behaviors in these
+            systems.
           </p>
-          <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}></div>
+          <div style={{ marginBottom: "1em", marginTop: "1em" }}></div>
           <h2 className="section-title">Recent Work</h2>
           <ul>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>
+                  Using Cognitive Models to Improve Language Model Simulation of
+                  Human Persuasion Games
+                </b>
+                <br />
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                * , Zeyu Shen*, Thomas L. Griffiths, and Peter Henderson.
+                <br />
+                <i>Preprint</i>.
+                <br /> [
+                <a
+                  href={require("../../assets/paper/cheng2026cognitive.pdf")}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  paper
+                </a>
+                ] [
+                <a href="https://github.com/chengzr01/persuasion-gym">code</a>]
+              </div>
+            </li>
+            <li>
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+                <b>
+                  Rhetorical Misalignment: Unintended Exploitation of Cognitive
+                  Biases by Language Models
+                </b>
+                <br />
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                , Joey Chan, Simo Du, Chenhao Tan, Yue Guo, Hao Peng.
+                <br />
+                <i>Preprint</i>.
+                <br /> [
+                <a
+                  href={require("../../assets/paper/cheng2026rhetorical.pdf")}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  paper
+                </a>
+                ]
+              </div>
+            </li>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>Towards Strategic Persuasion with Language Models</b>
@@ -59,9 +109,20 @@ function Page() {
                 </u>
                 , Jiaxuan You.
                 <br />
-                <b>ICLR 2026</b> – Fourteenth International Conference on
-                Learning Representations.
-                <br />[<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
+                <i>
+                  ICLR 2026 – Fourteenth International Conference on Learning
+                  Representations
+                </i>
+                .
+                <br />[
+                <a
+                  href={require("../../assets/paper/cheng2025mechanism.pdf")}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  paper
+                </a>
+                ] [<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
               </div>
             </li>
           </ul>
@@ -79,9 +140,9 @@ function Page() {
               className="img-fluid"
             />
           </Tilt>
-          <i style={{ fontSize: "0.75em", color: "lightgray" }}>
+          {/* <i style={{ fontSize: "0.75em", color: "lightgray" }}>
             Louisiana, USA
-          </i>
+          </i> */}
           <Row
             style={{
               marginBottom: "0.5em",
