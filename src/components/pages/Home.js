@@ -61,7 +61,7 @@ function Page() {
                 <u>
                   <b>Zirui Cheng</b>
                 </u>
-                * , Zeyu Shen*, Thomas L. Griffiths, and Peter Henderson.
+                *, Zeyu Shen*, Thomas L. Griffiths, and Peter Henderson.
                 <br />
                 <i>Preprint</i>.
                 <br /> [
