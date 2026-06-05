@@ -42,11 +42,10 @@ function Page() {
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interest lies in <b>machine learning</b>,{" "}
             <b>economics and computation</b>, and{" "}
-            <b>natural language processing</b>. I have been focusing on enabling
-            language models as strategic agents for society and science. My
-            research explores the theoretical foundations, algorithmic methods,
-            and societal impacts related to the strategic behaviors in these
-            systems.
+            <b>natural language processing</b>. I study language models as
+            strategic agents for society and science. My research explores the
+            theoretical foundations, algorithmic methods, and societal impacts
+            related to the strategic behaviors in these systems.
           </p>
           <div style={{ marginBottom: "1em", marginTop: "1em" }}></div>
           <h2 className="section-title">Recent Work</h2>
