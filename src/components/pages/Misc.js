@@ -11,18 +11,14 @@ function Misc() {
           <h2 className="section-title">Teaching</h2>
           <ul>
             <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>Software Design Lab</b>, University of Illinois at
-                Urbana-Champaign [
-                <a href="https://cs222-uiuc.pages.dev/">Website</a>]
-              </div>
+              <b>Software Design Lab</b>, University of Illinois at
+              Urbana-Champaign [
+              <a href="https://cs222-uiuc.pages.dev/">Website</a>]
             </li>
             <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>Deep Learning with Graphs</b>, University of Illinois at
-                Urbana-Champaign [
-                <a href="https://ulab-uiuc.github.io/CS598/">Website</a>]
-              </div>
+              <b>Deep Learning with Graphs</b>, University of Illinois at
+              Urbana-Champaign [
+              <a href="https://ulab-uiuc.github.io/CS598/">Website</a>]
             </li>
           </ul>
         </Col>
@@ -91,14 +87,7 @@ function Misc() {
               <a href="/#/pronunciation">article</a> explaining the
               pronunciation.
             </li>
-            <li>
-              I speak Chinese (Standard Mandarin,{" "}
-              <a href="https://en.wikipedia.org/wiki/Wu_Chinese">Wu Dialect</a>,{" "}
-              <a href="https://en.wikipedia.org/wiki/Yue_Chinese">
-                Yue Dialect
-              </a>
-              ), English, and German.
-            </li>
+            <li>I speak Chinese, English, and German.</li>
           </ul>
         </Col>
       </Row>

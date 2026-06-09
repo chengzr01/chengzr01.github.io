@@ -143,9 +143,6 @@ function Page() {
               className="img-fluid"
             />
           </Tilt>
-          {/* <i style={{ fontSize: "0.75em", color: "lightgray" }}>
-            Louisiana, USA
-          </i> */}
           <Row
             style={{
               marginBottom: "0.5em",
