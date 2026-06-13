@@ -63,7 +63,8 @@ function Page() {
                 *, Zeyu Shen*, Thomas L. Griffiths, and Peter Henderson.
                 <br />
                 <i>Preprint</i>.
-                <br /> [
+                <br />
+                {/* [
                 <a
                   href={require("../../assets/paper/cheng2026cognitive.pdf")}
                   target="_blank"
@@ -71,8 +72,8 @@ function Page() {
                 >
                   paper
                 </a>
-                ] [
-                <a href="https://github.com/chengzr01/persuasion-gym">code</a>]
+                ]  */}
+                [<a href="https://github.com/chengzr01/persuasion-gym">code</a>]
               </div>
             </li>
             <li>
@@ -88,7 +89,8 @@ function Page() {
                 , Joey Chan, Simo Du, Chenhao Tan, Yue Guo, Hao Peng.
                 <br />
                 <i>Preprint</i>.
-                <br /> [
+                <br />
+                {/* [
                 <a
                   href={require("../../assets/paper/cheng2026rhetorical.pdf")}
                   target="_blank"
@@ -96,7 +98,8 @@ function Page() {
                 >
                   paper
                 </a>
-                ] [
+                ]  */}
+                [
                 <a href="https://github.com/chengzr01/rhetorical-misalignment">
                   code
                 </a>
