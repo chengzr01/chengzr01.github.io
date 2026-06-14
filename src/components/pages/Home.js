@@ -72,8 +72,9 @@ function Page() {
                 >
                   paper
                 </a>
-                ]  */}
-                [<a href="https://github.com/chengzr01/persuasion-gym">code</a>]
+                ]  */}{" "}
+                [arXiv] [
+                <a href="https://github.com/chengzr01/persuasion-gym">code</a>]
               </div>
             </li>
             <li>
@@ -98,8 +99,8 @@ function Page() {
                 >
                   paper
                 </a>
-                ]  */}
-                [
+                ]  */}{" "}
+                [arXiv] [
                 <a href="https://github.com/chengzr01/rhetorical-misalignment">
                   code
                 </a>
@@ -120,15 +121,7 @@ function Page() {
                   Representations
                 </i>
                 .
-                <br />[
-                <a
-                  href={require("../../assets/paper/cheng2025mechanism.pdf")}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  paper
-                </a>
-                ] [<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
+                <br /> [<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
               </div>
             </li>
           </ul>
