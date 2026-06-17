@@ -63,18 +63,13 @@ function Page() {
                 *, Zeyu Shen*, Thomas L. Griffiths, and Peter Henderson.
                 <br />
                 <i>Preprint</i>.
-                <br />
-                {/* [
-                <a
-                  href={require("../../assets/paper/cheng2026cognitive.pdf")}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  paper
-                </a>
-                ]  */}{" "}
-                [arXiv] [
+                <br />[<a href="https://arxiv.org/abs/2606.17657">arXiv</a>] [
                 <a href="https://github.com/chengzr01/persuasion-gym">code</a>]
+                [
+                <a href="https://princeton-polaris-lab.github.io/persuasion-webpage/index.html">
+                  website
+                </a>
+                ]
               </div>
             </li>
             <li>
