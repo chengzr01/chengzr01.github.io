@@ -72,7 +72,7 @@ function Page() {
                 ]
               </div>
             </li>
-            {/* <li>
+            <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>
                   Rhetorical Misalignment: Unintended Exploitation of Cognitive
@@ -85,14 +85,21 @@ function Page() {
                 , Joey Chan, Simo Du, Chenhao Tan, Yue Guo, Hao Peng.
                 <br />
                 <i>Preprint</i>.
-                <br />
-                [arXiv] [
+                <br />[
+                <a
+                  href={require("../../assets/paper/cheng2026rhetorical.pdf")}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  paper
+                </a>
+                ] [
                 <a href="https://github.com/chengzr01/rhetorical-misalignment">
                   code
                 </a>
                 ]
               </div>
-            </li> */}
+            </li>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>Towards Strategic Persuasion with Language Models</b>
