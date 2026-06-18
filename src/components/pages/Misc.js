@@ -24,11 +24,17 @@ function Misc() {
         </Col>
       </Row>
       <Row>
-        <Col md={12}>
-          <h2 className="section-title">Gallery</h2>
+        <Col md={12} style={{ textAlign: "left" }}>
+          <h2 className="section-title">Personal</h2>
+          <ul>
+            <li>
+              My name is pronounced as [tsɿʐui tʂʰəŋ]. I have an{" "}
+              <a href="/#/pronunciation">article</a> explaining the
+              pronunciation.
+            </li>
+            <li>I speak Chinese, English, and German.</li>
+          </ul>
         </Col>
-      </Row>
-      <Row>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
           <PhotoCard
             width="360px"
@@ -76,19 +82,6 @@ function Misc() {
             url={require("../../assets/misc/Alajuela.jpg")}
             description="Alajuela, Costa Rica"
           />
-        </Col>
-      </Row>
-      <Row>
-        <Col md={12} style={{ textAlign: "left" }}>
-          <h2 className="section-title">Personal</h2>
-          <ul>
-            <li>
-              My name is pronounced as [tsɿʐui tʂʰəŋ]. I have an{" "}
-              <a href="/#/pronunciation">article</a> explaining the
-              pronunciation.
-            </li>
-            <li>I speak Chinese, English, and German.</li>
-          </ul>
         </Col>
       </Row>
     </Container>

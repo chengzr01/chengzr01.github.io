@@ -1,7 +1,5 @@
 # Pronunciation
 
-*March 2026*
-
 My name is **Zirui Cheng** (程子睿). Following the Chinese name order, it is written as Chéng Zǐruì in Pinyin. In Standard Mandarin, the pronunciation may be represented in the International Phonetic Alphabet (IPA) as: **[ʈʂʰəŋ tsɿ ʐui]**. For English speakers, a rough approximation would be something like *Chung Dzrway*, though several sounds in Mandarin differ systematically from their closest English counterparts.
 
 ## The vowel i
