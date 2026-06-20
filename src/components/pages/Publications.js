@@ -28,7 +28,8 @@ function Publications() {
                 </u>
                 , Jiaxuan You.
                 <br />
-                <b>ICLR 2026</b> – Fourteenth International Conference on Learning Representations.
+                <b>ICLR 2026</b> – Fourteenth International Conference on
+                Learning Representations.
               </li>
             </div>
             <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -45,7 +46,7 @@ function Publications() {
             </div>
             <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
               <li>
-                <b>How Far Are We From AGI</b>
+                <b>How Far Are We From AGI: Are LLMs All We Need?</b>
                 <br /> Tao Feng, Chuanyang Jin, Jingyu Liu, Kunlun Zhu, Haoqin
                 Tu,{" "}
                 <u>
