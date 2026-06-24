@@ -11,12 +11,12 @@ function Misc() {
           <h2 className="section-title">Teaching</h2>
           <ul>
             <li>
-              <b>Software Design Lab</b>, University of Illinois at
+              <b>Software Design Lab</b>, University of Illinois
               Urbana-Champaign [
               <a href="https://cs222-uiuc.pages.dev/">Website</a>]
             </li>
             <li>
-              <b>Deep Learning with Graphs</b>, University of Illinois at
+              <b>Deep Learning with Graphs</b>, University of Illinois
               Urbana-Champaign [
               <a href="https://ulab-uiuc.github.io/CS598/">Website</a>]
             </li>
