@@ -30,10 +30,11 @@ function Page() {
             Hi! I'm Zirui Cheng (程子睿), an incoming Ph.D. student in Computer
             Science at{" "}
             <a href="https://www.princeton.edu">Princeton University</a>,
-            working with Prof. Peter Henderson. Previously, I received my B.Eng.
-            in Computer Science and Economics from{" "}
-            <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, and
-            my M.S. in Computer Science from the{" "}
+            working with Prof.{" "}
+            <a href="https://www.peterhenderson.co/">Peter Henderson</a>.
+            Previously, I received my B.Eng. in Computer Science and Economics
+            from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>,
+            and my M.S. in Computer Science from the{" "}
             <a href="https://illinois.edu">
               University of Illinois Urbana-Champaign
             </a>
