@@ -1,6 +1,6 @@
 # Mechanism Design for Human-AI Alignment
 
-Course Project for Algorithmic Game Theory at the University of Illinois Urbana-Champaign, advised by Prof. Ruta Mehta.
+*Course Project for Algorithmic Game Theory at the University of Illinois Urbana-Champaign, advised by Prof. Ruta Mehta, December 2025.*
 
 **Abstract.** Aligning AI models with human objectives is a hard problem, not just because of technical complexity, but because the incentives of AI designers might be misaligned with users. However, we can still benefit from potentially misaligned AI through *mechanism design*. In this essay, I take a game-theoretic perspective to investigate the alignment problem in artificial intelligence, especially in language models. Motivated by empirical research on the scalable oversight problem, I mapped the empirical concepts in alignment research into theoretical frameworks in *information design*. Based on these foundations, I examine theoretical analysis in algorithmic game theory on the mechanism design problem from both single agent and multiple agent perspectives. I use empirical results to validate the analysis from theoretical analysis. Finally, I discuss current limitations and future directions for theoretical work on the research agenda of mechanism design for AI alignment.
 
@@ -114,31 +114,19 @@ or, under bounded rationality, follows a quantal response $\Pr[a \mid s] \propto
 
 > Suppose (i) some agent can reveal sufficient information to induce Alice’s Bayes-optimal action $a^\dagger(\omega)$, and (ii) all agents induce the same distribution over conversation transcripts. Then, in every equilibrium, 
 $$
-\mathbb{E}[u_A(a^*(s),\omega)]
-> \ge
-> \mathbb{E}[u_A(a^\dagger(\omega),\omega)] - O(\varepsilon).
+\mathbb{E}[u_A(a^*(s),\omega)] \ge  \mathbb{E}[u_A(a^\dagger(\omega),\omega)] - O(\varepsilon).
 $$
 Competition forces all agents to mimic the most aligned feasible strategy.
 
 > If Alice follows a quantal response rule and agents use straightforward (belief-encoding) messages, equilibrium performance satisfies 
 $$
-\mathbb{E}[u_A(a^*,\omega)]
-> \ge
-> \mathbb{E}[u_A(a^\dagger(\omega),\omega)]
-> -
-> \varepsilon_{\mathrm{align}}
-> -
-> \varepsilon_{\mathrm{sub}}
-> -
-> \varepsilon_{\mathrm{QR}},
+\mathbb{E}[u_A(a^*,\omega)] \ge \mathbb{E}[u_A(a^\dagger(\omega),\omega)] - \varepsilon_{\mathrm{align}} - \varepsilon_{\mathrm{sub}} - \varepsilon_{\mathrm{QR}},
 $$
 where the error terms arise from approximate alignment, imperfect information substitutability, and bounded rationality, respectively.
 
 > In a variant where Alice selects the best-performing agent over a distribution of tasks, competition alone guarantees 
 $$
-\max_i \mathbb{E}[u_A(a_i^*,\omega)]
-> \approx
-> \mathbb{E}[u_A(a^\dagger(\omega),\omega)],
+\max_i \mathbb{E}[u_A(a_i^*,\omega)] \approx \mathbb{E}[u_A(a^\dagger(\omega),\omega)],
 $$
 without assumptions on information substitutability or transcript similarity.
 
