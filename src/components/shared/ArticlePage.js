@@ -1,7 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ReactMarkdown from "react-markdown";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
 import { useNavigate } from "react-router-dom";
+import "katex/dist/katex.min.css";
 import "./ArticlePage.css";
 
 function ArticlePage({ src }) {
@@ -19,7 +22,12 @@ function ArticlePage({ src }) {
       <Row>
         <Col md={12} style={{ textAlign: "left" }}>
           <div className="markdown-body">
-            <ReactMarkdown>{markdown}</ReactMarkdown>
+            <ReactMarkdown
+              remarkPlugins={[remarkMath]}
+              rehypePlugins={[rehypeKatex]}
+            >
+              {markdown}
+            </ReactMarkdown>
             <button
               type="button"
               className="article-back-link"
