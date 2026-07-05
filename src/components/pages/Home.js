@@ -32,13 +32,12 @@ function Page() {
             <a href="https://www.princeton.edu">Princeton University</a>,
             working with Prof.{" "}
             <a href="https://www.peterhenderson.co/">Peter Henderson</a>.
-            Previously, I received my B.Eng. in Computer Science and Economics
-            from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>,
-            and my M.S. in Computer Science from the{" "}
+            Previously, I received an M.S. in Computer Science from the{" "}
             <a href="https://illinois.edu">
               University of Illinois Urbana-Champaign
             </a>
-            .
+            , a B.Eng. in Computer Science and a B.Econ. in Economics from{" "}
+            <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interest lies in <b>machine learning</b>,{" "}
