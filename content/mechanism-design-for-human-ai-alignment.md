@@ -1,6 +1,6 @@
 # Mechanism Design for Human-AI Alignment
 
-[[paper](/assets/paper/cheng2025mechanism.pdf)]
+Course Project for Algorithmic Game Theory at the University of Illinois Urbana-Champaign, advised by Prof. Ruta Mehta.
 
 **Abstract.** Aligning AI models with human objectives is a hard problem, not just because of technical complexity, but because the incentives of AI designers might be misaligned with users. However, we can still benefit from potentially misaligned AI through *mechanism design*. In this essay, I take a game-theoretic perspective to investigate the alignment problem in artificial intelligence, especially in language models. Motivated by empirical research on the scalable oversight problem, I mapped the empirical concepts in alignment research into theoretical frameworks in *information design*. Based on these foundations, I examine theoretical analysis in algorithmic game theory on the mechanism design problem from both single agent and multiple agent perspectives. I use empirical results to validate the analysis from theoretical analysis. Finally, I discuss current limitations and future directions for theoretical work on the research agenda of mechanism design for AI alignment.
 
