@@ -20,4 +20,4 @@ Mandarin distinguishes two sets of sibilant consonants that differ primarily in 
 
 ## References & Acknowledgment
 
-If you are interested, I recommend reading the pronunciation rules of Mandarin [vowels](/materials/vowel.html) and [consonants](/materials/consonant.html). These resources are adapted from Prof. [Dun Deng](https://www.chi.cuhk.edu.hk/en/profile/prof-deng-dun/), formerly of Tsinghua University.
+If you are interested, I would recommend reading the pronunciation rules of Mandarin [vowels](/materials/vowel.html) and [consonants](/materials/consonant.html). These resources are adapted from Prof. [Dun Deng](https://www.chi.cuhk.edu.hk/en/profile/prof-deng-dun/), formerly of Tsinghua University.

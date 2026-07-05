@@ -17,11 +17,7 @@ function Blogs() {
               >
                 paper
               </a>
-              ] <br />{" "}
-              <i>
-                Course Project for Algorithmic Game Theory, 2025 Fall. Advised
-                by Prof. Ruta Mehta.
-              </i>{" "}
+              ] <br /> <i>December 2025.</i>
             </li>
           </ul>
         </Col>

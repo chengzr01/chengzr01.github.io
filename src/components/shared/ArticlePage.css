@@ -98,3 +98,22 @@
   max-width: 100%;
   height: auto;
 }
+
+.article-back-link {
+  margin-top: 2em;
+  align-self: flex-start;
+  background: none;
+  border: none;
+  padding: 0;
+  color: #00a;
+  font-size: 1em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  cursor: pointer;
+}
+
+.article-back-link:hover,
+.article-back-link:focus {
+  text-decoration: underline;
+}
