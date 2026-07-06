@@ -1,6 +1,7 @@
 # Mechanism Design for Human-AI Alignment
 
-*Course Project for Algorithmic Game Theory at the University of Illinois Urbana-Champaign, advised by Prof. Ruta Mehta, December 2025.*
+*Zirui Cheng, December 2025.*
+*Course Project for Algorithmic Game Theory, advised by Prof. Ruta Mehta.*
 
 **Abstract.** Aligning AI models with human objectives is a hard problem, not just because of technical complexity, but because the incentives of AI designers might be misaligned with users. However, we can still benefit from potentially misaligned AI through *mechanism design*. In this essay, I take a game-theoretic perspective to investigate the alignment problem in artificial intelligence, especially in language models. Motivated by empirical research on the scalable oversight problem, I mapped the empirical concepts in alignment research into theoretical frameworks in *information design*. Based on these foundations, I examine theoretical analysis in algorithmic game theory on the mechanism design problem from both single agent and multiple agent perspectives. I use empirical results to validate the analysis from theoretical analysis. Finally, I discuss current limitations and future directions for theoretical work on the research agenda of mechanism design for AI alignment.
 
@@ -145,6 +146,8 @@ Recent work \[8, 9\] studies agreement protocols in which cooperative agents it
 ## Commitment Power
 
 The analysis of \[8\] relies on full commitment to conversation rules, a strong assumption in practical AI systems. Without commitment, communication resembles cheap talk, where equilibria are typically less informative \[10\]. An important direction for future work is to characterize when competitive pressures can still discipline communication in the absence of commitment, and how minimal commitment devices (e.g., verifiable protocols, repeated interaction, or auditability) can restore informative equilibria. More broadly, developing models that interpolate between Bayesian persuasion and cheap talk is essential for a realistic theory of alignment.
+
+Please feel free to reach out if you want to have any thoughts!
 
 # References
 1\. S. R. Bowman, J. Hyun, E. Perez, E. Chen, C. Pettit, S. Heiner, et al. “Measuring Progress on Scalable Oversight for Large Language Models.” arXiv (2022) <https://doi.org/10.48550/arXiv.2211.03540>
