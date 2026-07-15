@@ -7,16 +7,8 @@ function Publications() {
       <Row>
         <Col md={12} style={{ textAlign: "left" }}>
           <h2 className="section-title">Publications</h2>
-          {/* <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <i>Preprints</i>
-          </p>
-          <ul>
-            <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-              
-            </div>
-          </ul> */}
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            <i>Peer-Reviewed Papers</i>
+            <i>Graduate Research</i>
           </p>
           <ul>
             <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
@@ -57,6 +49,11 @@ function Publications() {
                 (10/2024).
               </li>
             </div>
+          </ul>
+          <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
+            <i>Undergraduate Research</i>
+          </p>
+          <ul>
             <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
               <li>
                 <b>
