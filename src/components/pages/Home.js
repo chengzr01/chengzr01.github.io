@@ -72,11 +72,11 @@ function Page() {
                 ]
               </div>
             </li>
-            {/* <li>
+            <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>
-                  Rhetorical Misalignment: Unintended Exploitation of Cognitive
-                  Biases by Language Models
+                  Characterizing Rhetorical Misalignment in Decision-Making with
+                  Language Models
                 </b>
                 <br />
                 <u>
@@ -99,7 +99,7 @@ function Page() {
                 </a>
                 ]
               </div>
-            </li> */}
+            </li>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>Towards Strategic Persuasion with Language Models</b>
