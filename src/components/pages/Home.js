@@ -64,6 +64,14 @@ function Page() {
                 <br />
                 <i>Preprint</i>.
                 <br />[<a href="https://arxiv.org/abs/2606.17657">arXiv</a>] [
+                <a
+                  href={require("../../assets/paper/cheng2026cognitive.pdf")}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  paper
+                </a>
+                ] [
                 <a href="https://github.com/chengzr01/persuasion-gym">code</a>]
                 [
                 <a href="https://princeton-polaris-lab.github.io/persuasion-webpage/index.html">
@@ -114,7 +122,15 @@ function Page() {
                   Representations
                 </i>
                 .
-                <br /> [<a href="https://arxiv.org/abs/2509.22989">arXiv</a>]
+                <br /> [<a href="https://arxiv.org/abs/2509.22989">arXiv</a>] [
+                <a
+                  href={require("../../assets/paper/cheng2026towards.pdf")}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  paper
+                </a>
+                ]
               </div>
             </li>
           </ul>
