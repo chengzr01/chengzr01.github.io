@@ -86,6 +86,14 @@ function Page() {
                 <br />
                 <i>Preprint</i>.
                 <br />[<a>arXiv</a>] [
+                <a
+                  href={require("../../assets/paper/cheng2026rhetorical.pdf")}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  paper
+                </a>
+                ] [
                 <a href="https://github.com/chengzr01/rhetorical-misalignment">
                   code
                 </a>
