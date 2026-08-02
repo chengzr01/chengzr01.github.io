@@ -32,6 +32,13 @@ function Misc() {
               <a href="/#/pronunciation">article</a> explaining the
               pronunciation.
             </li>
+            <li>
+              Before moving to New Jersey, I lived in Illinois in the United
+              States, as well as in{" "}
+              <a href="https://en.wikipedia.org/wiki/Beijing">Beijing</a> and{" "}
+              <a href="https://en.wikipedia.org/wiki/Jiangsu">Jiangsu</a> in
+              China.
+            </li>
             <li>I speak Chinese, English, and German.</li>
           </ul>
         </Col>
