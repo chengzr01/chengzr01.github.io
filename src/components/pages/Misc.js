@@ -28,9 +28,8 @@ function Misc() {
           <h2 className="section-title">Personal</h2>
           <ul>
             <li>
-              My name is pronounced as [tsɿʐui tʂʰəŋ]. I have an{" "}
-              <a href="/#/pronunciation">article</a> explaining the
-              pronunciation.
+              My name is pronounced as{" "}
+              <a href="/#/pronunciation">[tsɿʐui tʂʰəŋ]</a>.
             </li>
             <li>
               Before moving to New Jersey, I lived in Illinois in the United
