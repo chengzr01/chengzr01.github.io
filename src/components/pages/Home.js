@@ -45,7 +45,7 @@ function Page() {
             <b>natural language processing</b>. I study language models as
             strategic agents for society and science. My research explores the
             theoretical foundations, algorithmic methods, and societal impacts
-            related to the strategic behaviors in these systems.
+            related to their strategic behaviors.
           </p>
           <div style={{ marginBottom: "1em", marginTop: "1em" }}></div>
           <h2 className="section-title">Recent Work</h2>
