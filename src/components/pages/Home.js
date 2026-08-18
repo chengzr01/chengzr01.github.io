@@ -93,7 +93,15 @@ function Page() {
                 , Joey Chan, Simo Du, Chenhao Tan, Yue Guo, Hao Peng.
                 <br />
                 <i>Preprint</i>.
-                <br /> [arXiv] [
+                <br /> [
+                <a
+                  href="https://arxiv.org/abs/2608.14630"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  arXiv
+                </a>
+                ] [
                 <a
                   href={require("../../assets/paper/cheng2026rhetorical.pdf")}
                   target="_blank"
