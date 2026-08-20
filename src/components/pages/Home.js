@@ -27,8 +27,7 @@ function Page() {
 
         <Col md={9} style={{ textAlign: "left" }}>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            Hi! I'm Zirui Cheng (程子睿), an incoming Ph.D. student in Computer
-            Science at{" "}
+            Hi! I'm Zirui Cheng (程子睿), a Ph.D. student in Computer Science at{" "}
             <a href="https://www.princeton.edu">Princeton University</a>,
             working with Prof.{" "}
             <a href="https://www.peterhenderson.co/">Peter Henderson</a>.
