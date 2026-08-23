@@ -52,8 +52,8 @@ function Photos() {
           <PhotoCard
             width="360px"
             height="240px"
-            url={require("../../assets/misc/Oregon.png")}
-            description="Portland, USA"
+            url={require("../../assets/misc/London.png")}
+            description="London, UK"
           />
         </Col>
         <Col xs={4} style={{ display: "flex", justifyContent: "center" }}>
