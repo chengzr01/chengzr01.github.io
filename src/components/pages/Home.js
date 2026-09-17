@@ -150,7 +150,7 @@ function Page() {
             }}
           >
             <img
-              src={require("../../assets/Profile_Louisiana.jpg")}
+              src={require("../../assets/Profile_Hamburg.jpg")}
               width="75%"
               className="img-fluid"
             />
