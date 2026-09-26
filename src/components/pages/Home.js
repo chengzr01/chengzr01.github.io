@@ -155,6 +155,9 @@ function Page() {
               className="img-fluid"
             />
           </Tilt>
+          <i style={{ fontSize: "0.75em", color: "gray" }}>
+            Hamburg, Deutschland
+          </i>
           <Row
             style={{
               marginBottom: "0.5em",
@@ -170,7 +173,7 @@ function Page() {
             >
               [
               <a href="https://scholar.google.com/citations?user=tndPyfwAAAAJ&hl=en">
-                Google Scholar
+                Scholar
               </a>
               ] [<a href={"https://twitter.com/Zirui_Cheng_"}>X</a>] [
               <a href="https://www.linkedin.com/in/zirui-cheng-044024284/">
