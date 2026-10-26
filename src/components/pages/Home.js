@@ -40,8 +40,8 @@ function Page() {
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
             My research interest lies in <b>machine learning</b>,{" "}
-            <b>economics and computation</b>, and{" "}
-            <b>natural language processing</b>. I study language models as
+            <b>natural language processing</b>, and{" "}
+            <b>economics and computation</b>. I study language models as
             strategic agents in both societal and scientific settings. My
             research develops theoretical foundations and algorithmic methods
             for understanding and improving their agentic behavior.
