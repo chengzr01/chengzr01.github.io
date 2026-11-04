@@ -39,12 +39,15 @@ function Page() {
             <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>.
           </p>
           <p style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-            My research interest lies in <b>machine learning</b>,{" "}
+            My research interests lie in <b>machine learning</b>,{" "}
             <b>natural language processing</b>, and{" "}
             <b>economics and computation</b>. I study language models as
             strategic agents in both societal and scientific settings. My
             research develops theoretical foundations and algorithmic methods
-            for understanding and improving their agentic behavior.
+            for understanding and improving their agentic behavior. Through my
+            research, I aim to address challenges related to their alignment
+            problems and societal impacts, particularly in law, economics, and
+            politics.
           </p>
           <div style={{ marginBottom: "1em", marginTop: "1em" }}></div>
           <h2 className="section-title">Recent Work</h2>
