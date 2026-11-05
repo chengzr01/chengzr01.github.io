@@ -45,8 +45,8 @@ function Page() {
             strategic agents. My research develops theoretical foundations and
             algorithmic methods for understanding and improving their agentic
             behavior. Through my research, I aim to address challenges related
-            to their alignment problems and societal impacts, particularly in
-            law, economics, and politics.
+            to their societal impacts (e.g., in law, economics, and politics)
+            and alignment problems.
           </p>
           <div style={{ marginBottom: "1em", marginTop: "1em" }}></div>
           <h2 className="section-title">Recent Work</h2>
