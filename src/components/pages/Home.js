@@ -110,10 +110,6 @@ function Page() {
                 >
                   paper
                 </a>
-                ] [
-                <a href="https://github.com/chengzr01/rhetorical-misalignment">
-                  code
-                </a>
                 ]
               </div>
             </li>
