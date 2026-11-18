@@ -84,38 +84,6 @@ function Page() {
             </li>
             <li>
               <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
-                <b>
-                  Characterizing Rhetorical Misalignment in Decision-Making with
-                  Language Models
-                </b>
-                <br />
-                <u>
-                  <b>Zirui Cheng</b>
-                </u>
-                , Joey Chan, Simo Du, Chenhao Tan, Yue Guo, Hao Peng.
-                <br />
-                <i>Preprint</i>.
-                <br /> [
-                <a
-                  href="https://arxiv.org/abs/2608.14630"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  arXiv
-                </a>
-                ] [
-                <a
-                  href={require("../../assets/paper/cheng2026rhetorical.pdf")}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  paper
-                </a>
-                ]
-              </div>
-            </li>
-            <li>
-              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>Towards Strategic Persuasion with Language Models</b>
                 <br />
                 <u>
@@ -154,7 +122,7 @@ function Page() {
               className="img-fluid"
             />
           </Tilt>
-          <i style={{ fontSize: "0.75em", color: "gray" }}>
+          <i style={{ fontSize: "0.75em", color: "lightgray" }}>
             Hamburg, Deutschland
           </i>
           <Row
