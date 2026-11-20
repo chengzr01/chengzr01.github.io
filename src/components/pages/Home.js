@@ -44,7 +44,7 @@ function Page() {
             <b>economics and computation</b>. I study language models as
             strategic agents. My research develops theoretical foundations and
             algorithmic methods for studying their agentic behavior, drawing on
-            insights and approaches from game theory. Through this work, I aim
+            insights and approaches from game theory. Through my research, I aim
             to understand and address the alignment challenges and societal
             impacts of artificial intelligence, particularly in law, economics,
             and politics.
