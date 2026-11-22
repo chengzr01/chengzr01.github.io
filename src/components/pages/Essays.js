@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { Link } from "react-router-dom";
 
 function Essays() {
   return (
@@ -10,10 +9,25 @@ function Essays() {
           <h2 className="section-title">Essays</h2>
           <ul>
             <li>
-              <Link to="/essays/mechanism-design-for-human-ai-alignment">
+              <div style={{ marginBottom: "0.5em", marginTop: "0.5em" }}>
                 <b>Mechanism Design for Human-AI Alignment</b>
-              </Link>{" "}
-              <br /> <i>December 2025.</i>
+                <br />
+                <u>
+                  <b>Zirui Cheng</b>
+                </u>
+                .
+                <br />
+                <i>December 2025.</i>
+                <br />[
+                <a
+                  href={require("../../assets/paper/cheng2025mechanism.pdf")}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  paper
+                </a>
+                ]
+              </div>
             </li>
           </ul>
         </Col>

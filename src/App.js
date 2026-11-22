@@ -5,7 +5,6 @@ import Essays from "./components/pages/Essays";
 import Publications from "./components/pages/Publications";
 import Misc from "./components/pages/Misc";
 import Pronunciation from "./components/pages/Pronunciation";
-import ArticlePage from "./components/shared/ArticlePage";
 import ScrollToTop from "./components/layout/ScrollToTop";
 import Nav from "react-bootstrap/Nav";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -114,14 +113,6 @@ function App() {
             <Route path="/home" element={<Home />} exact />
             <Route path="/publications" element={<Publications />} />
             <Route path="/essays" element={<Essays />} />
-            <Route
-              path="/essays/mechanism-design-for-human-ai-alignment"
-              element={
-                <ArticlePage
-                  src={`${process.env.PUBLIC_URL}/content/mechanism-design-for-human-ai-alignment.md`}
-                />
-              }
-            />
             <Route path="/misc" element={<Misc />} />
             <Route path="/pronunciation" element={<Pronunciation />} />
             <Route path="*" element={<Navigate to="/home" />} />
